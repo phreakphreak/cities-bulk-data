@@ -1,0 +1,9447 @@
+[
+  {
+    "citId": 1,
+    "citName": "Badakhshan",
+    "couId": "AF"
+  },
+  {
+    "citId": 2,
+    "citName": "Baghlan",
+    "couId": "AF"
+  },
+  {
+    "citId": 3,
+    "citName": "Balkh",
+    "couId": "AF"
+  },
+  {
+    "citId": 4,
+    "citName": "Badghis",
+    "couId": "AF"
+  },
+  {
+    "citId": 5,
+    "citName": "Bamyan",
+    "couId": "AF"
+  },
+  {
+    "citId": 6,
+    "citName": "Daykundi",
+    "couId": "AF"
+  },
+  {
+    "citId": 7,
+    "citName": "Farah",
+    "couId": "AF"
+  },
+  {
+    "citId": 8,
+    "citName": "Faryab",
+    "couId": "AF"
+  },
+  {
+    "citId": 9,
+    "citName": "Ghazni",
+    "couId": "AF"
+  },
+  {
+    "citId": 10,
+    "citName": "Ghor",
+    "couId": "AF"
+  },
+  {
+    "citId": 11,
+    "citName": "Helmand",
+    "couId": "AF"
+  },
+  {
+    "citId": 12,
+    "citName": "Herat",
+    "couId": "AF"
+  },
+  {
+    "citId": 13,
+    "citName": "Jowzjan",
+    "couId": "AF"
+  },
+  {
+    "citId": 14,
+    "citName": "Kandahar",
+    "couId": "AF"
+  },
+  {
+    "citId": 15,
+    "citName": "Khost",
+    "couId": "AF"
+  },
+  {
+    "citId": 16,
+    "citName": "Kuna?",
+    "couId": "AF"
+  },
+  {
+    "citId": 17,
+    "citName": "Kunduz",
+    "couId": "AF"
+  },
+  {
+    "citId": 18,
+    "citName": "Kabul",
+    "couId": "AF"
+  },
+  {
+    "citId": 19,
+    "citName": "Kapisa",
+    "couId": "AF"
+  },
+  {
+    "citId": 20,
+    "citName": "Laghman",
+    "couId": "AF"
+  },
+  {
+    "citId": 21,
+    "citName": "Logar",
+    "couId": "AF"
+  },
+  {
+    "citId": 22,
+    "citName": "Nangarhar",
+    "couId": "AF"
+  },
+  {
+    "citId": 23,
+    "citName": "Nimroz",
+    "couId": "AF"
+  },
+  {
+    "citId": 24,
+    "citName": "Nuristan",
+    "couId": "AF"
+  },
+  {
+    "citId": 25,
+    "citName": "Paktiya",
+    "couId": "AF"
+  },
+  {
+    "citId": 26,
+    "citName": "Paktika",
+    "couId": "AF"
+  },
+  {
+    "citId": 27,
+    "citName": "Panjshayr",
+    "couId": "AF"
+  },
+  {
+    "citId": 28,
+    "citName": "Parwan",
+    "couId": "AF"
+  },
+  {
+    "citId": 29,
+    "citName": "Samangan",
+    "couId": "AF"
+  },
+  {
+    "citId": 30,
+    "citName": "Sar-e Pul",
+    "couId": "AF"
+  },
+  {
+    "citId": 31,
+    "citName": "Takhar",
+    "couId": "AF"
+  },
+  {
+    "citId": 32,
+    "citName": "Uruzgan",
+    "couId": "AF"
+  },
+  {
+    "citId": 33,
+    "citName": "Wardak",
+    "couId": "AF"
+  },
+  {
+    "citId": 34,
+    "citName": "Zabul",
+    "couId": "AF"
+  },
+  {
+    "citId": 35,
+    "citName": "Berat",
+    "couId": "AL"
+  },
+  {
+    "citId": 36,
+    "citName": "Dibër",
+    "couId": "AL"
+  },
+  {
+    "citId": 37,
+    "citName": "Durrës",
+    "couId": "AL"
+  },
+  {
+    "citId": 38,
+    "citName": "Elbasan",
+    "couId": "AL"
+  },
+  {
+    "citId": 39,
+    "citName": "Fier",
+    "couId": "AL"
+  },
+  {
+    "citId": 40,
+    "citName": "Gjirokastër",
+    "couId": "AL"
+  },
+  {
+    "citId": 41,
+    "citName": "Korçë",
+    "couId": "AL"
+  },
+  {
+    "citId": 42,
+    "citName": "Kukës",
+    "couId": "AL"
+  },
+  {
+    "citId": 43,
+    "citName": "Lezhë",
+    "couId": "AL"
+  },
+  {
+    "citId": 44,
+    "citName": "Shkodër",
+    "couId": "AL"
+  },
+  {
+    "citId": 45,
+    "citName": "Tiranë",
+    "couId": "AL"
+  },
+  {
+    "citId": 46,
+    "citName": "Vlorë",
+    "couId": "AL"
+  },
+  {
+    "citId": 47,
+    "citName": "Adrar",
+    "couId": "DZ"
+  },
+  {
+    "citId": 48,
+    "citName": "Alger",
+    "couId": "DZ"
+  },
+  {
+    "citId": 49,
+    "citName": "Annaba",
+    "couId": "DZ"
+  },
+  {
+    "citId": 50,
+    "citName": "Aïn Defla",
+    "couId": "DZ"
+  },
+  {
+    "citId": 51,
+    "citName": "Aïn Témouchent",
+    "couId": "DZ"
+  },
+  {
+    "citId": 52,
+    "citName": "Batna",
+    "couId": "DZ"
+  },
+  {
+    "citId": 53,
+    "citName": "Biskra",
+    "couId": "DZ"
+  },
+  {
+    "citId": 54,
+    "citName": "Blida",
+    "couId": "DZ"
+  },
+  {
+    "citId": 55,
+    "citName": "Bordj Bou Arréridj",
+    "couId": "DZ"
+  },
+  {
+    "citId": 56,
+    "citName": "Bouira",
+    "couId": "DZ"
+  },
+  {
+    "citId": 57,
+    "citName": "Boumerdès",
+    "couId": "DZ"
+  },
+  {
+    "citId": 58,
+    "citName": "Béchar",
+    "couId": "DZ"
+  },
+  {
+    "citId": 59,
+    "citName": "Béjaïa",
+    "couId": "DZ"
+  },
+  {
+    "citId": 60,
+    "citName": "Chlef",
+    "couId": "DZ"
+  },
+  {
+    "citId": 61,
+    "citName": "Constantine",
+    "couId": "DZ"
+  },
+  {
+    "citId": 62,
+    "citName": "Djelfa",
+    "couId": "DZ"
+  },
+  {
+    "citId": 63,
+    "citName": "El Bayadh",
+    "couId": "DZ"
+  },
+  {
+    "citId": 64,
+    "citName": "El Oued",
+    "couId": "DZ"
+  },
+  {
+    "citId": 65,
+    "citName": "El Tarf",
+    "couId": "DZ"
+  },
+  {
+    "citId": 66,
+    "citName": "Ghardaïa",
+    "couId": "DZ"
+  },
+  {
+    "citId": 67,
+    "citName": "Guelma",
+    "couId": "DZ"
+  },
+  {
+    "citId": 68,
+    "citName": "Illizi",
+    "couId": "DZ"
+  },
+  {
+    "citId": 69,
+    "citName": "Jijel",
+    "couId": "DZ"
+  },
+  {
+    "citId": 70,
+    "citName": "Khenchela",
+    "couId": "DZ"
+  },
+  {
+    "citId": 71,
+    "citName": "Laghouat",
+    "couId": "DZ"
+  },
+  {
+    "citId": 72,
+    "citName": "M sila",
+    "couId": "DZ"
+  },
+  {
+    "citId": 73,
+    "citName": "Mascara",
+    "couId": "DZ"
+  },
+  {
+    "citId": 74,
+    "citName": "Mila",
+    "couId": "DZ"
+  },
+  {
+    "citId": 75,
+    "citName": "Mostaganem",
+    "couId": "DZ"
+  },
+  {
+    "citId": 76,
+    "citName": "Médéa",
+    "couId": "DZ"
+  },
+  {
+    "citId": 77,
+    "citName": "Naama",
+    "couId": "DZ"
+  },
+  {
+    "citId": 78,
+    "citName": "Oran",
+    "couId": "DZ"
+  },
+  {
+    "citId": 79,
+    "citName": "Ouargla",
+    "couId": "DZ"
+  },
+  {
+    "citId": 80,
+    "citName": "Oum el Bouaghi",
+    "couId": "DZ"
+  },
+  {
+    "citId": 81,
+    "citName": "Relizane",
+    "couId": "DZ"
+  },
+  {
+    "citId": 82,
+    "citName": "Saïda",
+    "couId": "DZ"
+  },
+  {
+    "citId": 83,
+    "citName": "Sidi Bel Abbès",
+    "couId": "DZ"
+  },
+  {
+    "citId": 84,
+    "citName": "Skikda",
+    "couId": "DZ"
+  },
+  {
+    "citId": 85,
+    "citName": "Souk Ahras",
+    "couId": "DZ"
+  },
+  {
+    "citId": 86,
+    "citName": "Sétif",
+    "couId": "DZ"
+  },
+  {
+    "citId": 87,
+    "citName": "Tamanrasset",
+    "couId": "DZ"
+  },
+  {
+    "citId": 88,
+    "citName": "Tiaret",
+    "couId": "DZ"
+  },
+  {
+    "citId": 89,
+    "citName": "Tindouf",
+    "couId": "DZ"
+  },
+  {
+    "citId": 90,
+    "citName": "Tipaza",
+    "couId": "DZ"
+  },
+  {
+    "citId": 91,
+    "citName": "Tissemsilt",
+    "couId": "DZ"
+  },
+  {
+    "citId": 92,
+    "citName": "Tizi Ouzou",
+    "couId": "DZ"
+  },
+  {
+    "citId": 93,
+    "citName": "Tlemcen",
+    "couId": "DZ"
+  },
+  {
+    "citId": 94,
+    "citName": "Tébessa",
+    "couId": "DZ"
+  },
+  {
+    "citId": 95,
+    "citName": "Andorra la Vella",
+    "couId": "AD"
+  },
+  {
+    "citId": 96,
+    "citName": "Canillo",
+    "couId": "AD"
+  },
+  {
+    "citId": 97,
+    "citName": "Encamp",
+    "couId": "AD"
+  },
+  {
+    "citId": 98,
+    "citName": "Escaldes-Engordany",
+    "couId": "AD"
+  },
+  {
+    "citId": 99,
+    "citName": "La Massana",
+    "couId": "AD"
+  },
+  {
+    "citId": 100,
+    "citName": "Ordino",
+    "couId": "AD"
+  },
+  {
+    "citId": 101,
+    "citName": "Sant Julià de Lòria",
+    "couId": "AD"
+  },
+  {
+    "citId": 102,
+    "citName": "Bengo",
+    "couId": "AO"
+  },
+  {
+    "citId": 103,
+    "citName": "Benguela",
+    "couId": "AO"
+  },
+  {
+    "citId": 104,
+    "citName": "Bié",
+    "couId": "AO"
+  },
+  {
+    "citId": 105,
+    "citName": "Cabinda",
+    "couId": "AO"
+  },
+  {
+    "citId": 106,
+    "citName": "Cuando Cubango",
+    "couId": "AO"
+  },
+  {
+    "citId": 107,
+    "citName": "Cuanza-Norte",
+    "couId": "AO"
+  },
+  {
+    "citId": 108,
+    "citName": "Cuanza-Sul",
+    "couId": "AO"
+  },
+  {
+    "citId": 109,
+    "citName": "Cunene",
+    "couId": "AO"
+  },
+  {
+    "citId": 110,
+    "citName": "Huambo",
+    "couId": "AO"
+  },
+  {
+    "citId": 111,
+    "citName": "Huíla",
+    "couId": "AO"
+  },
+  {
+    "citId": 112,
+    "citName": "Luanda",
+    "couId": "AO"
+  },
+  {
+    "citId": 113,
+    "citName": "Lunda-Norte",
+    "couId": "AO"
+  },
+  {
+    "citId": 114,
+    "citName": "Lunda-Sul",
+    "couId": "AO"
+  },
+  {
+    "citId": 115,
+    "citName": "Malange",
+    "couId": "AO"
+  },
+  {
+    "citId": 116,
+    "citName": "Moxico",
+    "couId": "AO"
+  },
+  {
+    "citId": 117,
+    "citName": "Namibe",
+    "couId": "AO"
+  },
+  {
+    "citId": 118,
+    "citName": "Uíge",
+    "couId": "AO"
+  },
+  {
+    "citId": 119,
+    "citName": "Zaire",
+    "couId": "AO"
+  },
+  {
+    "citId": 120,
+    "citName": "Barbuda",
+    "couId": "AG"
+  },
+  {
+    "citId": 121,
+    "citName": "Redonda",
+    "couId": "AG"
+  },
+  {
+    "citId": 122,
+    "citName": "Saint George",
+    "couId": "AG"
+  },
+  {
+    "citId": 123,
+    "citName": "Saint John",
+    "couId": "AG"
+  },
+  {
+    "citId": 124,
+    "citName": "Saint Mary",
+    "couId": "AG"
+  },
+  {
+    "citId": 125,
+    "citName": "Saint Paul",
+    "couId": "AG"
+  },
+  {
+    "citId": 126,
+    "citName": "Saint Peter",
+    "couId": "AG"
+  },
+  {
+    "citId": 127,
+    "citName": "Saint Philip",
+    "couId": "AG"
+  },
+  {
+    "citId": 128,
+    "citName": "Buenos Aires",
+    "couId": "AR"
+  },
+  {
+    "citId": 129,
+    "citName": "Catamarca",
+    "couId": "AR"
+  },
+  {
+    "citId": 130,
+    "citName": "Chaco",
+    "couId": "AR"
+  },
+  {
+    "citId": 131,
+    "citName": "Chubut",
+    "couId": "AR"
+  },
+  {
+    "citId": 132,
+    "citName": "Corrientes",
+    "couId": "AR"
+  },
+  {
+    "citId": 133,
+    "citName": "Córdoba",
+    "couId": "AR"
+  },
+  {
+    "citId": 134,
+    "citName": "Entre Ríos",
+    "couId": "AR"
+  },
+  {
+    "citId": 135,
+    "citName": "Formosa",
+    "couId": "AR"
+  },
+  {
+    "citId": 136,
+    "citName": "Jujuy",
+    "couId": "AR"
+  },
+  {
+    "citId": 137,
+    "citName": "La Pampa",
+    "couId": "AR"
+  },
+  {
+    "citId": 138,
+    "citName": "La Rioja",
+    "couId": "AR"
+  },
+  {
+    "citId": 139,
+    "citName": "Mendoza",
+    "couId": "AR"
+  },
+  {
+    "citId": 140,
+    "citName": "Misiones",
+    "couId": "AR"
+  },
+  {
+    "citId": 141,
+    "citName": "Neuquén",
+    "couId": "AR"
+  },
+  {
+    "citId": 142,
+    "citName": "Río Negro",
+    "couId": "AR"
+  },
+  {
+    "citId": 143,
+    "citName": "Salta",
+    "couId": "AR"
+  },
+  {
+    "citId": 144,
+    "citName": "San Juan",
+    "couId": "AR"
+  },
+  {
+    "citId": 145,
+    "citName": "San Luis",
+    "couId": "AR"
+  },
+  {
+    "citId": 146,
+    "citName": "Santa Cruz",
+    "couId": "AR"
+  },
+  {
+    "citId": 147,
+    "citName": "Santa Fe",
+    "couId": "AR"
+  },
+  {
+    "citId": 148,
+    "citName": "Santiago del Estero",
+    "couId": "AR"
+  },
+  {
+    "citId": 149,
+    "citName": "Tierra del Fuego",
+    "couId": "AR"
+  },
+  {
+    "citId": 150,
+    "citName": "Tucumán",
+    "couId": "AR"
+  },
+  {
+    "citId": 151,
+    "citName": "Aragac?otn",
+    "couId": "AM"
+  },
+  {
+    "citId": 152,
+    "citName": "Ararat",
+    "couId": "AM"
+  },
+  {
+    "citId": 153,
+    "citName": "Armavir",
+    "couId": "AM"
+  },
+  {
+    "citId": 154,
+    "citName": "Erevan",
+    "couId": "AM"
+  },
+  {
+    "citId": 155,
+    "citName": "Gegark unik",
+    "couId": "AM"
+  },
+  {
+    "citId": 156,
+    "citName": "Kotayk",
+    "couId": "AM"
+  },
+  {
+    "citId": 157,
+    "citName": "Lo?i",
+    "couId": "AM"
+  },
+  {
+    "citId": 158,
+    "citName": "Syunik",
+    "couId": "AM"
+  },
+  {
+    "citId": 159,
+    "citName": "Tavuš",
+    "couId": "AM"
+  },
+  {
+    "citId": 160,
+    "citName": "Vayoc Jor",
+    "couId": "AM"
+  },
+  {
+    "citId": 161,
+    "citName": "Širak",
+    "couId": "AM"
+  },
+  {
+    "citId": 162,
+    "citName": "Australian",
+    "couId": "AU"
+  },
+  {
+    "citId": 163,
+    "citName": "New South Wales",
+    "couId": "AU"
+  },
+  {
+    "citId": 164,
+    "citName": "Northern",
+    "couId": "AU"
+  },
+  {
+    "citId": 165,
+    "citName": "Queensland",
+    "couId": "AU"
+  },
+  {
+    "citId": 166,
+    "citName": "South Australia",
+    "couId": "AU"
+  },
+  {
+    "citId": 167,
+    "citName": "Tasmania",
+    "couId": "AU"
+  },
+  {
+    "citId": 168,
+    "citName": "Victoria",
+    "couId": "AU"
+  },
+  {
+    "citId": 169,
+    "citName": "Western Australia",
+    "couId": "AU"
+  },
+  {
+    "citId": 170,
+    "citName": "Burgenland",
+    "couId": "AT"
+  },
+  {
+    "citId": 171,
+    "citName": "Kärnten",
+    "couId": "AT"
+  },
+  {
+    "citId": 172,
+    "citName": "Niederösterreich",
+    "couId": "AT"
+  },
+  {
+    "citId": 173,
+    "citName": "Oberösterreich",
+    "couId": "AT"
+  },
+  {
+    "citId": 174,
+    "citName": "Salzburg",
+    "couId": "AT"
+  },
+  {
+    "citId": 175,
+    "citName": "Steiermark",
+    "couId": "AT"
+  },
+  {
+    "citId": 176,
+    "citName": "Tirol",
+    "couId": "AT"
+  },
+  {
+    "citId": 177,
+    "citName": "Vorarlberg",
+    "couId": "AT"
+  },
+  {
+    "citId": 178,
+    "citName": "Wien",
+    "couId": "AT"
+  },
+  {
+    "citId": 179,
+    "citName": "Abseron",
+    "couId": "AZ"
+  },
+  {
+    "citId": 180,
+    "citName": "Astara",
+    "couId": "AZ"
+  },
+  {
+    "citId": 181,
+    "citName": "Agcab?di",
+    "couId": "AZ"
+  },
+  {
+    "citId": 182,
+    "citName": "Agdam",
+    "couId": "AZ"
+  },
+  {
+    "citId": 183,
+    "citName": "Agdas",
+    "couId": "AZ"
+  },
+  {
+    "citId": 184,
+    "citName": "Agstafa",
+    "couId": "AZ"
+  },
+  {
+    "citId": 185,
+    "citName": "Agsu",
+    "couId": "AZ"
+  },
+  {
+    "citId": 186,
+    "citName": "Bab?k",
+    "couId": "AZ"
+  },
+  {
+    "citId": 187,
+    "citName": "Baki",
+    "couId": "AZ"
+  },
+  {
+    "citId": 188,
+    "citName": "Balak?n",
+    "couId": "AZ"
+  },
+  {
+    "citId": 189,
+    "citName": "Beyl?qan",
+    "couId": "AZ"
+  },
+  {
+    "citId": 190,
+    "citName": "Bil?suvar",
+    "couId": "AZ"
+  },
+  {
+    "citId": 191,
+    "citName": "B?rd?",
+    "couId": "AZ"
+  },
+  {
+    "citId": 192,
+    "citName": "Culfa",
+    "couId": "AZ"
+  },
+  {
+    "citId": 193,
+    "citName": "C?brayil",
+    "couId": "AZ"
+  },
+  {
+    "citId": 194,
+    "citName": "C?lilabad",
+    "couId": "AZ"
+  },
+  {
+    "citId": 195,
+    "citName": "Dask?s?n",
+    "couId": "AZ"
+  },
+  {
+    "citId": 196,
+    "citName": "Füzuli",
+    "couId": "AZ"
+  },
+  {
+    "citId": 197,
+    "citName": "Goranboy",
+    "couId": "AZ"
+  },
+  {
+    "citId": 198,
+    "citName": "Göygöl",
+    "couId": "AZ"
+  },
+  {
+    "citId": 199,
+    "citName": "Göyçay",
+    "couId": "AZ"
+  },
+  {
+    "citId": 200,
+    "citName": "G?d?b?y",
+    "couId": "AZ"
+  },
+  {
+    "citId": 201,
+    "citName": "G?nc?",
+    "couId": "AZ"
+  },
+  {
+    "citId": 202,
+    "citName": "Haciqabul",
+    "couId": "AZ"
+  },
+  {
+    "citId": 203,
+    "citName": "Kürd?mir",
+    "couId": "AZ"
+  },
+  {
+    "citId": 204,
+    "citName": "K?ng?rli",
+    "couId": "AZ"
+  },
+  {
+    "citId": 205,
+    "citName": "K?lb?c?r",
+    "couId": "AZ"
+  },
+  {
+    "citId": 206,
+    "citName": "Laçin",
+    "couId": "AZ"
+  },
+  {
+    "citId": 207,
+    "citName": "Lerik",
+    "couId": "AZ"
+  },
+  {
+    "citId": 208,
+    "citName": "L?nk?ran",
+    "couId": "AZ"
+  },
+  {
+    "citId": 209,
+    "citName": "L?nk?ran",
+    "couId": "AZ"
+  },
+  {
+    "citId": 210,
+    "citName": "Masalli",
+    "couId": "AZ"
+  },
+  {
+    "citId": 211,
+    "citName": "Ming?çevir",
+    "couId": "AZ"
+  },
+  {
+    "citId": 212,
+    "citName": "Naftalan",
+    "couId": "AZ"
+  },
+  {
+    "citId": 213,
+    "citName": "Naxçivan",
+    "couId": "AZ"
+  },
+  {
+    "citId": 214,
+    "citName": "Naxçivan",
+    "couId": "AZ"
+  },
+  {
+    "citId": 215,
+    "citName": "Neftçala",
+    "couId": "AZ"
+  },
+  {
+    "citId": 216,
+    "citName": "Ordubad",
+    "couId": "AZ"
+  },
+  {
+    "citId": 217,
+    "citName": "Oguz",
+    "couId": "AZ"
+  },
+  {
+    "citId": 218,
+    "citName": "Qax",
+    "couId": "AZ"
+  },
+  {
+    "citId": 219,
+    "citName": "Qazax",
+    "couId": "AZ"
+  },
+  {
+    "citId": 220,
+    "citName": "Qobustan",
+    "couId": "AZ"
+  },
+  {
+    "citId": 221,
+    "citName": "Quba",
+    "couId": "AZ"
+  },
+  {
+    "citId": 222,
+    "citName": "Qubadli",
+    "couId": "AZ"
+  },
+  {
+    "citId": 223,
+    "citName": "Qusar",
+    "couId": "AZ"
+  },
+  {
+    "citId": 224,
+    "citName": "Q?b?l?",
+    "couId": "AZ"
+  },
+  {
+    "citId": 225,
+    "citName": "Saatli",
+    "couId": "AZ"
+  },
+  {
+    "citId": 226,
+    "citName": "Sabirabad",
+    "couId": "AZ"
+  },
+  {
+    "citId": 227,
+    "citName": "Salyan",
+    "couId": "AZ"
+  },
+  {
+    "citId": 228,
+    "citName": "Samux",
+    "couId": "AZ"
+  },
+  {
+    "citId": 229,
+    "citName": "Siy?z?n",
+    "couId": "AZ"
+  },
+  {
+    "citId": 230,
+    "citName": "Sumqayit",
+    "couId": "AZ"
+  },
+  {
+    "citId": 231,
+    "citName": "S?d?r?k",
+    "couId": "AZ"
+  },
+  {
+    "citId": 232,
+    "citName": "Tovuz",
+    "couId": "AZ"
+  },
+  {
+    "citId": 233,
+    "citName": "T?rt?r",
+    "couId": "AZ"
+  },
+  {
+    "citId": 234,
+    "citName": "Ucar",
+    "couId": "AZ"
+  },
+  {
+    "citId": 235,
+    "citName": "Xank?ndi",
+    "couId": "AZ"
+  },
+  {
+    "citId": 236,
+    "citName": "Xaçmaz",
+    "couId": "AZ"
+  },
+  {
+    "citId": 237,
+    "citName": "Xocali",
+    "couId": "AZ"
+  },
+  {
+    "citId": 238,
+    "citName": "Xocav?nd",
+    "couId": "AZ"
+  },
+  {
+    "citId": 239,
+    "citName": "Xizi",
+    "couId": "AZ"
+  },
+  {
+    "citId": 240,
+    "citName": "Yardimli",
+    "couId": "AZ"
+  },
+  {
+    "citId": 241,
+    "citName": "Yevlax",
+    "couId": "AZ"
+  },
+  {
+    "citId": 242,
+    "citName": "Yevlax",
+    "couId": "AZ"
+  },
+  {
+    "citId": 243,
+    "citName": "Zaqatala",
+    "couId": "AZ"
+  },
+  {
+    "citId": 244,
+    "citName": "Z?ngilan",
+    "couId": "AZ"
+  },
+  {
+    "citId": 245,
+    "citName": "Z?rdab",
+    "couId": "AZ"
+  },
+  {
+    "citId": 246,
+    "citName": "Imisli",
+    "couId": "AZ"
+  },
+  {
+    "citId": 247,
+    "citName": "Ismayilli",
+    "couId": "AZ"
+  },
+  {
+    "citId": 248,
+    "citName": "Sabran",
+    "couId": "AZ"
+  },
+  {
+    "citId": 249,
+    "citName": "Sahbuz",
+    "couId": "AZ"
+  },
+  {
+    "citId": 250,
+    "citName": "Samaxi",
+    "couId": "AZ"
+  },
+  {
+    "citId": 251,
+    "citName": "Sirvan",
+    "couId": "AZ"
+  },
+  {
+    "citId": 252,
+    "citName": "Susa",
+    "couId": "AZ"
+  },
+  {
+    "citId": 253,
+    "citName": "S?ki",
+    "couId": "AZ"
+  },
+  {
+    "citId": 254,
+    "citName": "S?ki",
+    "couId": "AZ"
+  },
+  {
+    "citId": 255,
+    "citName": "S?mkir",
+    "couId": "AZ"
+  },
+  {
+    "citId": 256,
+    "citName": "S?rur",
+    "couId": "AZ"
+  },
+  {
+    "citId": 257,
+    "citName": "Acklins",
+    "couId": "BS"
+  },
+  {
+    "citId": 258,
+    "citName": "Berry Islands",
+    "couId": "BS"
+  },
+  {
+    "citId": 259,
+    "citName": "Bimini",
+    "couId": "BS"
+  },
+  {
+    "citId": 260,
+    "citName": "Black Point",
+    "couId": "BS"
+  },
+  {
+    "citId": 261,
+    "citName": "Cat Island",
+    "couId": "BS"
+  },
+  {
+    "citId": 262,
+    "citName": "Central Abaco",
+    "couId": "BS"
+  },
+  {
+    "citId": 263,
+    "citName": "Central Andros",
+    "couId": "BS"
+  },
+  {
+    "citId": 264,
+    "citName": "Central Eleuthera",
+    "couId": "BS"
+  },
+  {
+    "citId": 265,
+    "citName": "City of Freeport",
+    "couId": "BS"
+  },
+  {
+    "citId": 266,
+    "citName": "Crooked Island and Long Cay",
+    "couId": "BS"
+  },
+  {
+    "citId": 267,
+    "citName": "East Grand Bahama",
+    "couId": "BS"
+  },
+  {
+    "citId": 268,
+    "citName": "Exuma",
+    "couId": "BS"
+  },
+  {
+    "citId": 269,
+    "citName": "Grand Cay",
+    "couId": "BS"
+  },
+  {
+    "citId": 270,
+    "citName": "Harbour Island",
+    "couId": "BS"
+  },
+  {
+    "citId": 271,
+    "citName": "Hope Town",
+    "couId": "BS"
+  },
+  {
+    "citId": 272,
+    "citName": "Inagua",
+    "couId": "BS"
+  },
+  {
+    "citId": 273,
+    "citName": "Long Island",
+    "couId": "BS"
+  },
+  {
+    "citId": 274,
+    "citName": "Mangrove Cay",
+    "couId": "BS"
+  },
+  {
+    "citId": 275,
+    "citName": "Mayaguana",
+    "couId": "BS"
+  },
+  {
+    "citId": 276,
+    "citName": "Moore s Island",
+    "couId": "BS"
+  },
+  {
+    "citId": 277,
+    "citName": "New Providence",
+    "couId": "BS"
+  },
+  {
+    "citId": 278,
+    "citName": "North Abaco",
+    "couId": "BS"
+  },
+  {
+    "citId": 279,
+    "citName": "North Andros",
+    "couId": "BS"
+  },
+  {
+    "citId": 280,
+    "citName": "North Eleuthera",
+    "couId": "BS"
+  },
+  {
+    "citId": 281,
+    "citName": "Ragged Island",
+    "couId": "BS"
+  },
+  {
+    "citId": 282,
+    "citName": "Rum Cay",
+    "couId": "BS"
+  },
+  {
+    "citId": 283,
+    "citName": "San Salvador",
+    "couId": "BS"
+  },
+  {
+    "citId": 284,
+    "citName": "South Abaco",
+    "couId": "BS"
+  },
+  {
+    "citId": 285,
+    "citName": "South Andros",
+    "couId": "BS"
+  },
+  {
+    "citId": 286,
+    "citName": "South Eleuthera",
+    "couId": "BS"
+  },
+  {
+    "citId": 287,
+    "citName": "Spanish Wells",
+    "couId": "BS"
+  },
+  {
+    "citId": 288,
+    "citName": "West Grand Bahama",
+    "couId": "BS"
+  },
+  {
+    "citId": 289,
+    "citName": "Al Janubiyah",
+    "couId": "BH"
+  },
+  {
+    "citId": 290,
+    "citName": "Al ?add",
+    "couId": "BH"
+  },
+  {
+    "citId": 291,
+    "citName": "Al Mintaqah al Gharbiyah",
+    "couId": "BH"
+  },
+  {
+    "citId": 292,
+    "citName": "Al Mintaqah al Wusta",
+    "couId": "BH"
+  },
+  {
+    "citId": 293,
+    "citName": "Al Mintaqah ash Shamaliyah",
+    "couId": "BH"
+  },
+  {
+    "citId": 294,
+    "citName": "Al Mu?arraq",
+    "couId": "BH"
+  },
+  {
+    "citId": 295,
+    "citName": "Al ‘Asimah",
+    "couId": "BH"
+  },
+  {
+    "citId": 296,
+    "citName": "Ar Rifa‘",
+    "couId": "BH"
+  },
+  {
+    "citId": 297,
+    "citName": "Ash Shamaliyah",
+    "couId": "BH"
+  },
+  {
+    "citId": 298,
+    "citName": "Jidd ?afs",
+    "couId": "BH"
+  },
+  {
+    "citId": 299,
+    "citName": "Madinat ?amad",
+    "couId": "BH"
+  },
+  {
+    "citId": 300,
+    "citName": "Madinat ‘Isá",
+    "couId": "BH"
+  },
+  {
+    "citId": 301,
+    "citName": "Mintaqat Juzur ?awar",
+    "couId": "BH"
+  },
+  {
+    "citId": 302,
+    "citName": "Sitrah",
+    "couId": "BH"
+  },
+  {
+    "citId": 303,
+    "citName": "Chuquisaca",
+    "couId": "BO"
+  },
+  {
+    "citId": 304,
+    "citName": "Cochabamba",
+    "couId": "BO"
+  },
+  {
+    "citId": 305,
+    "citName": "El Beni",
+    "couId": "BO"
+  },
+  {
+    "citId": 306,
+    "citName": "La Paz",
+    "couId": "BO"
+  },
+  {
+    "citId": 307,
+    "citName": "Oruro",
+    "couId": "BO"
+  },
+  {
+    "citId": 308,
+    "citName": "Pando",
+    "couId": "BO"
+  },
+  {
+    "citId": 309,
+    "citName": "Potosí",
+    "couId": "BO"
+  },
+  {
+    "citId": 310,
+    "citName": "Santa Cruz",
+    "couId": "BO"
+  },
+  {
+    "citId": 311,
+    "citName": "Tarija",
+    "couId": "BO"
+  },
+  {
+    "citId": 312,
+    "citName": "Acre",
+    "couId": "BR"
+  },
+  {
+    "citId": 313,
+    "citName": "Alagoas",
+    "couId": "BR"
+  },
+  {
+    "citId": 314,
+    "citName": "Amapá",
+    "couId": "BR"
+  },
+  {
+    "citId": 315,
+    "citName": "Amazonas",
+    "couId": "BR"
+  },
+  {
+    "citId": 316,
+    "citName": "Bahia",
+    "couId": "BR"
+  },
+  {
+    "citId": 317,
+    "citName": "Ceará",
+    "couId": "BR"
+  },
+  {
+    "citId": 318,
+    "citName": "Distrito Federal",
+    "couId": "BR"
+  },
+  {
+    "citId": 319,
+    "citName": "Espírito Santo",
+    "couId": "BR"
+  },
+  {
+    "citId": 320,
+    "citName": "Goiás",
+    "couId": "BR"
+  },
+  {
+    "citId": 321,
+    "citName": "Maranhão",
+    "couId": "BR"
+  },
+  {
+    "citId": 322,
+    "citName": "Mato Grosso",
+    "couId": "BR"
+  },
+  {
+    "citId": 323,
+    "citName": "Mato Grosso do Sul",
+    "couId": "BR"
+  },
+  {
+    "citId": 324,
+    "citName": "Minas Gerais",
+    "couId": "BR"
+  },
+  {
+    "citId": 325,
+    "citName": "Paraná",
+    "couId": "BR"
+  },
+  {
+    "citId": 326,
+    "citName": "Paraíba",
+    "couId": "BR"
+  },
+  {
+    "citId": 327,
+    "citName": "Pará",
+    "couId": "BR"
+  },
+  {
+    "citId": 328,
+    "citName": "Pernambuco",
+    "couId": "BR"
+  },
+  {
+    "citId": 329,
+    "citName": "Piauí",
+    "couId": "BR"
+  },
+  {
+    "citId": 330,
+    "citName": "Rio Grande do Norte",
+    "couId": "BR"
+  },
+  {
+    "citId": 331,
+    "citName": "Rio Grande do Sul",
+    "couId": "BR"
+  },
+  {
+    "citId": 332,
+    "citName": "Rio de Janeiro",
+    "couId": "BR"
+  },
+  {
+    "citId": 333,
+    "citName": "Rondônia",
+    "couId": "BR"
+  },
+  {
+    "citId": 334,
+    "citName": "Roraima",
+    "couId": "BR"
+  },
+  {
+    "citId": 335,
+    "citName": "Santa Catarina",
+    "couId": "BR"
+  },
+  {
+    "citId": 336,
+    "citName": "Sergipe",
+    "couId": "BR"
+  },
+  {
+    "citId": 337,
+    "citName": "São Paulo",
+    "couId": "BR"
+  },
+  {
+    "citId": 338,
+    "citName": "Tocantins",
+    "couId": "BR"
+  },
+  {
+    "citId": 339,
+    "citName": "Alberta",
+    "couId": "CA"
+  },
+  {
+    "citId": 340,
+    "citName": "British Columbia",
+    "couId": "CA"
+  },
+  {
+    "citId": 341,
+    "citName": "Colombie-Britannique",
+    "couId": "CA"
+  },
+  {
+    "citId": 342,
+    "citName": "Manitoba",
+    "couId": "CA"
+  },
+  {
+    "citId": 343,
+    "citName": "New Brunswick",
+    "couId": "CA"
+  },
+  {
+    "citId": 344,
+    "citName": "Newfoundland and Labrador",
+    "couId": "CA"
+  },
+  {
+    "citId": 345,
+    "citName": "Northwest Territories",
+    "couId": "CA"
+  },
+  {
+    "citId": 346,
+    "citName": "Nouveau-Brunswick",
+    "couId": "CA"
+  },
+  {
+    "citId": 347,
+    "citName": "Nouvelle-Écosse",
+    "couId": "CA"
+  },
+  {
+    "citId": 348,
+    "citName": "Nova Scotia",
+    "couId": "CA"
+  },
+  {
+    "citId": 349,
+    "citName": "Nunavut",
+    "couId": "CA"
+  },
+  {
+    "citId": 350,
+    "citName": "Ontario",
+    "couId": "CA"
+  },
+  {
+    "citId": 351,
+    "citName": "Prince Edward Island",
+    "couId": "CA"
+  },
+  {
+    "citId": 352,
+    "citName": "Québec",
+    "couId": "CA"
+  },
+  {
+    "citId": 353,
+    "citName": "Saskatchewan",
+    "couId": "CA"
+  },
+  {
+    "citId": 354,
+    "citName": "Terre-Neuve-et-Labrador",
+    "couId": "CA"
+  },
+  {
+    "citId": 355,
+    "citName": "Territoires du Nord-Ouest",
+    "couId": "CA"
+  },
+  {
+    "citId": 356,
+    "citName": "Yukon",
+    "couId": "CA"
+  },
+  {
+    "citId": 357,
+    "citName": "Île-du-Prince-Édouard",
+    "couId": "CA"
+  },
+  {
+    "citId": 358,
+    "citName": "Aisén del General Carlos Ibañez del Campo",
+    "couId": "CL"
+  },
+  {
+    "citId": 359,
+    "citName": "Antofagasta",
+    "couId": "CL"
+  },
+  {
+    "citId": 360,
+    "citName": "Arica y Parinacota",
+    "couId": "CL"
+  },
+  {
+    "citId": 361,
+    "citName": "Atacama",
+    "couId": "CL"
+  },
+  {
+    "citId": 362,
+    "citName": "Biobío",
+    "couId": "CL"
+  },
+  {
+    "citId": 363,
+    "citName": "Coquimbo",
+    "couId": "CL"
+  },
+  {
+    "citId": 364,
+    "citName": "La Araucanía",
+    "couId": "CL"
+  },
+  {
+    "citId": 365,
+    "citName": "Libertador General Bernardo O Higgins",
+    "couId": "CL"
+  },
+  {
+    "citId": 366,
+    "citName": "Los Lagos",
+    "couId": "CL"
+  },
+  {
+    "citId": 367,
+    "citName": "Los Ríos",
+    "couId": "CL"
+  },
+  {
+    "citId": 368,
+    "citName": "Magallanes",
+    "couId": "CL"
+  },
+  {
+    "citId": 369,
+    "citName": "Maule",
+    "couId": "CL"
+  },
+  {
+    "citId": 370,
+    "citName": "Región Metropolitana de Santiago",
+    "couId": "CL"
+  },
+  {
+    "citId": 371,
+    "citName": "Tarapacá",
+    "couId": "CL"
+  },
+  {
+    "citId": 372,
+    "citName": "Valparaíso",
+    "couId": "CL"
+  },
+  {
+    "citId": 373,
+    "citName": "Ñuble",
+    "couId": "CL"
+  },
+  {
+    "citId": 374,
+    "citName": "Anhui",
+    "couId": "CN"
+  },
+  {
+    "citId": 375,
+    "citName": "Beijing",
+    "couId": "CN"
+  },
+  {
+    "citId": 376,
+    "citName": "Chongqing",
+    "couId": "CN"
+  },
+  {
+    "citId": 377,
+    "citName": "Fujian",
+    "couId": "CN"
+  },
+  {
+    "citId": 378,
+    "citName": "Gansu",
+    "couId": "CN"
+  },
+  {
+    "citId": 379,
+    "citName": "Guangdong",
+    "couId": "CN"
+  },
+  {
+    "citId": 380,
+    "citName": "Guangxi",
+    "couId": "CN"
+  },
+  {
+    "citId": 381,
+    "citName": "Guizhou",
+    "couId": "CN"
+  },
+  {
+    "citId": 382,
+    "citName": "Hainan",
+    "couId": "CN"
+  },
+  {
+    "citId": 383,
+    "citName": "Hebei",
+    "couId": "CN"
+  },
+  {
+    "citId": 384,
+    "citName": "Heilongjiang",
+    "couId": "CN"
+  },
+  {
+    "citId": 385,
+    "citName": "Henan",
+    "couId": "CN"
+  },
+  {
+    "citId": 386,
+    "citName": "Hong Kong",
+    "couId": "CN"
+  },
+  {
+    "citId": 387,
+    "citName": "Hubei",
+    "couId": "CN"
+  },
+  {
+    "citId": 388,
+    "citName": "Hunan",
+    "couId": "CN"
+  },
+  {
+    "citId": 389,
+    "citName": "Jiangsu",
+    "couId": "CN"
+  },
+  {
+    "citId": 390,
+    "citName": "Jiangxi",
+    "couId": "CN"
+  },
+  {
+    "citId": 391,
+    "citName": "Jilin",
+    "couId": "CN"
+  },
+  {
+    "citId": 392,
+    "citName": "Liaoning",
+    "couId": "CN"
+  },
+  {
+    "citId": 393,
+    "citName": "Nei Monggol",
+    "couId": "CN"
+  },
+  {
+    "citId": 394,
+    "citName": "Ningxia",
+    "couId": "CN"
+  },
+  {
+    "citId": 395,
+    "citName": "Qinghai",
+    "couId": "CN"
+  },
+  {
+    "citId": 396,
+    "citName": "Shaanxi",
+    "couId": "CN"
+  },
+  {
+    "citId": 397,
+    "citName": "Shandong",
+    "couId": "CN"
+  },
+  {
+    "citId": 398,
+    "citName": "Shanghai",
+    "couId": "CN"
+  },
+  {
+    "citId": 399,
+    "citName": "Shanxi",
+    "couId": "CN"
+  },
+  {
+    "citId": 400,
+    "citName": "Sichuan",
+    "couId": "CN"
+  },
+  {
+    "citId": 401,
+    "citName": "Taiwan",
+    "couId": "CN"
+  },
+  {
+    "citId": 402,
+    "citName": "Tianjin",
+    "couId": "CN"
+  },
+  {
+    "citId": 403,
+    "citName": "Xinjiang",
+    "couId": "CN"
+  },
+  {
+    "citId": 404,
+    "citName": "Xizang",
+    "couId": "CN"
+  },
+  {
+    "citId": 405,
+    "citName": "Yunnan",
+    "couId": "CN"
+  },
+  {
+    "citId": 406,
+    "citName": "Zhejiang",
+    "couId": "CN"
+  },
+  {
+    "citId": 407,
+    "citName": "Amazonas",
+    "couId": "CO"
+  },
+  {
+    "citId": 408,
+    "citName": "Antioquia",
+    "couId": "CO"
+  },
+  {
+    "citId": 409,
+    "citName": "Arauca",
+    "couId": "CO"
+  },
+  {
+    "citId": 410,
+    "citName": "Atlántico",
+    "couId": "CO"
+  },
+  {
+    "citId": 411,
+    "citName": "Bolívar",
+    "couId": "CO"
+  },
+  {
+    "citId": 412,
+    "citName": "Boyacá",
+    "couId": "CO"
+  },
+  {
+    "citId": 413,
+    "citName": "Caldas",
+    "couId": "CO"
+  },
+  {
+    "citId": 414,
+    "citName": "Caquetá",
+    "couId": "CO"
+  },
+  {
+    "citId": 415,
+    "citName": "Casanare",
+    "couId": "CO"
+  },
+  {
+    "citId": 416,
+    "citName": "Cauca",
+    "couId": "CO"
+  },
+  {
+    "citId": 417,
+    "citName": "Cesar",
+    "couId": "CO"
+  },
+  {
+    "citId": 418,
+    "citName": "Chocó",
+    "couId": "CO"
+  },
+  {
+    "citId": 419,
+    "citName": "Cundinamarca",
+    "couId": "CO"
+  },
+  {
+    "citId": 420,
+    "citName": "Córdoba",
+    "couId": "CO"
+  },
+  {
+    "citId": 421,
+    "citName": "Distrito Capital de Bogotá",
+    "couId": "CO"
+  },
+  {
+    "citId": 422,
+    "citName": "Guainía",
+    "couId": "CO"
+  },
+  {
+    "citId": 423,
+    "citName": "Guaviare",
+    "couId": "CO"
+  },
+  {
+    "citId": 424,
+    "citName": "Huila",
+    "couId": "CO"
+  },
+  {
+    "citId": 425,
+    "citName": "La Guajira",
+    "couId": "CO"
+  },
+  {
+    "citId": 426,
+    "citName": "Magdalena",
+    "couId": "CO"
+  },
+  {
+    "citId": 427,
+    "citName": "Meta",
+    "couId": "CO"
+  },
+  {
+    "citId": 428,
+    "citName": "Nariño",
+    "couId": "CO"
+  },
+  {
+    "citId": 429,
+    "citName": "Norte de Santander",
+    "couId": "CO"
+  },
+  {
+    "citId": 430,
+    "citName": "Putumayo",
+    "couId": "CO"
+  },
+  {
+    "citId": 431,
+    "citName": "Quindío",
+    "couId": "CO"
+  },
+  {
+    "citId": 432,
+    "citName": "Risaralda",
+    "couId": "CO"
+  },
+  {
+    "citId": 433,
+    "citName": "San Andrés, Providencia y Santa Catalina",
+    "couId": "CO"
+  },
+  {
+    "citId": 434,
+    "citName": "Santander",
+    "couId": "CO"
+  },
+  {
+    "citId": 435,
+    "citName": "Sucre",
+    "couId": "CO"
+  },
+  {
+    "citId": 436,
+    "citName": "Tolima",
+    "couId": "CO"
+  },
+  {
+    "citId": 437,
+    "citName": "Valle del Cauca",
+    "couId": "CO"
+  },
+  {
+    "citId": 438,
+    "citName": "Vaupés",
+    "couId": "CO"
+  },
+  {
+    "citId": 439,
+    "citName": "Vichada",
+    "couId": "CO"
+  },
+  {
+    "citId": 440,
+    "citName": "Artemisa",
+    "couId": "CU"
+  },
+  {
+    "citId": 441,
+    "citName": "Camagüey",
+    "couId": "CU"
+  },
+  {
+    "citId": 442,
+    "citName": "Ciego de Ávila",
+    "couId": "CU"
+  },
+  {
+    "citId": 443,
+    "citName": "Cienfuegos",
+    "couId": "CU"
+  },
+  {
+    "citId": 444,
+    "citName": "Granma",
+    "couId": "CU"
+  },
+  {
+    "citId": 445,
+    "citName": "Guantánamo",
+    "couId": "CU"
+  },
+  {
+    "citId": 446,
+    "citName": "Holguín",
+    "couId": "CU"
+  },
+  {
+    "citId": 447,
+    "citName": "Isla de la Juventud",
+    "couId": "CU"
+  },
+  {
+    "citId": 448,
+    "citName": "La Habana",
+    "couId": "CU"
+  },
+  {
+    "citId": 449,
+    "citName": "Las Tunas",
+    "couId": "CU"
+  },
+  {
+    "citId": 450,
+    "citName": "Matanzas",
+    "couId": "CU"
+  },
+  {
+    "citId": 451,
+    "citName": "Mayabeque",
+    "couId": "CU"
+  },
+  {
+    "citId": 452,
+    "citName": "Pinar del Río",
+    "couId": "CU"
+  },
+  {
+    "citId": 453,
+    "citName": "Sancti Spíritus",
+    "couId": "CU"
+  },
+  {
+    "citId": 454,
+    "citName": "Santiago de Cuba",
+    "couId": "CU"
+  },
+  {
+    "citId": 455,
+    "citName": "Villa Clara",
+    "couId": "CU"
+  },
+  {
+    "citId": 456,
+    "citName": "Alajuela",
+    "couId": "CR"
+  },
+  {
+    "citId": 457,
+    "citName": "Cartago",
+    "couId": "CR"
+  },
+  {
+    "citId": 458,
+    "citName": "Guanacaste",
+    "couId": "CR"
+  },
+  {
+    "citId": 459,
+    "citName": "Heredia",
+    "couId": "CR"
+  },
+  {
+    "citId": 460,
+    "citName": "Limón",
+    "couId": "CR"
+  },
+  {
+    "citId": 461,
+    "citName": "Puntarenas",
+    "couId": "CR"
+  },
+  {
+    "citId": 462,
+    "citName": "San José",
+    "couId": "CR"
+  },
+  {
+    "citId": 463,
+    "citName": "Århus",
+    "couId": "DK"
+  },
+  {
+    "citId": 464,
+    "citName": "Bornholm",
+    "couId": "DK"
+  },
+  {
+    "citId": 465,
+    "citName": "Frederiksberg",
+    "couId": "DK"
+  },
+  {
+    "citId": 466,
+    "citName": "Frederiksborg",
+    "couId": "DK"
+  },
+  {
+    "citId": 467,
+    "citName": "Fyn",
+    "couId": "DK"
+  },
+  {
+    "citId": 468,
+    "citName": "Hovedstaden",
+    "couId": "DK"
+  },
+  {
+    "citId": 469,
+    "citName": "K?benhavn",
+    "couId": "DK"
+  },
+  {
+    "citId": 470,
+    "citName": "K?benhavn",
+    "couId": "DK"
+  },
+  {
+    "citId": 471,
+    "citName": "Midtjylland",
+    "couId": "DK"
+  },
+  {
+    "citId": 472,
+    "citName": "Nordjylland",
+    "couId": "DK"
+  },
+  {
+    "citId": 473,
+    "citName": "Ribe",
+    "couId": "DK"
+  },
+  {
+    "citId": 474,
+    "citName": "Ringk?bing",
+    "couId": "DK"
+  },
+  {
+    "citId": 475,
+    "citName": "Roskilde",
+    "couId": "DK"
+  },
+  {
+    "citId": 476,
+    "citName": "Sjælland",
+    "couId": "DK"
+  },
+  {
+    "citId": 477,
+    "citName": "S?nderjylland",
+    "couId": "DK"
+  },
+  {
+    "citId": 478,
+    "citName": "Storstr?m",
+    "couId": "DK"
+  },
+  {
+    "citId": 479,
+    "citName": "Syddanmark",
+    "couId": "DK"
+  },
+  {
+    "citId": 480,
+    "citName": "Vejle",
+    "couId": "DK"
+  },
+  {
+    "citId": 481,
+    "citName": "Vestsjælland",
+    "couId": "DK"
+  },
+  {
+    "citId": 482,
+    "citName": "Viborg",
+    "couId": "DK"
+  },
+  {
+    "citId": 483,
+    "citName": "Saint Andrew",
+    "couId": "DM"
+  },
+  {
+    "citId": 484,
+    "citName": "Saint David",
+    "couId": "DM"
+  },
+  {
+    "citId": 485,
+    "citName": "Saint George",
+    "couId": "DM"
+  },
+  {
+    "citId": 486,
+    "citName": "Saint John",
+    "couId": "DM"
+  },
+  {
+    "citId": 487,
+    "citName": "Saint Joseph",
+    "couId": "DM"
+  },
+  {
+    "citId": 488,
+    "citName": "Saint Luke",
+    "couId": "DM"
+  },
+  {
+    "citId": 489,
+    "citName": "Saint Mark",
+    "couId": "DM"
+  },
+  {
+    "citId": 490,
+    "citName": "Saint Patrick",
+    "couId": "DM"
+  },
+  {
+    "citId": 491,
+    "citName": "Saint Paul",
+    "couId": "DM"
+  },
+  {
+    "citId": 492,
+    "citName": "Saint Peter",
+    "couId": "DM"
+  },
+  {
+    "citId": 493,
+    "citName": "Azua",
+    "couId": "DO"
+  },
+  {
+    "citId": 494,
+    "citName": "Baoruco",
+    "couId": "DO"
+  },
+  {
+    "citId": 495,
+    "citName": "Barahona",
+    "couId": "DO"
+  },
+  {
+    "citId": 496,
+    "citName": "Cibao Noroeste",
+    "couId": "DO"
+  },
+  {
+    "citId": 497,
+    "citName": "Cibao Norte",
+    "couId": "DO"
+  },
+  {
+    "citId": 498,
+    "citName": "Cibao Sur",
+    "couId": "DO"
+  },
+  {
+    "citId": 499,
+    "citName": "Dajabón",
+    "couId": "DO"
+  },
+  {
+    "citId": 500,
+    "citName": "Distrito Nacional (Santo Domingo)",
+    "couId": "DO"
+  },
+  {
+    "citId": 501,
+    "citName": "Duarte",
+    "couId": "DO"
+  },
+  {
+    "citId": 502,
+    "citName": "El Seibo",
+    "couId": "DO"
+  },
+  {
+    "citId": 503,
+    "citName": "El Valle",
+    "couId": "DO"
+  },
+  {
+    "citId": 504,
+    "citName": "Elías Piña",
+    "couId": "DO"
+  },
+  {
+    "citId": 505,
+    "citName": "Enriquillo",
+    "couId": "DO"
+  },
+  {
+    "citId": 506,
+    "citName": "Espaillat",
+    "couId": "DO"
+  },
+  {
+    "citId": 507,
+    "citName": "Hato Mayor",
+    "couId": "DO"
+  },
+  {
+    "citId": 508,
+    "citName": "Hermanas Mirabal",
+    "couId": "DO"
+  },
+  {
+    "citId": 509,
+    "citName": "Higuamo",
+    "couId": "DO"
+  },
+  {
+    "citId": 510,
+    "citName": "Independencia",
+    "couId": "DO"
+  },
+  {
+    "citId": 511,
+    "citName": "La Altagracia",
+    "couId": "DO"
+  },
+  {
+    "citId": 512,
+    "citName": "La Romana",
+    "couId": "DO"
+  },
+  {
+    "citId": 513,
+    "citName": "La Vega",
+    "couId": "DO"
+  },
+  {
+    "citId": 514,
+    "citName": "María Trinidad Sánchez",
+    "couId": "DO"
+  },
+  {
+    "citId": 515,
+    "citName": "Monseñor Nouel",
+    "couId": "DO"
+  },
+  {
+    "citId": 516,
+    "citName": "Monte Cristi",
+    "couId": "DO"
+  },
+  {
+    "citId": 517,
+    "citName": "Monte Plata",
+    "couId": "DO"
+  },
+  {
+    "citId": 518,
+    "citName": "Ozama",
+    "couId": "DO"
+  },
+  {
+    "citId": 519,
+    "citName": "Pedernales",
+    "couId": "DO"
+  },
+  {
+    "citId": 520,
+    "citName": "Peravia",
+    "couId": "DO"
+  },
+  {
+    "citId": 521,
+    "citName": "Puerto Plata",
+    "couId": "DO"
+  },
+  {
+    "citId": 522,
+    "citName": "Samaná",
+    "couId": "DO"
+  },
+  {
+    "citId": 523,
+    "citName": "San Cristóbal",
+    "couId": "DO"
+  },
+  {
+    "citId": 524,
+    "citName": "San José de Ocoa",
+    "couId": "DO"
+  },
+  {
+    "citId": 525,
+    "citName": "San Juan",
+    "couId": "DO"
+  },
+  {
+    "citId": 526,
+    "citName": "San Pedro de Macorís",
+    "couId": "DO"
+  },
+  {
+    "citId": 527,
+    "citName": "Santiago",
+    "couId": "DO"
+  },
+  {
+    "citId": 528,
+    "citName": "Santiago Rodríguez",
+    "couId": "DO"
+  },
+  {
+    "citId": 529,
+    "citName": "Santo Domingo",
+    "couId": "DO"
+  },
+  {
+    "citId": 530,
+    "citName": "Sánchez Ramírez",
+    "couId": "DO"
+  },
+  {
+    "citId": 531,
+    "citName": "Valdesia",
+    "couId": "DO"
+  },
+  {
+    "citId": 532,
+    "citName": "Valverde",
+    "couId": "DO"
+  },
+  {
+    "citId": 533,
+    "citName": "Yuma",
+    "couId": "DO"
+  },
+  {
+    "citId": 534,
+    "citName": "Azuay",
+    "couId": "EC"
+  },
+  {
+    "citId": 535,
+    "citName": "Bolívar",
+    "couId": "EC"
+  },
+  {
+    "citId": 536,
+    "citName": "Carchi",
+    "couId": "EC"
+  },
+  {
+    "citId": 537,
+    "citName": "Cañar",
+    "couId": "EC"
+  },
+  {
+    "citId": 538,
+    "citName": "Chimborazo",
+    "couId": "EC"
+  },
+  {
+    "citId": 539,
+    "citName": "Cotopaxi",
+    "couId": "EC"
+  },
+  {
+    "citId": 540,
+    "citName": "El Oro",
+    "couId": "EC"
+  },
+  {
+    "citId": 541,
+    "citName": "Esmeraldas",
+    "couId": "EC"
+  },
+  {
+    "citId": 542,
+    "citName": "Galápagos",
+    "couId": "EC"
+  },
+  {
+    "citId": 543,
+    "citName": "Guayas",
+    "couId": "EC"
+  },
+  {
+    "citId": 544,
+    "citName": "Imbabura",
+    "couId": "EC"
+  },
+  {
+    "citId": 545,
+    "citName": "Loja",
+    "couId": "EC"
+  },
+  {
+    "citId": 546,
+    "citName": "Los Ríos",
+    "couId": "EC"
+  },
+  {
+    "citId": 547,
+    "citName": "Manabí",
+    "couId": "EC"
+  },
+  {
+    "citId": 548,
+    "citName": "Morona Santiago",
+    "couId": "EC"
+  },
+  {
+    "citId": 549,
+    "citName": "Napo",
+    "couId": "EC"
+  },
+  {
+    "citId": 550,
+    "citName": "Orellana",
+    "couId": "EC"
+  },
+  {
+    "citId": 551,
+    "citName": "Pastaza",
+    "couId": "EC"
+  },
+  {
+    "citId": 552,
+    "citName": "Pichincha",
+    "couId": "EC"
+  },
+  {
+    "citId": 553,
+    "citName": "Santa Elena",
+    "couId": "EC"
+  },
+  {
+    "citId": 554,
+    "citName": "Santo Domingo de los Tsáchilas",
+    "couId": "EC"
+  },
+  {
+    "citId": 555,
+    "citName": "Sucumbíos",
+    "couId": "EC"
+  },
+  {
+    "citId": 556,
+    "citName": "Tungurahua",
+    "couId": "EC"
+  },
+  {
+    "citId": 557,
+    "citName": "Zamora Chinchipe",
+    "couId": "EC"
+  },
+  {
+    "citId": 558,
+    "citName": "Ahuachapán",
+    "couId": "SV"
+  },
+  {
+    "citId": 559,
+    "citName": "Cabañas",
+    "couId": "SV"
+  },
+  {
+    "citId": 560,
+    "citName": "Chalatenango",
+    "couId": "SV"
+  },
+  {
+    "citId": 561,
+    "citName": "Cuscatlán",
+    "couId": "SV"
+  },
+  {
+    "citId": 562,
+    "citName": "La Libertad",
+    "couId": "SV"
+  },
+  {
+    "citId": 563,
+    "citName": "La Paz",
+    "couId": "SV"
+  },
+  {
+    "citId": 564,
+    "citName": "La Unión",
+    "couId": "SV"
+  },
+  {
+    "citId": 565,
+    "citName": "Morazán",
+    "couId": "SV"
+  },
+  {
+    "citId": 566,
+    "citName": "San Miguel",
+    "couId": "SV"
+  },
+  {
+    "citId": 567,
+    "citName": "San Salvador",
+    "couId": "SV"
+  },
+  {
+    "citId": 568,
+    "citName": "San Vicente",
+    "couId": "SV"
+  },
+  {
+    "citId": 569,
+    "citName": "Santa Ana",
+    "couId": "SV"
+  },
+  {
+    "citId": 570,
+    "citName": "Sonsonate",
+    "couId": "SV"
+  },
+  {
+    "citId": 571,
+    "citName": "Usulután",
+    "couId": "SV"
+  },
+  {
+    "citId": 572,
+    "citName": "Ain",
+    "couId": "FR"
+  },
+  {
+    "citId": 573,
+    "citName": "Aisne",
+    "couId": "FR"
+  },
+  {
+    "citId": 574,
+    "citName": "Allier",
+    "couId": "FR"
+  },
+  {
+    "citId": 575,
+    "citName": "Alpes-Maritimes",
+    "couId": "FR"
+  },
+  {
+    "citId": 576,
+    "citName": "Alpes-de-Haute-Provence",
+    "couId": "FR"
+  },
+  {
+    "citId": 577,
+    "citName": "Alsace",
+    "couId": "FR"
+  },
+  {
+    "citId": 578,
+    "citName": "Ardennes",
+    "couId": "FR"
+  },
+  {
+    "citId": 579,
+    "citName": "Ardèche",
+    "couId": "FR"
+  },
+  {
+    "citId": 580,
+    "citName": "Ariège",
+    "couId": "FR"
+  },
+  {
+    "citId": 581,
+    "citName": "Aube",
+    "couId": "FR"
+  },
+  {
+    "citId": 582,
+    "citName": "Aude",
+    "couId": "FR"
+  },
+  {
+    "citId": 583,
+    "citName": "Auvergne-Rhône-Alpes",
+    "couId": "FR"
+  },
+  {
+    "citId": 584,
+    "citName": "Aveyron",
+    "couId": "FR"
+  },
+  {
+    "citId": 585,
+    "citName": "Bas-Rhin",
+    "couId": "FR"
+  },
+  {
+    "citId": 586,
+    "citName": "Bouches-du-Rhône",
+    "couId": "FR"
+  },
+  {
+    "citId": 587,
+    "citName": "Bourgogne-Franche-Comté",
+    "couId": "FR"
+  },
+  {
+    "citId": 588,
+    "citName": "Bretagne",
+    "couId": "FR"
+  },
+  {
+    "citId": 589,
+    "citName": "Calvados",
+    "couId": "FR"
+  },
+  {
+    "citId": 590,
+    "citName": "Cantal",
+    "couId": "FR"
+  },
+  {
+    "citId": 591,
+    "citName": "Centre-Val de Loire",
+    "couId": "FR"
+  },
+  {
+    "citId": 592,
+    "citName": "Charente",
+    "couId": "FR"
+  },
+  {
+    "citId": 593,
+    "citName": "Charente-Maritime",
+    "couId": "FR"
+  },
+  {
+    "citId": 594,
+    "citName": "Cher",
+    "couId": "FR"
+  },
+  {
+    "citId": 595,
+    "citName": "Clipperton",
+    "couId": "FR"
+  },
+  {
+    "citId": 596,
+    "citName": "Corrèze",
+    "couId": "FR"
+  },
+  {
+    "citId": 597,
+    "citName": "Corse",
+    "couId": "FR"
+  },
+  {
+    "citId": 598,
+    "citName": "Corse-du-Sud",
+    "couId": "FR"
+  },
+  {
+    "citId": 599,
+    "citName": "Creuse",
+    "couId": "FR"
+  },
+  {
+    "citId": 600,
+    "citName": "Côte-d Or",
+    "couId": "FR"
+  },
+  {
+    "citId": 601,
+    "citName": "Côtes-d Armor",
+    "couId": "FR"
+  },
+  {
+    "citId": 602,
+    "citName": "Deux-Sèvres",
+    "couId": "FR"
+  },
+  {
+    "citId": 603,
+    "citName": "Dordogne",
+    "couId": "FR"
+  },
+  {
+    "citId": 604,
+    "citName": "Doubs",
+    "couId": "FR"
+  },
+  {
+    "citId": 605,
+    "citName": "Drôme",
+    "couId": "FR"
+  },
+  {
+    "citId": 606,
+    "citName": "Essonne",
+    "couId": "FR"
+  },
+  {
+    "citId": 607,
+    "citName": "Eure",
+    "couId": "FR"
+  },
+  {
+    "citId": 608,
+    "citName": "Eure-et-Loir",
+    "couId": "FR"
+  },
+  {
+    "citId": 609,
+    "citName": "Finistère",
+    "couId": "FR"
+  },
+  {
+    "citId": 610,
+    "citName": "Gard",
+    "couId": "FR"
+  },
+  {
+    "citId": 611,
+    "citName": "Gers",
+    "couId": "FR"
+  },
+  {
+    "citId": 612,
+    "citName": "Gironde",
+    "couId": "FR"
+  },
+  {
+    "citId": 613,
+    "citName": "Grand-Est",
+    "couId": "FR"
+  },
+  {
+    "citId": 614,
+    "citName": "Guadeloupe",
+    "couId": "FR"
+  },
+  {
+    "citId": 615,
+    "citName": "Guyane",
+    "couId": "FR"
+  },
+  {
+    "citId": 616,
+    "citName": "Haut-Rhin",
+    "couId": "FR"
+  },
+  {
+    "citId": 617,
+    "citName": "Haute-Corse",
+    "couId": "FR"
+  },
+  {
+    "citId": 618,
+    "citName": "Haute-Garonne",
+    "couId": "FR"
+  },
+  {
+    "citId": 619,
+    "citName": "Haute-Loire",
+    "couId": "FR"
+  },
+  {
+    "citId": 620,
+    "citName": "Haute-Marne",
+    "couId": "FR"
+  },
+  {
+    "citId": 621,
+    "citName": "Haute-Savoie",
+    "couId": "FR"
+  },
+  {
+    "citId": 622,
+    "citName": "Haute-Saône",
+    "couId": "FR"
+  },
+  {
+    "citId": 623,
+    "citName": "Haute-Vienne",
+    "couId": "FR"
+  },
+  {
+    "citId": 624,
+    "citName": "Hautes-Alpes",
+    "couId": "FR"
+  },
+  {
+    "citId": 625,
+    "citName": "Hautes-Pyrénées",
+    "couId": "FR"
+  },
+  {
+    "citId": 626,
+    "citName": "Hauts-de-France",
+    "couId": "FR"
+  },
+  {
+    "citId": 627,
+    "citName": "Hauts-de-Seine",
+    "couId": "FR"
+  },
+  {
+    "citId": 628,
+    "citName": "Hérault",
+    "couId": "FR"
+  },
+  {
+    "citId": 629,
+    "citName": "Ille-et-Vilaine",
+    "couId": "FR"
+  },
+  {
+    "citId": 630,
+    "citName": "Indre",
+    "couId": "FR"
+  },
+  {
+    "citId": 631,
+    "citName": "Indre-et-Loire",
+    "couId": "FR"
+  },
+  {
+    "citId": 632,
+    "citName": "Isère",
+    "couId": "FR"
+  },
+  {
+    "citId": 633,
+    "citName": "Jura",
+    "couId": "FR"
+  },
+  {
+    "citId": 634,
+    "citName": "La Réunion",
+    "couId": "FR"
+  },
+  {
+    "citId": 635,
+    "citName": "Landes",
+    "couId": "FR"
+  },
+  {
+    "citId": 636,
+    "citName": "Loir-et-Cher",
+    "couId": "FR"
+  },
+  {
+    "citId": 637,
+    "citName": "Loire",
+    "couId": "FR"
+  },
+  {
+    "citId": 638,
+    "citName": "Loire-Atlantique",
+    "couId": "FR"
+  },
+  {
+    "citId": 639,
+    "citName": "Loiret",
+    "couId": "FR"
+  },
+  {
+    "citId": 640,
+    "citName": "Lot",
+    "couId": "FR"
+  },
+  {
+    "citId": 641,
+    "citName": "Lot-et-Garonne",
+    "couId": "FR"
+  },
+  {
+    "citId": 642,
+    "citName": "Lozère",
+    "couId": "FR"
+  },
+  {
+    "citId": 643,
+    "citName": "Maine-et-Loire",
+    "couId": "FR"
+  },
+  {
+    "citId": 644,
+    "citName": "Manche",
+    "couId": "FR"
+  },
+  {
+    "citId": 645,
+    "citName": "Marne",
+    "couId": "FR"
+  },
+  {
+    "citId": 646,
+    "citName": "Martinique",
+    "couId": "FR"
+  },
+  {
+    "citId": 647,
+    "citName": "Mayenne",
+    "couId": "FR"
+  },
+  {
+    "citId": 648,
+    "citName": "Mayotte",
+    "couId": "FR"
+  },
+  {
+    "citId": 649,
+    "citName": "Meurthe-et-Moselle",
+    "couId": "FR"
+  },
+  {
+    "citId": 650,
+    "citName": "Meuse",
+    "couId": "FR"
+  },
+  {
+    "citId": 651,
+    "citName": "Morbihan",
+    "couId": "FR"
+  },
+  {
+    "citId": 652,
+    "citName": "Moselle",
+    "couId": "FR"
+  },
+  {
+    "citId": 653,
+    "citName": "Métropole de Lyon",
+    "couId": "FR"
+  },
+  {
+    "citId": 654,
+    "citName": "Nièvre",
+    "couId": "FR"
+  },
+  {
+    "citId": 655,
+    "citName": "Nord",
+    "couId": "FR"
+  },
+  {
+    "citId": 656,
+    "citName": "Normandie",
+    "couId": "FR"
+  },
+  {
+    "citId": 657,
+    "citName": "Nouvelle-Aquitaine",
+    "couId": "FR"
+  },
+  {
+    "citId": 658,
+    "citName": "Nouvelle-Calédonie",
+    "couId": "FR"
+  },
+  {
+    "citId": 659,
+    "citName": "Occitanie",
+    "couId": "FR"
+  },
+  {
+    "citId": 660,
+    "citName": "Oise",
+    "couId": "FR"
+  },
+  {
+    "citId": 661,
+    "citName": "Orne",
+    "couId": "FR"
+  },
+  {
+    "citId": 662,
+    "citName": "Paris",
+    "couId": "FR"
+  },
+  {
+    "citId": 663,
+    "citName": "Pas-de-Calais",
+    "couId": "FR"
+  },
+  {
+    "citId": 664,
+    "citName": "Pays-de-la-Loire",
+    "couId": "FR"
+  },
+  {
+    "citId": 665,
+    "citName": "Polynésie française",
+    "couId": "FR"
+  },
+  {
+    "citId": 666,
+    "citName": "Provence-Alpes-Côte-d’Azur",
+    "couId": "FR"
+  },
+  {
+    "citId": 667,
+    "citName": "Puy-de-Dôme",
+    "couId": "FR"
+  },
+  {
+    "citId": 668,
+    "citName": "Pyrénées-Atlantiques",
+    "couId": "FR"
+  },
+  {
+    "citId": 669,
+    "citName": "Pyrénées-Orientales",
+    "couId": "FR"
+  },
+  {
+    "citId": 670,
+    "citName": "Rhône",
+    "couId": "FR"
+  },
+  {
+    "citId": 671,
+    "citName": "Saint-Barthélemy",
+    "couId": "FR"
+  },
+  {
+    "citId": 672,
+    "citName": "Saint-Martin",
+    "couId": "FR"
+  },
+  {
+    "citId": 673,
+    "citName": "Saint-Pierre-et-Miquelon",
+    "couId": "FR"
+  },
+  {
+    "citId": 674,
+    "citName": "Sarthe",
+    "couId": "FR"
+  },
+  {
+    "citId": 675,
+    "citName": "Savoie",
+    "couId": "FR"
+  },
+  {
+    "citId": 676,
+    "citName": "Saône-et-Loire",
+    "couId": "FR"
+  },
+  {
+    "citId": 677,
+    "citName": "Seine-Maritime",
+    "couId": "FR"
+  },
+  {
+    "citId": 678,
+    "citName": "Seine-Saint-Denis",
+    "couId": "FR"
+  },
+  {
+    "citId": 679,
+    "citName": "Seine-et-Marne",
+    "couId": "FR"
+  },
+  {
+    "citId": 680,
+    "citName": "Somme",
+    "couId": "FR"
+  },
+  {
+    "citId": 681,
+    "citName": "Tarn",
+    "couId": "FR"
+  },
+  {
+    "citId": 682,
+    "citName": "Tarn-et-Garonne",
+    "couId": "FR"
+  },
+  {
+    "citId": 683,
+    "citName": "Terres australes françaises",
+    "couId": "FR"
+  },
+  {
+    "citId": 684,
+    "citName": "Territoire de Belfort",
+    "couId": "FR"
+  },
+  {
+    "citId": 685,
+    "citName": "Val-d Oise",
+    "couId": "FR"
+  },
+  {
+    "citId": 686,
+    "citName": "Val-de-Marne",
+    "couId": "FR"
+  },
+  {
+    "citId": 687,
+    "citName": "Var",
+    "couId": "FR"
+  },
+  {
+    "citId": 688,
+    "citName": "Vaucluse",
+    "couId": "FR"
+  },
+  {
+    "citId": 689,
+    "citName": "Vendée",
+    "couId": "FR"
+  },
+  {
+    "citId": 690,
+    "citName": "Vienne",
+    "couId": "FR"
+  },
+  {
+    "citId": 691,
+    "citName": "Vosges",
+    "couId": "FR"
+  },
+  {
+    "citId": 692,
+    "citName": "Wallis-et-Futuna",
+    "couId": "FR"
+  },
+  {
+    "citId": 693,
+    "citName": "Yonne",
+    "couId": "FR"
+  },
+  {
+    "citId": 694,
+    "citName": "Yvelines",
+    "couId": "FR"
+  },
+  {
+    "citId": 695,
+    "citName": "Île-de-France",
+    "couId": "FR"
+  },
+  {
+    "citId": 696,
+    "citName": "Baden-Württemberg",
+    "couId": "DE"
+  },
+  {
+    "citId": 697,
+    "citName": "Bayern",
+    "couId": "DE"
+  },
+  {
+    "citId": 698,
+    "citName": "Berlin",
+    "couId": "DE"
+  },
+  {
+    "citId": 699,
+    "citName": "Brandenburg",
+    "couId": "DE"
+  },
+  {
+    "citId": 700,
+    "citName": "Bremen",
+    "couId": "DE"
+  },
+  {
+    "citId": 701,
+    "citName": "Hamburg",
+    "couId": "DE"
+  },
+  {
+    "citId": 702,
+    "citName": "Hessen",
+    "couId": "DE"
+  },
+  {
+    "citId": 703,
+    "citName": "Mecklenburg-Vorpommern",
+    "couId": "DE"
+  },
+  {
+    "citId": 704,
+    "citName": "Niedersachsen",
+    "couId": "DE"
+  },
+  {
+    "citId": 705,
+    "citName": "Nordrhein-Westfalen",
+    "couId": "DE"
+  },
+  {
+    "citId": 706,
+    "citName": "Rheinland-Pfalz",
+    "couId": "DE"
+  },
+  {
+    "citId": 707,
+    "citName": "Saarland",
+    "couId": "DE"
+  },
+  {
+    "citId": 708,
+    "citName": "Sachsen",
+    "couId": "DE"
+  },
+  {
+    "citId": 709,
+    "citName": "Sachsen-Anhalt",
+    "couId": "DE"
+  },
+  {
+    "citId": 710,
+    "citName": "Schleswig-Holstein",
+    "couId": "DE"
+  },
+  {
+    "citId": 711,
+    "citName": "Thüringen",
+    "couId": "DE"
+  },
+  {
+    "citId": 712,
+    "citName": "Alta Verapaz",
+    "couId": "GT"
+  },
+  {
+    "citId": 713,
+    "citName": "Baja Verapaz",
+    "couId": "GT"
+  },
+  {
+    "citId": 714,
+    "citName": "Chimaltenango",
+    "couId": "GT"
+  },
+  {
+    "citId": 715,
+    "citName": "Chiquimula",
+    "couId": "GT"
+  },
+  {
+    "citId": 716,
+    "citName": "El Progreso",
+    "couId": "GT"
+  },
+  {
+    "citId": 717,
+    "citName": "Escuintla",
+    "couId": "GT"
+  },
+  {
+    "citId": 718,
+    "citName": "Guatemala",
+    "couId": "GT"
+  },
+  {
+    "citId": 719,
+    "citName": "Huehuetenango",
+    "couId": "GT"
+  },
+  {
+    "citId": 720,
+    "citName": "Izabal",
+    "couId": "GT"
+  },
+  {
+    "citId": 721,
+    "citName": "Jalapa",
+    "couId": "GT"
+  },
+  {
+    "citId": 722,
+    "citName": "Jutiapa",
+    "couId": "GT"
+  },
+  {
+    "citId": 723,
+    "citName": "Petén",
+    "couId": "GT"
+  },
+  {
+    "citId": 724,
+    "citName": "Quetzaltenango",
+    "couId": "GT"
+  },
+  {
+    "citId": 725,
+    "citName": "Quiché",
+    "couId": "GT"
+  },
+  {
+    "citId": 726,
+    "citName": "Retalhuleu",
+    "couId": "GT"
+  },
+  {
+    "citId": 727,
+    "citName": "Sacatepéquez",
+    "couId": "GT"
+  },
+  {
+    "citId": 728,
+    "citName": "San Marcos",
+    "couId": "GT"
+  },
+  {
+    "citId": 729,
+    "citName": "Santa Rosa",
+    "couId": "GT"
+  },
+  {
+    "citId": 730,
+    "citName": "Sololá",
+    "couId": "GT"
+  },
+  {
+    "citId": 731,
+    "citName": "Suchitepéquez",
+    "couId": "GT"
+  },
+  {
+    "citId": 732,
+    "citName": "Totonicapán",
+    "couId": "GT"
+  },
+  {
+    "citId": 733,
+    "citName": "Zacapa",
+    "couId": "GT"
+  },
+  {
+    "citId": 734,
+    "citName": "Artibonite",
+    "couId": "HT"
+  },
+  {
+    "citId": 735,
+    "citName": "Centre",
+    "couId": "HT"
+  },
+  {
+    "citId": 736,
+    "citName": "Grande-Anse",
+    "couId": "HT"
+  },
+  {
+    "citId": 737,
+    "citName": "Nord",
+    "couId": "HT"
+  },
+  {
+    "citId": 738,
+    "citName": "Nord-Est",
+    "couId": "HT"
+  },
+  {
+    "citId": 739,
+    "citName": "Nord-Ouest",
+    "couId": "HT"
+  },
+  {
+    "citId": 740,
+    "citName": "Ouest",
+    "couId": "HT"
+  },
+  {
+    "citId": 741,
+    "citName": "Sud",
+    "couId": "HT"
+  },
+  {
+    "citId": 742,
+    "citName": "Sud-Est",
+    "couId": "HT"
+  },
+  {
+    "citId": 743,
+    "citName": "Aguascalientes",
+    "couId": "MX"
+  },
+  {
+    "citId": 744,
+    "citName": "Baja California",
+    "couId": "MX"
+  },
+  {
+    "citId": 745,
+    "citName": "Baja California Sur",
+    "couId": "MX"
+  },
+  {
+    "citId": 746,
+    "citName": "Campeche",
+    "couId": "MX"
+  },
+  {
+    "citId": 747,
+    "citName": "Chiapas",
+    "couId": "MX"
+  },
+  {
+    "citId": 748,
+    "citName": "Chihuahua",
+    "couId": "MX"
+  },
+  {
+    "citId": 749,
+    "citName": "Ciudad de México",
+    "couId": "MX"
+  },
+  {
+    "citId": 750,
+    "citName": "Coahuila de Zaragoza",
+    "couId": "MX"
+  },
+  {
+    "citId": 751,
+    "citName": "Colima",
+    "couId": "MX"
+  },
+  {
+    "citId": 752,
+    "citName": "Durango",
+    "couId": "MX"
+  },
+  {
+    "citId": 753,
+    "citName": "Guanajuato",
+    "couId": "MX"
+  },
+  {
+    "citId": 754,
+    "citName": "Guerrero",
+    "couId": "MX"
+  },
+  {
+    "citId": 755,
+    "citName": "Hidalgo",
+    "couId": "MX"
+  },
+  {
+    "citId": 756,
+    "citName": "Jalisco",
+    "couId": "MX"
+  },
+  {
+    "citId": 757,
+    "citName": "Michoacán de Ocampo",
+    "couId": "MX"
+  },
+  {
+    "citId": 758,
+    "citName": "Morelos",
+    "couId": "MX"
+  },
+  {
+    "citId": 759,
+    "citName": "México",
+    "couId": "MX"
+  },
+  {
+    "citId": 760,
+    "citName": "Nayarit",
+    "couId": "MX"
+  },
+  {
+    "citId": 761,
+    "citName": "Nuevo León",
+    "couId": "MX"
+  },
+  {
+    "citId": 762,
+    "citName": "Oaxaca",
+    "couId": "MX"
+  },
+  {
+    "citId": 763,
+    "citName": "Puebla",
+    "couId": "MX"
+  },
+  {
+    "citId": 764,
+    "citName": "Querétaro",
+    "couId": "MX"
+  },
+  {
+    "citId": 765,
+    "citName": "Quintana Roo",
+    "couId": "MX"
+  },
+  {
+    "citId": 766,
+    "citName": "San Luis Potosí",
+    "couId": "MX"
+  },
+  {
+    "citId": 767,
+    "citName": "Sinaloa",
+    "couId": "MX"
+  },
+  {
+    "citId": 768,
+    "citName": "Sonora",
+    "couId": "MX"
+  },
+  {
+    "citId": 769,
+    "citName": "Tabasco",
+    "couId": "MX"
+  },
+  {
+    "citId": 770,
+    "citName": "Tamaulipas",
+    "couId": "MX"
+  },
+  {
+    "citId": 771,
+    "citName": "Tlaxcala",
+    "couId": "MX"
+  },
+  {
+    "citId": 772,
+    "citName": "Veracruz de Ignacio de la Llave",
+    "couId": "MX"
+  },
+  {
+    "citId": 773,
+    "citName": "Yucatán",
+    "couId": "MX"
+  },
+  {
+    "citId": 774,
+    "citName": "Zacatecas",
+    "couId": "MX"
+  },
+  {
+    "citId": 775,
+    "citName": "Alto Paraguay",
+    "couId": "PY"
+  },
+  {
+    "citId": 776,
+    "citName": "Alto Paraná",
+    "couId": "PY"
+  },
+  {
+    "citId": 777,
+    "citName": "Amambay",
+    "couId": "PY"
+  },
+  {
+    "citId": 778,
+    "citName": "Asunción",
+    "couId": "PY"
+  },
+  {
+    "citId": 779,
+    "citName": "Boquerón",
+    "couId": "PY"
+  },
+  {
+    "citId": 780,
+    "citName": "Caaguazú",
+    "couId": "PY"
+  },
+  {
+    "citId": 781,
+    "citName": "Caazapá",
+    "couId": "PY"
+  },
+  {
+    "citId": 782,
+    "citName": "Canindeyú",
+    "couId": "PY"
+  },
+  {
+    "citId": 783,
+    "citName": "Central",
+    "couId": "PY"
+  },
+  {
+    "citId": 784,
+    "citName": "Concepción",
+    "couId": "PY"
+  },
+  {
+    "citId": 785,
+    "citName": "Cordillera",
+    "couId": "PY"
+  },
+  {
+    "citId": 786,
+    "citName": "Guairá",
+    "couId": "PY"
+  },
+  {
+    "citId": 787,
+    "citName": "Itapúa",
+    "couId": "PY"
+  },
+  {
+    "citId": 788,
+    "citName": "Misiones",
+    "couId": "PY"
+  },
+  {
+    "citId": 789,
+    "citName": "Paraguarí",
+    "couId": "PY"
+  },
+  {
+    "citId": 790,
+    "citName": "Presidente Hayes",
+    "couId": "PY"
+  },
+  {
+    "citId": 791,
+    "citName": "San Pedro",
+    "couId": "PY"
+  },
+  {
+    "citId": 792,
+    "citName": "Ñeembucú",
+    "couId": "PY"
+  },
+  {
+    "citId": 793,
+    "citName": "Amazonas",
+    "couId": "PE"
+  },
+  {
+    "citId": 794,
+    "citName": "Ancash",
+    "couId": "PE"
+  },
+  {
+    "citId": 795,
+    "citName": "Apurímac",
+    "couId": "PE"
+  },
+  {
+    "citId": 796,
+    "citName": "Arequipa",
+    "couId": "PE"
+  },
+  {
+    "citId": 797,
+    "citName": "Ayacucho",
+    "couId": "PE"
+  },
+  {
+    "citId": 798,
+    "citName": "Cajamarca",
+    "couId": "PE"
+  },
+  {
+    "citId": 799,
+    "citName": "Cusco",
+    "couId": "PE"
+  },
+  {
+    "citId": 800,
+    "citName": "El Callao",
+    "couId": "PE"
+  },
+  {
+    "citId": 801,
+    "citName": "Huancavelica",
+    "couId": "PE"
+  },
+  {
+    "citId": 802,
+    "citName": "Huánuco",
+    "couId": "PE"
+  },
+  {
+    "citId": 803,
+    "citName": "Ica",
+    "couId": "PE"
+  },
+  {
+    "citId": 804,
+    "citName": "Junín",
+    "couId": "PE"
+  },
+  {
+    "citId": 805,
+    "citName": "La Libertad",
+    "couId": "PE"
+  },
+  {
+    "citId": 806,
+    "citName": "Lambayeque",
+    "couId": "PE"
+  },
+  {
+    "citId": 807,
+    "citName": "Lima",
+    "couId": "PE"
+  },
+  {
+    "citId": 808,
+    "citName": "Loreto",
+    "couId": "PE"
+  },
+  {
+    "citId": 809,
+    "citName": "Madre de Dios",
+    "couId": "PE"
+  },
+  {
+    "citId": 810,
+    "citName": "Moquegua",
+    "couId": "PE"
+  },
+  {
+    "citId": 811,
+    "citName": "Municipalidad Metropolitana de Lima",
+    "couId": "PE"
+  },
+  {
+    "citId": 812,
+    "citName": "Pasco",
+    "couId": "PE"
+  },
+  {
+    "citId": 813,
+    "citName": "Piura",
+    "couId": "PE"
+  },
+  {
+    "citId": 814,
+    "citName": "Puno",
+    "couId": "PE"
+  },
+  {
+    "citId": 815,
+    "citName": "San Martín",
+    "couId": "PE"
+  },
+  {
+    "citId": 816,
+    "citName": "Tacna",
+    "couId": "PE"
+  },
+  {
+    "citId": 817,
+    "citName": "Tumbes",
+    "couId": "PE"
+  },
+  {
+    "citId": 818,
+    "citName": "Ucayali",
+    "couId": "PE"
+  },
+  {
+    "citId": 819,
+    "citName": "Chiriquí",
+    "couId": "PA"
+  },
+  {
+    "citId": 820,
+    "citName": "Coclé",
+    "couId": "PA"
+  },
+  {
+    "citId": 821,
+    "citName": "Colón",
+    "couId": "PA"
+  },
+  {
+    "citId": 822,
+    "citName": "Darién",
+    "couId": "PA"
+  },
+  {
+    "citId": 823,
+    "citName": "Emberá",
+    "couId": "PA"
+  },
+  {
+    "citId": 824,
+    "citName": "Guna Yala",
+    "couId": "PA"
+  },
+  {
+    "citId": 825,
+    "citName": "Herrera",
+    "couId": "PA"
+  },
+  {
+    "citId": 826,
+    "citName": "Los Santos",
+    "couId": "PA"
+  },
+  {
+    "citId": 827,
+    "citName": "Naso Tjër Di",
+    "couId": "PA"
+  },
+  {
+    "citId": 828,
+    "citName": "Ngöbe-Buglé",
+    "couId": "PA"
+  },
+  {
+    "citId": 829,
+    "citName": "Panamá",
+    "couId": "PA"
+  },
+  {
+    "citId": 830,
+    "citName": "Panamá Oeste",
+    "couId": "PA"
+  },
+  {
+    "citId": 831,
+    "citName": "Veraguas",
+    "couId": "PA"
+  },
+  {
+    "citId": 832,
+    "citName": "Boaco",
+    "couId": "NI"
+  },
+  {
+    "citId": 833,
+    "citName": "Carazo",
+    "couId": "NI"
+  },
+  {
+    "citId": 834,
+    "citName": "Chinandega",
+    "couId": "NI"
+  },
+  {
+    "citId": 835,
+    "citName": "Chontales",
+    "couId": "NI"
+  },
+  {
+    "citId": 836,
+    "citName": "Costa Caribe Norte",
+    "couId": "NI"
+  },
+  {
+    "citId": 837,
+    "citName": "Costa Caribe Sur",
+    "couId": "NI"
+  },
+  {
+    "citId": 838,
+    "citName": "Estelí",
+    "couId": "NI"
+  },
+  {
+    "citId": 839,
+    "citName": "Granada",
+    "couId": "NI"
+  },
+  {
+    "citId": 840,
+    "citName": "Jinotega",
+    "couId": "NI"
+  },
+  {
+    "citId": 841,
+    "citName": "León",
+    "couId": "NI"
+  },
+  {
+    "citId": 842,
+    "citName": "Madriz",
+    "couId": "NI"
+  },
+  {
+    "citId": 843,
+    "citName": "Managua",
+    "couId": "NI"
+  },
+  {
+    "citId": 844,
+    "citName": "Masaya",
+    "couId": "NI"
+  },
+  {
+    "citId": 845,
+    "citName": "Matagalpa",
+    "couId": "NI"
+  },
+  {
+    "citId": 846,
+    "citName": "Nueva Segovia",
+    "couId": "NI"
+  },
+  {
+    "citId": 847,
+    "citName": "Rivas",
+    "couId": "NI"
+  },
+  {
+    "citId": 848,
+    "citName": "Río San Juan",
+    "couId": "NI"
+  },
+  {
+    "citId": 849,
+    "citName": "Aveiro",
+    "couId": "PT"
+  },
+  {
+    "citId": 850,
+    "citName": "Beja",
+    "couId": "PT"
+  },
+  {
+    "citId": 851,
+    "citName": "Braga",
+    "couId": "PT"
+  },
+  {
+    "citId": 852,
+    "citName": "Bragança",
+    "couId": "PT"
+  },
+  {
+    "citId": 853,
+    "citName": "Castelo Branco",
+    "couId": "PT"
+  },
+  {
+    "citId": 854,
+    "citName": "Coimbra",
+    "couId": "PT"
+  },
+  {
+    "citId": 855,
+    "citName": "Faro",
+    "couId": "PT"
+  },
+  {
+    "citId": 856,
+    "citName": "Guarda",
+    "couId": "PT"
+  },
+  {
+    "citId": 857,
+    "citName": "Leiria",
+    "couId": "PT"
+  },
+  {
+    "citId": 858,
+    "citName": "Lisboa",
+    "couId": "PT"
+  },
+  {
+    "citId": 859,
+    "citName": "Portalegre",
+    "couId": "PT"
+  },
+  {
+    "citId": 860,
+    "citName": "Porto",
+    "couId": "PT"
+  },
+  {
+    "citId": 861,
+    "citName": "Região Autónoma da Madeira",
+    "couId": "PT"
+  },
+  {
+    "citId": 862,
+    "citName": "Região Autónoma dos Açores",
+    "couId": "PT"
+  },
+  {
+    "citId": 863,
+    "citName": "Santarém",
+    "couId": "PT"
+  },
+  {
+    "citId": 864,
+    "citName": "Setúbal",
+    "couId": "PT"
+  },
+  {
+    "citId": 865,
+    "citName": "Viana do Castelo",
+    "couId": "PT"
+  },
+  {
+    "citId": 866,
+    "citName": "Vila Real",
+    "couId": "PT"
+  },
+  {
+    "citId": 867,
+    "citName": "Viseu",
+    "couId": "PT"
+  },
+  {
+    "citId": 868,
+    "citName": "Évora",
+    "couId": "PT"
+  },
+  {
+    "citId": 869,
+    "citName": "Álava",
+    "couId": "ES"
+  },
+  {
+    "citId": 870,
+    "citName": "Albacete",
+    "couId": "ES"
+  },
+  {
+    "citId": 871,
+    "citName": "Alicante",
+    "couId": "ES"
+  },
+  {
+    "citId": 872,
+    "citName": "Almería",
+    "couId": "ES"
+  },
+  {
+    "citId": 873,
+    "citName": "Andalucía",
+    "couId": "ES"
+  },
+  {
+    "citId": 874,
+    "citName": "Aragón",
+    "couId": "ES"
+  },
+  {
+    "citId": 875,
+    "citName": "Asturias",
+    "couId": "ES"
+  },
+  {
+    "citId": 876,
+    "citName": "Asturias, Principado de",
+    "couId": "ES"
+  },
+  {
+    "citId": 877,
+    "citName": "Ávila",
+    "couId": "ES"
+  },
+  {
+    "citId": 878,
+    "citName": "Badajoz",
+    "couId": "ES"
+  },
+  {
+    "citId": 879,
+    "citName": "Barcelona",
+    "couId": "ES"
+  },
+  {
+    "citId": 880,
+    "citName": "Burgos",
+    "couId": "ES"
+  },
+  {
+    "citId": 881,
+    "citName": "Cáceres",
+    "couId": "ES"
+  },
+  {
+    "citId": 882,
+    "citName": "Cádiz",
+    "couId": "ES"
+  },
+  {
+    "citId": 883,
+    "citName": "Canarias",
+    "couId": "ES"
+  },
+  {
+    "citId": 884,
+    "citName": "Cantabria",
+    "couId": "ES"
+  },
+  {
+    "citId": 885,
+    "citName": "Castellón",
+    "couId": "ES"
+  },
+  {
+    "citId": 886,
+    "citName": "Castilla y León",
+    "couId": "ES"
+  },
+  {
+    "citId": 887,
+    "citName": "Castilla-La Mancha",
+    "couId": "ES"
+  },
+  {
+    "citId": 888,
+    "citName": "Ceuta",
+    "couId": "ES"
+  },
+  {
+    "citId": 889,
+    "citName": "Ciudad Real",
+    "couId": "ES"
+  },
+  {
+    "citId": 890,
+    "citName": "Córdoba",
+    "couId": "ES"
+  },
+  {
+    "citId": 891,
+    "citName": "Cuenca",
+    "couId": "ES"
+  },
+  {
+    "citId": 892,
+    "citName": "Extremadura",
+    "couId": "ES"
+  },
+  {
+    "citId": 893,
+    "citName": "Granada",
+    "couId": "ES"
+  },
+  {
+    "citId": 894,
+    "citName": "Guadalajara",
+    "couId": "ES"
+  },
+  {
+    "citId": 895,
+    "citName": "Huelva",
+    "couId": "ES"
+  },
+  {
+    "citId": 896,
+    "citName": "Huesca",
+    "couId": "ES"
+  },
+  {
+    "citId": 897,
+    "citName": "Jaén",
+    "couId": "ES"
+  },
+  {
+    "citId": 898,
+    "citName": "La Rioja",
+    "couId": "ES"
+  },
+  {
+    "citId": 899,
+    "citName": "Las Palmas",
+    "couId": "ES"
+  },
+  {
+    "citId": 900,
+    "citName": "León",
+    "couId": "ES"
+  },
+  {
+    "citId": 901,
+    "citName": "Madrid",
+    "couId": "ES"
+  },
+  {
+    "citId": 902,
+    "citName": "Madrid, Comunidad de",
+    "couId": "ES"
+  },
+  {
+    "citId": 903,
+    "citName": "Málaga",
+    "couId": "ES"
+  },
+  {
+    "citId": 904,
+    "citName": "Melilla",
+    "couId": "ES"
+  },
+  {
+    "citId": 905,
+    "citName": "Murcia",
+    "couId": "ES"
+  },
+  {
+    "citId": 906,
+    "citName": "Murcia, Región de",
+    "couId": "ES"
+  },
+  {
+    "citId": 907,
+    "citName": "Navarra",
+    "couId": "ES"
+  },
+  {
+    "citId": 908,
+    "citName": "Navarra, Comunidad Foral de",
+    "couId": "ES"
+  },
+  {
+    "citId": 909,
+    "citName": "País Vasco",
+    "couId": "ES"
+  },
+  {
+    "citId": 910,
+    "citName": "Palencia",
+    "couId": "ES"
+  },
+  {
+    "citId": 911,
+    "citName": "Salamanca",
+    "couId": "ES"
+  },
+  {
+    "citId": 912,
+    "citName": "Santa Cruz de Tenerife",
+    "couId": "ES"
+  },
+  {
+    "citId": 913,
+    "citName": "Segovia",
+    "couId": "ES"
+  },
+  {
+    "citId": 914,
+    "citName": "Sevilla",
+    "couId": "ES"
+  },
+  {
+    "citId": 915,
+    "citName": "Soria",
+    "couId": "ES"
+  },
+  {
+    "citId": 916,
+    "citName": "Teruel",
+    "couId": "ES"
+  },
+  {
+    "citId": 917,
+    "citName": "Toledo",
+    "couId": "ES"
+  },
+  {
+    "citId": 918,
+    "citName": "Valencia",
+    "couId": "ES"
+  },
+  {
+    "citId": 919,
+    "citName": "Valenciana, Comunidad",
+    "couId": "ES"
+  },
+  {
+    "citId": 920,
+    "citName": "Valladolid",
+    "couId": "ES"
+  },
+  {
+    "citId": 921,
+    "citName": "Zamora",
+    "couId": "ES"
+  },
+  {
+    "citId": 922,
+    "citName": "Zaragoza",
+    "couId": "ES"
+  },
+  {
+    "citId": 923,
+    "citName": "Alabama",
+    "couId": "US"
+  },
+  {
+    "citId": 924,
+    "citName": "Alaska",
+    "couId": "US"
+  },
+  {
+    "citId": 925,
+    "citName": "American Samoa",
+    "couId": "US"
+  },
+  {
+    "citId": 926,
+    "citName": "Arizona",
+    "couId": "US"
+  },
+  {
+    "citId": 927,
+    "citName": "Arkansas",
+    "couId": "US"
+  },
+  {
+    "citId": 928,
+    "citName": "California",
+    "couId": "US"
+  },
+  {
+    "citId": 929,
+    "citName": "Colorado",
+    "couId": "US"
+  },
+  {
+    "citId": 930,
+    "citName": "Connecticut",
+    "couId": "US"
+  },
+  {
+    "citId": 931,
+    "citName": "Delaware",
+    "couId": "US"
+  },
+  {
+    "citId": 932,
+    "citName": "District of Columbia",
+    "couId": "US"
+  },
+  {
+    "citId": 933,
+    "citName": "Florida",
+    "couId": "US"
+  },
+  {
+    "citId": 934,
+    "citName": "Georgia",
+    "couId": "US"
+  },
+  {
+    "citId": 935,
+    "citName": "Guam",
+    "couId": "US"
+  },
+  {
+    "citId": 936,
+    "citName": "Hawaii",
+    "couId": "US"
+  },
+  {
+    "citId": 937,
+    "citName": "Idaho",
+    "couId": "US"
+  },
+  {
+    "citId": 938,
+    "citName": "Illinois",
+    "couId": "US"
+  },
+  {
+    "citId": 939,
+    "citName": "Indiana",
+    "couId": "US"
+  },
+  {
+    "citId": 940,
+    "citName": "Iowa",
+    "couId": "US"
+  },
+  {
+    "citId": 941,
+    "citName": "Kansas",
+    "couId": "US"
+  },
+  {
+    "citId": 942,
+    "citName": "Kentucky",
+    "couId": "US"
+  },
+  {
+    "citId": 943,
+    "citName": "Louisiana",
+    "couId": "US"
+  },
+  {
+    "citId": 944,
+    "citName": "Maine",
+    "couId": "US"
+  },
+  {
+    "citId": 945,
+    "citName": "Maryland",
+    "couId": "US"
+  },
+  {
+    "citId": 946,
+    "citName": "Massachusetts",
+    "couId": "US"
+  },
+  {
+    "citId": 947,
+    "citName": "Michigan",
+    "couId": "US"
+  },
+  {
+    "citId": 948,
+    "citName": "Minnesota",
+    "couId": "US"
+  },
+  {
+    "citId": 949,
+    "citName": "Mississippi",
+    "couId": "US"
+  },
+  {
+    "citId": 950,
+    "citName": "Missouri",
+    "couId": "US"
+  },
+  {
+    "citId": 951,
+    "citName": "Montana",
+    "couId": "US"
+  },
+  {
+    "citId": 952,
+    "citName": "Nebraska",
+    "couId": "US"
+  },
+  {
+    "citId": 953,
+    "citName": "Nevada",
+    "couId": "US"
+  },
+  {
+    "citId": 954,
+    "citName": "New Hampshire",
+    "couId": "US"
+  },
+  {
+    "citId": 955,
+    "citName": "New Jersey",
+    "couId": "US"
+  },
+  {
+    "citId": 956,
+    "citName": "New Mexico",
+    "couId": "US"
+  },
+  {
+    "citId": 957,
+    "citName": "New York",
+    "couId": "US"
+  },
+  {
+    "citId": 958,
+    "citName": "North Carolina",
+    "couId": "US"
+  },
+  {
+    "citId": 959,
+    "citName": "North Dakota",
+    "couId": "US"
+  },
+  {
+    "citId": 960,
+    "citName": "Northern Mariana Islands",
+    "couId": "US"
+  },
+  {
+    "citId": 961,
+    "citName": "Ohio",
+    "couId": "US"
+  },
+  {
+    "citId": 962,
+    "citName": "Oklahoma",
+    "couId": "US"
+  },
+  {
+    "citId": 963,
+    "citName": "Oregon",
+    "couId": "US"
+  },
+  {
+    "citId": 964,
+    "citName": "Pennsylvania",
+    "couId": "US"
+  },
+  {
+    "citId": 965,
+    "citName": "Puerto Rico",
+    "couId": "US"
+  },
+  {
+    "citId": 966,
+    "citName": "Rhode Island",
+    "couId": "US"
+  },
+  {
+    "citId": 967,
+    "citName": "South Carolina",
+    "couId": "US"
+  },
+  {
+    "citId": 968,
+    "citName": "South Dakota",
+    "couId": "US"
+  },
+  {
+    "citId": 969,
+    "citName": "Tennessee",
+    "couId": "US"
+  },
+  {
+    "citId": 970,
+    "citName": "Texas",
+    "couId": "US"
+  },
+  {
+    "citId": 971,
+    "citName": "United States Minor Outlying Islands",
+    "couId": "US"
+  },
+  {
+    "citId": 972,
+    "citName": "Utah",
+    "couId": "US"
+  },
+  {
+    "citId": 973,
+    "citName": "Vermont",
+    "couId": "US"
+  },
+  {
+    "citId": 974,
+    "citName": "Virgin Islands, U.S.",
+    "couId": "US"
+  },
+  {
+    "citId": 975,
+    "citName": "Virginia",
+    "couId": "US"
+  },
+  {
+    "citId": 976,
+    "citName": "Washington",
+    "couId": "US"
+  },
+  {
+    "citId": 977,
+    "citName": "West Virginia",
+    "couId": "US"
+  },
+  {
+    "citId": 978,
+    "citName": "Wisconsin",
+    "couId": "US"
+  },
+  {
+    "citId": 979,
+    "citName": "Wyoming",
+    "couId": "US"
+  },
+  {
+    "citId": 980,
+    "citName": "Artigas",
+    "couId": "UY"
+  },
+  {
+    "citId": 981,
+    "citName": "Canelones",
+    "couId": "UY"
+  },
+  {
+    "citId": 982,
+    "citName": "Cerro Largo",
+    "couId": "UY"
+  },
+  {
+    "citId": 983,
+    "citName": "Colonia",
+    "couId": "UY"
+  },
+  {
+    "citId": 984,
+    "citName": "Durazno",
+    "couId": "UY"
+  },
+  {
+    "citId": 985,
+    "citName": "Flores",
+    "couId": "UY"
+  },
+  {
+    "citId": 986,
+    "citName": "Florida",
+    "couId": "UY"
+  },
+  {
+    "citId": 987,
+    "citName": "Lavalleja",
+    "couId": "UY"
+  },
+  {
+    "citId": 988,
+    "citName": "Maldonado",
+    "couId": "UY"
+  },
+  {
+    "citId": 989,
+    "citName": "Montevideo",
+    "couId": "UY"
+  },
+  {
+    "citId": 990,
+    "citName": "Paysandú",
+    "couId": "UY"
+  },
+  {
+    "citId": 991,
+    "citName": "Rivera",
+    "couId": "UY"
+  },
+  {
+    "citId": 992,
+    "citName": "Rocha",
+    "couId": "UY"
+  },
+  {
+    "citId": 993,
+    "citName": "Río Negro",
+    "couId": "UY"
+  },
+  {
+    "citId": 994,
+    "citName": "Salto",
+    "couId": "UY"
+  },
+  {
+    "citId": 995,
+    "citName": "San José",
+    "couId": "UY"
+  },
+  {
+    "citId": 996,
+    "citName": "Soriano",
+    "couId": "UY"
+  },
+  {
+    "citId": 997,
+    "citName": "Tacuarembó",
+    "couId": "UY"
+  },
+  {
+    "citId": 998,
+    "citName": "Treinta y Tres",
+    "couId": "UY"
+  },
+  {
+    "citId": 999,
+    "citName": "Amazonas",
+    "couId": "VE"
+  },
+  {
+    "citId": 1000,
+    "citName": "Anzoátegui",
+    "couId": "VE"
+  },
+  {
+    "citId": 1001,
+    "citName": "Apure",
+    "couId": "VE"
+  },
+  {
+    "citId": 1002,
+    "citName": "Aragua",
+    "couId": "VE"
+  },
+  {
+    "citId": 1003,
+    "citName": "Barinas",
+    "couId": "VE"
+  },
+  {
+    "citId": 1004,
+    "citName": "Bolívar",
+    "couId": "VE"
+  },
+  {
+    "citId": 1005,
+    "citName": "Carabobo",
+    "couId": "VE"
+  },
+  {
+    "citId": 1006,
+    "citName": "Cojedes",
+    "couId": "VE"
+  },
+  {
+    "citId": 1007,
+    "citName": "Delta Amacuro",
+    "couId": "VE"
+  },
+  {
+    "citId": 1008,
+    "citName": "Dependencias Federales",
+    "couId": "VE"
+  },
+  {
+    "citId": 1009,
+    "citName": "Distrito Capital",
+    "couId": "VE"
+  },
+  {
+    "citId": 1010,
+    "citName": "Falcón",
+    "couId": "VE"
+  },
+  {
+    "citId": 1011,
+    "citName": "Guárico",
+    "couId": "VE"
+  },
+  {
+    "citId": 1012,
+    "citName": "La Guaira",
+    "couId": "VE"
+  },
+  {
+    "citId": 1013,
+    "citName": "Lara",
+    "couId": "VE"
+  },
+  {
+    "citId": 1014,
+    "citName": "Mérida",
+    "couId": "VE"
+  },
+  {
+    "citId": 1015,
+    "citName": "Miranda",
+    "couId": "VE"
+  },
+  {
+    "citId": 1016,
+    "citName": "Monagas",
+    "couId": "VE"
+  },
+  {
+    "citId": 1017,
+    "citName": "Nueva Esparta",
+    "couId": "VE"
+  },
+  {
+    "citId": 1018,
+    "citName": "Portuguesa",
+    "couId": "VE"
+  },
+  {
+    "citId": 1019,
+    "citName": "Sucre",
+    "couId": "VE"
+  },
+  {
+    "citId": 1020,
+    "citName": "Táchira",
+    "couId": "VE"
+  },
+  {
+    "citId": 1021,
+    "citName": "Trujillo",
+    "couId": "VE"
+  },
+  {
+    "citId": 1022,
+    "citName": "Yaracuy",
+    "couId": "VE"
+  },
+  {
+    "citId": 1023,
+    "citName": "Zulia",
+    "couId": "VE"
+  },
+  {
+    "citId": 1024,
+    "citName": "Caracas",
+    "couId": null
+  },
+  {
+    "citId": 1025,
+    "citName": "Hialeah",
+    "couId": null
+  },
+  {
+    "citId": 1026,
+    "citName": "Kendall",
+    "couId": null
+  },
+  {
+    "citId": 1027,
+    "citName": "Glenvar Heights",
+    "couId": null
+  },
+  {
+    "citId": 1028,
+    "citName": "Aventura",
+    "couId": null
+  },
+  {
+    "citId": 1029,
+    "citName": "Coral Springs",
+    "couId": null
+  },
+  {
+    "citId": 1030,
+    "citName": "Pembroke Pines",
+    "couId": null
+  },
+  {
+    "citId": 1031,
+    "citName": "Alfafar",
+    "couId": null
+  },
+  {
+    "citId": 1032,
+    "citName": "Osseo",
+    "couId": null
+  },
+  {
+    "citId": 1033,
+    "citName": "Mislata",
+    "couId": null
+  },
+  {
+    "citId": 1034,
+    "citName": "Bogotá",
+    "couId": null
+  },
+  {
+    "citId": 1035,
+    "citName": "Malagueño",
+    "couId": null
+  },
+  {
+    "citId": 1036,
+    "citName": "Náquera",
+    "couId": null
+  },
+  {
+    "citId": 1037,
+    "citName": "Puzol",
+    "couId": null
+  },
+  {
+    "citId": 1038,
+    "citName": "Panama City",
+    "couId": null
+  },
+  {
+    "citId": 1039,
+    "citName": "Luquillo",
+    "couId": null
+  },
+  {
+    "citId": 1040,
+    "citName": "Seville",
+    "couId": null
+  },
+  {
+    "citId": 1041,
+    "citName": "Tamiami",
+    "couId": null
+  },
+  {
+    "citId": 1042,
+    "citName": "Barranquilla",
+    "couId": null
+  },
+  {
+    "citId": 1043,
+    "citName": "Coral Gables",
+    "couId": null
+  },
+  {
+    "citId": 1044,
+    "citName": "Dallas",
+    "couId": null
+  },
+  {
+    "citId": 1045,
+    "citName": "Hollywood",
+    "couId": null
+  },
+  {
+    "citId": 1046,
+    "citName": "Manises",
+    "couId": null
+  },
+  {
+    "citId": 1047,
+    "citName": "The Crossings",
+    "couId": null
+  },
+  {
+    "citId": 1048,
+    "citName": "Lleida",
+    "couId": null
+  },
+  {
+    "citId": 1049,
+    "citName": "The Hammocks",
+    "couId": null
+  },
+  {
+    "citId": 1050,
+    "citName": "Pomigliano d'Arco",
+    "couId": null
+  },
+  {
+    "citId": 1051,
+    "citName": "Muar",
+    "couId": null
+  },
+  {
+    "citId": 1052,
+    "citName": "Sylhet",
+    "couId": null
+  },
+  {
+    "citId": 1053,
+    "citName": "Medellín",
+    "couId": null
+  },
+  {
+    "citId": 1054,
+    "citName": "La Plata",
+    "couId": null
+  },
+  {
+    "citId": 1055,
+    "citName": "Miami",
+    "couId": null
+  },
+  {
+    "citId": 1056,
+    "citName": "Sunrise",
+    "couId": null
+  },
+  {
+    "citId": 1057,
+    "citName": "Santa Cruz de la Sierra",
+    "couId": null
+  },
+  {
+    "citId": 1058,
+    "citName": "Sabadell",
+    "couId": null
+  },
+  {
+    "citId": 1059,
+    "citName": "Museros",
+    "couId": null
+  },
+  {
+    "citId": 1060,
+    "citName": "Lahore",
+    "couId": null
+  },
+  {
+    "citId": 1061,
+    "citName": "Doral",
+    "couId": null
+  },
+  {
+    "citId": 1062,
+    "citName": "Weston",
+    "couId": null
+  },
+  {
+    "citId": 1063,
+    "citName": "Hengelo",
+    "couId": null
+  },
+  {
+    "citId": 1064,
+    "citName": "Pintag",
+    "couId": null
+  },
+  {
+    "citId": 1065,
+    "citName": "Zagreb",
+    "couId": null
+  },
+  {
+    "citId": 1066,
+    "citName": "San Francisco",
+    "couId": null
+  },
+  {
+    "citId": 1067,
+    "citName": "Donostia-San Sebastián",
+    "couId": null
+  },
+  {
+    "citId": 1068,
+    "citName": "Aceuchal",
+    "couId": null
+  },
+  {
+    "citId": 1069,
+    "citName": "Fort Lauderdale",
+    "couId": null
+  },
+  {
+    "citId": 1070,
+    "citName": "Mexico City",
+    "couId": null
+  },
+  {
+    "citId": 1071,
+    "citName": "Castellón de la Plana",
+    "couId": null
+  },
+  {
+    "citId": 1072,
+    "citName": "Getafe",
+    "couId": null
+  },
+  {
+    "citId": 1073,
+    "citName": "Miami Beach",
+    "couId": null
+  },
+  {
+    "citId": 1074,
+    "citName": "Davie",
+    "couId": null
+  },
+  {
+    "citId": 1075,
+    "citName": "North Providence",
+    "couId": null
+  },
+  {
+    "citId": 1076,
+    "citName": "Hal Balzan",
+    "couId": null
+  },
+  {
+    "citId": 1077,
+    "citName": "Hortolândia",
+    "couId": null
+  },
+  {
+    "citId": 1078,
+    "citName": "Bang Bua Thong",
+    "couId": null
+  },
+  {
+    "citId": 1079,
+    "citName": "Tres Ríos",
+    "couId": null
+  },
+  {
+    "citId": 1080,
+    "citName": "Monterrey",
+    "couId": null
+  },
+  {
+    "citId": 1081,
+    "citName": "Yolombó",
+    "couId": null
+  },
+  {
+    "citId": 1082,
+    "citName": "Palm Springs North",
+    "couId": null
+  },
+  {
+    "citId": 1083,
+    "citName": "Country Club",
+    "couId": null
+  },
+  {
+    "citId": 1084,
+    "citName": "Port Saint Lucie",
+    "couId": null
+  },
+  {
+    "citId": 1085,
+    "citName": "Winter Springs",
+    "couId": null
+  },
+  {
+    "citId": 1086,
+    "citName": "Pittsfield",
+    "couId": null
+  },
+  {
+    "citId": 1087,
+    "citName": "Los Montesinos",
+    "couId": null
+  },
+  {
+    "citId": 1088,
+    "citName": "Oshawa",
+    "couId": null
+  },
+  {
+    "citId": 1089,
+    "citName": "Vigo",
+    "couId": null
+  },
+  {
+    "citId": 1090,
+    "citName": "Miramar",
+    "couId": null
+  },
+  {
+    "citId": 1091,
+    "citName": "Chiang Mai",
+    "couId": null
+  },
+  {
+    "citId": 1092,
+    "citName": "Xicohténcatl",
+    "couId": null
+  },
+  {
+    "citId": 1093,
+    "citName": "Rayong",
+    "couId": null
+  },
+  {
+    "citId": 1094,
+    "citName": "Naples",
+    "couId": null
+  },
+  {
+    "citId": 1095,
+    "citName": "Tampico",
+    "couId": null
+  },
+  {
+    "citId": 1096,
+    "citName": "Montreal",
+    "couId": null
+  },
+  {
+    "citId": 1097,
+    "citName": "Bangkok",
+    "couId": null
+  },
+  {
+    "citId": 1098,
+    "citName": "Toronto",
+    "couId": null
+  },
+  {
+    "citId": 1099,
+    "citName": "Urubo",
+    "couId": null
+  },
+  {
+    "citId": 1100,
+    "citName": "Antalya",
+    "couId": null
+  },
+  {
+    "citId": 1101,
+    "citName": "Grimsby",
+    "couId": null
+  },
+  {
+    "citId": 1102,
+    "citName": "Lincoln",
+    "couId": null
+  },
+  {
+    "citId": 1103,
+    "citName": "Tabernes de Valldigna",
+    "couId": null
+  },
+  {
+    "citId": 1104,
+    "citName": "Kuala Lumpur",
+    "couId": null
+  },
+  {
+    "citId": 1105,
+    "citName": "Changwat Samut Prakan",
+    "couId": null
+  },
+  {
+    "citId": 1106,
+    "citName": "Copiague",
+    "couId": null
+  },
+  {
+    "citId": 1107,
+    "citName": "Tubao",
+    "couId": null
+  },
+  {
+    "citId": 1108,
+    "citName": "Brampton",
+    "couId": null
+  },
+  {
+    "citId": 1109,
+    "citName": "Nakhon Ratchasima",
+    "couId": null
+  },
+  {
+    "citId": 1110,
+    "citName": "Alfarp",
+    "couId": null
+  },
+  {
+    "citId": 1111,
+    "citName": "Leisure City",
+    "couId": null
+  },
+  {
+    "citId": 1112,
+    "citName": "Moore Haven",
+    "couId": null
+  },
+  {
+    "citId": 1113,
+    "citName": "Llanes",
+    "couId": null
+  },
+  {
+    "citId": 1114,
+    "citName": "Pachuca",
+    "couId": null
+  },
+  {
+    "citId": 1115,
+    "citName": "Vitoria-Gasteiz",
+    "couId": null
+  },
+  {
+    "citId": 1116,
+    "citName": "Búzios",
+    "couId": null
+  },
+  {
+    "citId": 1117,
+    "citName": "Stoke-on-Trent",
+    "couId": null
+  },
+  {
+    "citId": 1118,
+    "citName": "Sèvres",
+    "couId": null
+  },
+  {
+    "citId": 1119,
+    "citName": "Paso de Ovejas",
+    "couId": null
+  },
+  {
+    "citId": 1120,
+    "citName": "Lautaro",
+    "couId": null
+  },
+  {
+    "citId": 1121,
+    "citName": "Gladstone",
+    "couId": null
+  },
+  {
+    "citId": 1122,
+    "citName": "Cartagena",
+    "couId": null
+  },
+  {
+    "citId": 1123,
+    "citName": "West Kendall",
+    "couId": null
+  },
+  {
+    "citId": 1124,
+    "citName": "Puerto Pailas",
+    "couId": null
+  },
+  {
+    "citId": 1125,
+    "citName": "Cinco Ranch",
+    "couId": null
+  },
+  {
+    "citId": 1126,
+    "citName": "Ajax",
+    "couId": null
+  },
+  {
+    "citId": 1127,
+    "citName": "North Miami Beach",
+    "couId": null
+  },
+  {
+    "citId": 1128,
+    "citName": "San Miguel Zinacantepec",
+    "couId": null
+  },
+  {
+    "citId": 1129,
+    "citName": "Logroño",
+    "couId": null
+  },
+  {
+    "citId": 1130,
+    "citName": "Ebina-shi",
+    "couId": null
+  },
+  {
+    "citId": 1131,
+    "citName": "Garmisch-Partenkirchen",
+    "couId": null
+  },
+  {
+    "citId": 1132,
+    "citName": "Kaarst",
+    "couId": null
+  },
+  {
+    "citId": 1133,
+    "citName": "Sarasota",
+    "couId": null
+  },
+  {
+    "citId": 1134,
+    "citName": "Brussels",
+    "couId": null
+  },
+  {
+    "citId": 1135,
+    "citName": "La Guardia",
+    "couId": null
+  },
+  {
+    "citId": 1136,
+    "citName": "Saint-Sauveur-des-Monts",
+    "couId": null
+  },
+  {
+    "citId": 1137,
+    "citName": "Houston",
+    "couId": null
+  },
+  {
+    "citId": 1138,
+    "citName": "Golden Gate",
+    "couId": null
+  },
+  {
+    "citId": 1139,
+    "citName": "Hal Balzan",
+    "couId": null
+  },
+  {
+    "citId": 1140,
+    "citName": "The Colony",
+    "couId": null
+  },
+  {
+    "citId": 1141,
+    "citName": "Carrboro",
+    "couId": null
+  },
+  {
+    "citId": 1142,
+    "citName": "Homestead",
+    "couId": null
+  },
+  {
+    "citId": 1143,
+    "citName": "Oviedo",
+    "couId": null
+  },
+  {
+    "citId": 1144,
+    "citName": "Ciudad Madero",
+    "couId": null
+  },
+  {
+    "citId": 1145,
+    "citName": "Guatemala City",
+    "couId": null
+  },
+  {
+    "citId": 1146,
+    "citName": "Newmarket",
+    "couId": null
+  },
+  {
+    "citId": 1147,
+    "citName": "Heathrow",
+    "couId": null
+  },
+  {
+    "citId": 1148,
+    "citName": "Dhaka",
+    "couId": null
+  },
+  {
+    "citId": 1149,
+    "citName": "Leganés",
+    "couId": null
+  },
+  {
+    "citId": 1150,
+    "citName": "Rio Grande",
+    "couId": null
+  },
+  {
+    "citId": 1151,
+    "citName": "Girona",
+    "couId": null
+  },
+  {
+    "citId": 1152,
+    "citName": "Onda",
+    "couId": null
+  },
+  {
+    "citId": 1153,
+    "citName": "Florianópolis",
+    "couId": null
+  },
+  {
+    "citId": 1154,
+    "citName": "Sydney",
+    "couId": null
+  },
+  {
+    "citId": 1155,
+    "citName": "Singapore",
+    "couId": null
+  },
+  {
+    "citId": 1156,
+    "citName": "London",
+    "couId": null
+  },
+  {
+    "citId": 1157,
+    "citName": "Melbourne",
+    "couId": null
+  },
+  {
+    "citId": 1158,
+    "citName": "Bishkek",
+    "couId": null
+  },
+  {
+    "citId": 1159,
+    "citName": "Iquique",
+    "couId": null
+  },
+  {
+    "citId": 1160,
+    "citName": "Guayaquil",
+    "couId": null
+  },
+  {
+    "citId": 1161,
+    "citName": "Pailón",
+    "couId": null
+  },
+  {
+    "citId": 1162,
+    "citName": "Trinidad",
+    "couId": null
+  },
+  {
+    "citId": 1163,
+    "citName": "Bermejo",
+    "couId": null
+  },
+  {
+    "citId": 1164,
+    "citName": "Warnes",
+    "couId": null
+  },
+  {
+    "citId": 1165,
+    "citName": "Amphoe Si Songkhram",
+    "couId": null
+  },
+  {
+    "citId": 1166,
+    "citName": "Alto Lima",
+    "couId": null
+  },
+  {
+    "citId": 1167,
+    "citName": "Moscow",
+    "couId": null
+  },
+  {
+    "citId": 1168,
+    "citName": "Graneros",
+    "couId": null
+  },
+  {
+    "citId": 1169,
+    "citName": "Phnom Penh",
+    "couId": null
+  },
+  {
+    "citId": 1170,
+    "citName": "Baldeo",
+    "couId": null
+  },
+  {
+    "citId": 1171,
+    "citName": "San Lorenzo",
+    "couId": null
+  },
+  {
+    "citId": 1172,
+    "citName": "Tupiza",
+    "couId": null
+  },
+  {
+    "citId": 1173,
+    "citName": "Okinawa Número Uno",
+    "couId": null
+  },
+  {
+    "citId": 1174,
+    "citName": "Ciudad del Este",
+    "couId": null
+  },
+  {
+    "citId": 1175,
+    "citName": "Montero",
+    "couId": null
+  },
+  {
+    "citId": 1176,
+    "citName": "Osorno",
+    "couId": null
+  },
+  {
+    "citId": 1177,
+    "citName": "Villa Yapacaní",
+    "couId": null
+  },
+  {
+    "citId": 1178,
+    "citName": "Donetsk",
+    "couId": null
+  },
+  {
+    "citId": 1179,
+    "citName": "Salvador",
+    "couId": null
+  },
+  {
+    "citId": 1180,
+    "citName": "Mineros",
+    "couId": null
+  },
+  {
+    "citId": 1181,
+    "citName": "Quillacollo",
+    "couId": null
+  },
+  {
+    "citId": 1182,
+    "citName": "Carapicuíba",
+    "couId": null
+  },
+  {
+    "citId": 1183,
+    "citName": "Rengasdengklok",
+    "couId": null
+  },
+  {
+    "citId": 1184,
+    "citName": "Abidjan",
+    "couId": null
+  },
+  {
+    "citId": 1185,
+    "citName": "Fremont",
+    "couId": null
+  },
+  {
+    "citId": 1186,
+    "citName": "Presidente Franco",
+    "couId": null
+  },
+  {
+    "citId": 1187,
+    "citName": "Cotonou",
+    "couId": null
+  },
+  {
+    "citId": 1188,
+    "citName": "L'Hospitalet de Llobregat",
+    "couId": null
+  },
+  {
+    "citId": 1189,
+    "citName": "Villa Madero",
+    "couId": null
+  },
+  {
+    "citId": 1190,
+    "citName": "Casablanca",
+    "couId": null
+  },
+  {
+    "citId": 1191,
+    "citName": "Amsterdam",
+    "couId": null
+  },
+  {
+    "citId": 1192,
+    "citName": "Munich",
+    "couId": null
+  },
+  {
+    "citId": 1193,
+    "citName": "Lagos",
+    "couId": null
+  },
+  {
+    "citId": 1194,
+    "citName": "Chicago",
+    "couId": null
+  },
+  {
+    "citId": 1195,
+    "citName": "Jakarta",
+    "couId": null
+  },
+  {
+    "citId": 1196,
+    "citName": "Warsaw",
+    "couId": null
+  },
+  {
+    "citId": 1197,
+    "citName": "Los Angeles",
+    "couId": null
+  },
+  {
+    "citId": 1198,
+    "citName": "Istanbul",
+    "couId": null
+  },
+  {
+    "citId": 1199,
+    "citName": "Rome",
+    "couId": null
+  },
+  {
+    "citId": 1200,
+    "citName": "Milan",
+    "couId": null
+  },
+  {
+    "citId": 1201,
+    "citName": "Tehran",
+    "couId": null
+  },
+  {
+    "citId": 1202,
+    "citName": "Lyon",
+    "couId": null
+  },
+  {
+    "citId": 1203,
+    "citName": "Key Biscayne",
+    "couId": null
+  },
+  {
+    "citId": 1204,
+    "citName": "La Argentina",
+    "couId": null
+  },
+  {
+    "citId": 1205,
+    "citName": "Austin",
+    "couId": null
+  },
+  {
+    "citId": 1206,
+    "citName": "Jettingen-Scheppach",
+    "couId": null
+  },
+  {
+    "citId": 1207,
+    "citName": "Macclesfield",
+    "couId": null
+  },
+  {
+    "citId": 1208,
+    "citName": "George",
+    "couId": null
+  },
+  {
+    "citId": 1209,
+    "citName": "Fortim",
+    "couId": null
+  },
+  {
+    "citId": 1210,
+    "citName": "Las Palmas de Gran Canaria",
+    "couId": null
+  },
+  {
+    "citId": 1211,
+    "citName": "Popayán",
+    "couId": null
+  },
+  {
+    "citId": 1212,
+    "citName": "Perth",
+    "couId": null
+  },
+  {
+    "citId": 1213,
+    "citName": "Uribia",
+    "couId": null
+  },
+  {
+    "citId": 1214,
+    "citName": "La Pobla de Farnals",
+    "couId": null
+  },
+  {
+    "citId": 1215,
+    "citName": "Torrente",
+    "couId": null
+  },
+  {
+    "citId": 1216,
+    "citName": "Benidorm",
+    "couId": null
+  },
+  {
+    "citId": 1217,
+    "citName": "Misurata",
+    "couId": null
+  },
+  {
+    "citId": 1218,
+    "citName": "Rafelbuñol",
+    "couId": null
+  },
+  {
+    "citId": 1219,
+    "citName": "Sagunto",
+    "couId": null
+  },
+  {
+    "citId": 1220,
+    "citName": "Montpellier",
+    "couId": null
+  },
+  {
+    "citId": 1221,
+    "citName": "Chilpancingo",
+    "couId": null
+  },
+  {
+    "citId": 1222,
+    "citName": "Toluca",
+    "couId": null
+  },
+  {
+    "citId": 1223,
+    "citName": "Cuautitlán Izcalli",
+    "couId": null
+  },
+  {
+    "citId": 1224,
+    "citName": "Masamagrell",
+    "couId": null
+  },
+  {
+    "citId": 1225,
+    "citName": "Nuremberg",
+    "couId": null
+  },
+  {
+    "citId": 1226,
+    "citName": "Gampel",
+    "couId": null
+  },
+  {
+    "citId": 1227,
+    "citName": "Christchurch",
+    "couId": null
+  },
+  {
+    "citId": 1228,
+    "citName": "Kendale Lakes",
+    "couId": null
+  },
+  {
+    "citId": 1229,
+    "citName": "Puçol",
+    "couId": null
+  },
+  {
+    "citId": 1230,
+    "citName": "Lorca",
+    "couId": null
+  },
+  {
+    "citId": 1231,
+    "citName": "Cancún",
+    "couId": null
+  },
+  {
+    "citId": 1232,
+    "citName": "Stockholm",
+    "couId": null
+  },
+  {
+    "citId": 1233,
+    "citName": "Móstoles",
+    "couId": null
+  },
+  {
+    "citId": 1234,
+    "citName": "Cairo",
+    "couId": null
+  },
+  {
+    "citId": 1235,
+    "citName": "Abilene",
+    "couId": "US"
+  },
+  {
+    "citId": 1236,
+    "citName": "Akron",
+    "couId": "US"
+  },
+  {
+    "citId": 1237,
+    "citName": "Albuquerque",
+    "couId": "US"
+  },
+  {
+    "citId": 1238,
+    "citName": "Alexandría",
+    "couId": "US"
+  },
+  {
+    "citId": 1239,
+    "citName": "Allentown",
+    "couId": "US"
+  },
+  {
+    "citId": 1240,
+    "citName": "Amarillo",
+    "couId": "US"
+  },
+  {
+    "citId": 1241,
+    "citName": "Anaheim",
+    "couId": "US"
+  },
+  {
+    "citId": 1242,
+    "citName": "Anchorage",
+    "couId": "US"
+  },
+  {
+    "citId": 1243,
+    "citName": "Ann Arbor",
+    "couId": "US"
+  },
+  {
+    "citId": 1244,
+    "citName": "Antioch",
+    "couId": "US"
+  },
+  {
+    "citId": 1245,
+    "citName": "Arlington",
+    "couId": "US"
+  },
+  {
+    "citId": 1246,
+    "citName": "Arlington",
+    "couId": "US"
+  },
+  {
+    "citId": 1247,
+    "citName": "Arvada",
+    "couId": "US"
+  },
+  {
+    "citId": 1248,
+    "citName": "Athens",
+    "couId": "US"
+  },
+  {
+    "citId": 1249,
+    "citName": "Atlanta",
+    "couId": "US"
+  },
+  {
+    "citId": 1250,
+    "citName": "Augusta",
+    "couId": "US"
+  },
+  {
+    "citId": 1251,
+    "citName": "Aurora",
+    "couId": "US"
+  },
+  {
+    "citId": 1252,
+    "citName": "Aurora",
+    "couId": "US"
+  },
+  {
+    "citId": 1253,
+    "citName": "Austin",
+    "couId": "US"
+  },
+  {
+    "citId": 1254,
+    "citName": "Bakersfield",
+    "couId": "US"
+  },
+  {
+    "citId": 1255,
+    "citName": "Baltimore",
+    "couId": "US"
+  },
+  {
+    "citId": 1256,
+    "citName": "Baton Rouge",
+    "couId": "US"
+  },
+  {
+    "citId": 1257,
+    "citName": "Beaumont",
+    "couId": "US"
+  },
+  {
+    "citId": 1258,
+    "citName": "Bellevue",
+    "couId": "US"
+  },
+  {
+    "citId": 1259,
+    "citName": "Berkeley",
+    "couId": "US"
+  },
+  {
+    "citId": 1260,
+    "citName": "Billings",
+    "couId": "US"
+  },
+  {
+    "citId": 1261,
+    "citName": "Birmingham",
+    "couId": "US"
+  },
+  {
+    "citId": 1262,
+    "citName": "Boise",
+    "couId": "US"
+  },
+  {
+    "citId": 1263,
+    "citName": "Boston",
+    "couId": "US"
+  },
+  {
+    "citId": 1264,
+    "citName": "Bridgeport",
+    "couId": "US"
+  },
+  {
+    "citId": 1265,
+    "citName": "Brownsville",
+    "couId": "US"
+  },
+  {
+    "citId": 1266,
+    "citName": "Búfalo",
+    "couId": "US"
+  },
+  {
+    "citId": 1267,
+    "citName": "Burbank",
+    "couId": "US"
+  },
+  {
+    "citId": 1268,
+    "citName": "Cambridge",
+    "couId": "US"
+  },
+  {
+    "citId": 1269,
+    "citName": "Cape Coral",
+    "couId": "US"
+  },
+  {
+    "citId": 1270,
+    "citName": "Carlsbad",
+    "couId": "US"
+  },
+  {
+    "citId": 1271,
+    "citName": "Carrollton",
+    "couId": "US"
+  },
+  {
+    "citId": 1272,
+    "citName": "Cary",
+    "couId": "US"
+  },
+  {
+    "citId": 1273,
+    "citName": "Cedar Rapids",
+    "couId": "US"
+  },
+  {
+    "citId": 1274,
+    "citName": "Centennial",
+    "couId": "US"
+  },
+  {
+    "citId": 1275,
+    "citName": "Chandler",
+    "couId": "US"
+  },
+  {
+    "citId": 1276,
+    "citName": "Charleston",
+    "couId": "US"
+  },
+  {
+    "citId": 1277,
+    "citName": "Charlotte",
+    "couId": "US"
+  },
+  {
+    "citId": 1278,
+    "citName": "Chattanooga",
+    "couId": "US"
+  },
+  {
+    "citId": 1279,
+    "citName": "Chesapeake",
+    "couId": "US"
+  },
+  {
+    "citId": 1280,
+    "citName": "Chicago",
+    "couId": "US"
+  },
+  {
+    "citId": 1281,
+    "citName": "Chula Vista",
+    "couId": "US"
+  },
+  {
+    "citId": 1282,
+    "citName": "Cincinnati",
+    "couId": "US"
+  },
+  {
+    "citId": 1283,
+    "citName": "Clarksville",
+    "couId": "US"
+  },
+  {
+    "citId": 1284,
+    "citName": "Clearwater",
+    "couId": "US"
+  },
+  {
+    "citId": 1285,
+    "citName": "Cleveland",
+    "couId": "US"
+  },
+  {
+    "citId": 1286,
+    "citName": "Colorado Springs",
+    "couId": "US"
+  },
+  {
+    "citId": 1287,
+    "citName": "Columbia",
+    "couId": "US"
+  },
+  {
+    "citId": 1288,
+    "citName": "Columbia",
+    "couId": "US"
+  },
+  {
+    "citId": 1289,
+    "citName": "Columbus",
+    "couId": "US"
+  },
+  {
+    "citId": 1290,
+    "citName": "Columbus",
+    "couId": "US"
+  },
+  {
+    "citId": 1291,
+    "citName": "Concord",
+    "couId": "US"
+  },
+  {
+    "citId": 1292,
+    "citName": "Coral Springs",
+    "couId": "US"
+  },
+  {
+    "citId": 1293,
+    "citName": "Corona",
+    "couId": "US"
+  },
+  {
+    "citId": 1294,
+    "citName": "Corpus Christi",
+    "couId": "US"
+  },
+  {
+    "citId": 1295,
+    "citName": "Costa Mesa",
+    "couId": "US"
+  },
+  {
+    "citId": 1296,
+    "citName": "Dallas",
+    "couId": "US"
+  },
+  {
+    "citId": 1297,
+    "citName": "Daly City",
+    "couId": "US"
+  },
+  {
+    "citId": 1298,
+    "citName": "Dayton",
+    "couId": "US"
+  },
+  {
+    "citId": 1299,
+    "citName": "Denton",
+    "couId": "US"
+  },
+  {
+    "citId": 1300,
+    "citName": "Denver",
+    "couId": "US"
+  },
+  {
+    "citId": 1301,
+    "citName": "Des Moines",
+    "couId": "US"
+  },
+  {
+    "citId": 1302,
+    "citName": "Detroit",
+    "couId": "US"
+  },
+  {
+    "citId": 1303,
+    "citName": "Downey",
+    "couId": "US"
+  },
+  {
+    "citId": 1304,
+    "citName": "Durham",
+    "couId": "US"
+  },
+  {
+    "citId": 1305,
+    "citName": "El Monte",
+    "couId": "US"
+  },
+  {
+    "citId": 1306,
+    "citName": "El Paso",
+    "couId": "US"
+  },
+  {
+    "citId": 1307,
+    "citName": "Elgin",
+    "couId": "US"
+  },
+  {
+    "citId": 1308,
+    "citName": "Elizabeth",
+    "couId": "US"
+  },
+  {
+    "citId": 1309,
+    "citName": "Elk Grove",
+    "couId": "US"
+  },
+  {
+    "citId": 1310,
+    "citName": "Erie",
+    "couId": "US"
+  },
+  {
+    "citId": 1311,
+    "citName": "Escondido",
+    "couId": "US"
+  },
+  {
+    "citId": 1312,
+    "citName": "Eugene",
+    "couId": "US"
+  },
+  {
+    "citId": 1313,
+    "citName": "Evansville",
+    "couId": "US"
+  },
+  {
+    "citId": 1314,
+    "citName": "Everett",
+    "couId": "US"
+  },
+  {
+    "citId": 1315,
+    "citName": "Fairfield",
+    "couId": "US"
+  },
+  {
+    "citId": 1316,
+    "citName": "Fargo",
+    "couId": "US"
+  },
+  {
+    "citId": 1317,
+    "citName": "Fayetteville",
+    "couId": "US"
+  },
+  {
+    "citId": 1318,
+    "citName": "Filadelfia",
+    "couId": "US"
+  },
+  {
+    "citId": 1319,
+    "citName": "Flint",
+    "couId": "US"
+  },
+  {
+    "citId": 1320,
+    "citName": "Fontana",
+    "couId": "US"
+  },
+  {
+    "citId": 1321,
+    "citName": "Fort Collins",
+    "couId": "US"
+  },
+  {
+    "citId": 1322,
+    "citName": "Fort Lauderdale",
+    "couId": "US"
+  },
+  {
+    "citId": 1323,
+    "citName": "Fort Wayne",
+    "couId": "US"
+  },
+  {
+    "citId": 1324,
+    "citName": "Fort Worth",
+    "couId": "US"
+  },
+  {
+    "citId": 1325,
+    "citName": "Fremont",
+    "couId": "US"
+  },
+  {
+    "citId": 1326,
+    "citName": "Fresno",
+    "couId": "US"
+  },
+  {
+    "citId": 1327,
+    "citName": "Frisco",
+    "couId": "US"
+  },
+  {
+    "citId": 1328,
+    "citName": "Fullerton",
+    "couId": "US"
+  },
+  {
+    "citId": 1329,
+    "citName": "Gainesville",
+    "couId": "US"
+  },
+  {
+    "citId": 1330,
+    "citName": "Garden Grove",
+    "couId": "US"
+  },
+  {
+    "citId": 1331,
+    "citName": "Garland",
+    "couId": "US"
+  },
+  {
+    "citId": 1332,
+    "citName": "Gilbert",
+    "couId": "US"
+  },
+  {
+    "citId": 1333,
+    "citName": "Glendale",
+    "couId": "US"
+  },
+  {
+    "citId": 1334,
+    "citName": "Glendale",
+    "couId": "US"
+  },
+  {
+    "citId": 1335,
+    "citName": "Grand Prairie",
+    "couId": "US"
+  },
+  {
+    "citId": 1336,
+    "citName": "Grand Rapids",
+    "couId": "US"
+  },
+  {
+    "citId": 1337,
+    "citName": "Green Bay",
+    "couId": "US"
+  },
+  {
+    "citId": 1338,
+    "citName": "Greensboro",
+    "couId": "US"
+  },
+  {
+    "citId": 1339,
+    "citName": "Gresham",
+    "couId": "US"
+  },
+  {
+    "citId": 1340,
+    "citName": "Hampton",
+    "couId": "US"
+  },
+  {
+    "citId": 1341,
+    "citName": "Hartford",
+    "couId": "US"
+  },
+  {
+    "citId": 1342,
+    "citName": "Hayward",
+    "couId": "US"
+  },
+  {
+    "citId": 1343,
+    "citName": "Henderson",
+    "couId": "US"
+  },
+  {
+    "citId": 1344,
+    "citName": "Hialeah",
+    "couId": "US"
+  },
+  {
+    "citId": 1345,
+    "citName": "High Point",
+    "couId": "US"
+  },
+  {
+    "citId": 1346,
+    "citName": "Hollywood",
+    "couId": "US"
+  },
+  {
+    "citId": 1347,
+    "citName": "Honolulú",
+    "couId": "US"
+  },
+  {
+    "citId": 1348,
+    "citName": "Houston",
+    "couId": "US"
+  },
+  {
+    "citId": 1349,
+    "citName": "Huntington Beach",
+    "couId": "US"
+  },
+  {
+    "citId": 1350,
+    "citName": "Huntsville",
+    "couId": "US"
+  },
+  {
+    "citId": 1351,
+    "citName": "Independence",
+    "couId": "US"
+  },
+  {
+    "citId": 1352,
+    "citName": "Indianápolis",
+    "couId": "US"
+  },
+  {
+    "citId": 1353,
+    "citName": "Inglewood",
+    "couId": "US"
+  },
+  {
+    "citId": 1354,
+    "citName": "Irvine",
+    "couId": "US"
+  },
+  {
+    "citId": 1355,
+    "citName": "Irving",
+    "couId": "US"
+  },
+  {
+    "citId": 1356,
+    "citName": "Jackson",
+    "couId": "US"
+  },
+  {
+    "citId": 1357,
+    "citName": "Jacksonville",
+    "couId": "US"
+  },
+  {
+    "citId": 1358,
+    "citName": "Jersey City",
+    "couId": "US"
+  },
+  {
+    "citId": 1359,
+    "citName": "Joliet",
+    "couId": "US"
+  },
+  {
+    "citId": 1360,
+    "citName": "Kansas City",
+    "couId": "US"
+  },
+  {
+    "citId": 1361,
+    "citName": "Kansas City (Misuri)",
+    "couId": "US"
+  },
+  {
+    "citId": 1362,
+    "citName": "Killeen",
+    "couId": "US"
+  },
+  {
+    "citId": 1363,
+    "citName": "Knoxville",
+    "couId": "US"
+  },
+  {
+    "citId": 1364,
+    "citName": "Lafayette",
+    "couId": "US"
+  },
+  {
+    "citId": 1365,
+    "citName": "Lakewood",
+    "couId": "US"
+  },
+  {
+    "citId": 1366,
+    "citName": "Lancaster",
+    "couId": "US"
+  },
+  {
+    "citId": 1367,
+    "citName": "Lansing",
+    "couId": "US"
+  },
+  {
+    "citId": 1368,
+    "citName": "Laredo",
+    "couId": "US"
+  },
+  {
+    "citId": 1369,
+    "citName": "Las Vegas",
+    "couId": "US"
+  },
+  {
+    "citId": 1370,
+    "citName": "Lexington",
+    "couId": "US"
+  },
+  {
+    "citId": 1371,
+    "citName": "Lincoln",
+    "couId": "US"
+  },
+  {
+    "citId": 1372,
+    "citName": "Little Rock",
+    "couId": "US"
+  },
+  {
+    "citId": 1373,
+    "citName": "Long Beach",
+    "couId": "US"
+  },
+  {
+    "citId": 1374,
+    "citName": "Los Ángeles",
+    "couId": "US"
+  },
+  {
+    "citId": 1375,
+    "citName": "Louisville",
+    "couId": "US"
+  },
+  {
+    "citId": 1376,
+    "citName": "Lowell",
+    "couId": "US"
+  },
+  {
+    "citId": 1377,
+    "citName": "Lubbock",
+    "couId": "US"
+  },
+  {
+    "citId": 1378,
+    "citName": "Madison",
+    "couId": "US"
+  },
+  {
+    "citId": 1379,
+    "citName": "Manchester",
+    "couId": "US"
+  },
+  {
+    "citId": 1380,
+    "citName": "McAllen",
+    "couId": "US"
+  },
+  {
+    "citId": 1381,
+    "citName": "McKinney",
+    "couId": "US"
+  },
+  {
+    "citId": 1382,
+    "citName": "Memphis",
+    "couId": "US"
+  },
+  {
+    "citId": 1383,
+    "citName": "Mesa",
+    "couId": "US"
+  },
+  {
+    "citId": 1384,
+    "citName": "Mesquite",
+    "couId": "US"
+  },
+  {
+    "citId": 1385,
+    "citName": "Metairie",
+    "couId": "US"
+  },
+  {
+    "citId": 1386,
+    "citName": "Miami",
+    "couId": "US"
+  },
+  {
+    "citId": 1387,
+    "citName": "Miami Gardens",
+    "couId": "US"
+  },
+  {
+    "citId": 1388,
+    "citName": "Midland",
+    "couId": "US"
+  },
+  {
+    "citId": 1389,
+    "citName": "Milwaukee",
+    "couId": "US"
+  },
+  {
+    "citId": 1390,
+    "citName": "Mineápolis",
+    "couId": "US"
+  },
+  {
+    "citId": 1391,
+    "citName": "Miramar",
+    "couId": "US"
+  },
+  {
+    "citId": 1392,
+    "citName": "Mobile",
+    "couId": "US"
+  },
+  {
+    "citId": 1393,
+    "citName": "Modesto",
+    "couId": "US"
+  },
+  {
+    "citId": 1394,
+    "citName": "Montgomery",
+    "couId": "US"
+  },
+  {
+    "citId": 1395,
+    "citName": "Moreno Valley",
+    "couId": "US"
+  },
+  {
+    "citId": 1396,
+    "citName": "Murfreesboro",
+    "couId": "US"
+  },
+  {
+    "citId": 1397,
+    "citName": "Murrieta",
+    "couId": "US"
+  },
+  {
+    "citId": 1398,
+    "citName": "Naperville",
+    "couId": "US"
+  },
+  {
+    "citId": 1399,
+    "citName": "Nashville",
+    "couId": "US"
+  },
+  {
+    "citId": 1400,
+    "citName": "New Haven",
+    "couId": "US"
+  },
+  {
+    "citId": 1401,
+    "citName": "Newark",
+    "couId": "US"
+  },
+  {
+    "citId": 1402,
+    "citName": "Newport News",
+    "couId": "US"
+  },
+  {
+    "citId": 1403,
+    "citName": "Norfolk",
+    "couId": "US"
+  },
+  {
+    "citId": 1404,
+    "citName": "Norman",
+    "couId": "US"
+  },
+  {
+    "citId": 1405,
+    "citName": "North Las Vegas",
+    "couId": "US"
+  },
+  {
+    "citId": 1406,
+    "citName": "Norwalk",
+    "couId": "US"
+  },
+  {
+    "citId": 1407,
+    "citName": "Nueva Orleans",
+    "couId": "US"
+  },
+  {
+    "citId": 1408,
+    "citName": "Nueva York",
+    "couId": "US"
+  },
+  {
+    "citId": 1409,
+    "citName": "Oakland",
+    "couId": "US"
+  },
+  {
+    "citId": 1410,
+    "citName": "Oceanside",
+    "couId": "US"
+  },
+  {
+    "citId": 1411,
+    "citName": "Oklahoma City",
+    "couId": "US"
+  },
+  {
+    "citId": 1412,
+    "citName": "Olathe",
+    "couId": "US"
+  },
+  {
+    "citId": 1413,
+    "citName": "Omaha",
+    "couId": "US"
+  },
+  {
+    "citId": 1414,
+    "citName": "Ontario",
+    "couId": "US"
+  },
+  {
+    "citId": 1415,
+    "citName": "Orange",
+    "couId": "US"
+  },
+  {
+    "citId": 1416,
+    "citName": "Orlando",
+    "couId": "US"
+  },
+  {
+    "citId": 1417,
+    "citName": "Overland Park",
+    "couId": "US"
+  },
+  {
+    "citId": 1418,
+    "citName": "Oxnard",
+    "couId": "US"
+  },
+  {
+    "citId": 1419,
+    "citName": "Palm Bay",
+    "couId": "US"
+  },
+  {
+    "citId": 1420,
+    "citName": "Palmdale",
+    "couId": "US"
+  },
+  {
+    "citId": 1421,
+    "citName": "Paradise",
+    "couId": "US"
+  },
+  {
+    "citId": 1422,
+    "citName": "Pasadena",
+    "couId": "US"
+  },
+  {
+    "citId": 1423,
+    "citName": "Pasadena",
+    "couId": "US"
+  },
+  {
+    "citId": 1424,
+    "citName": "Paterson",
+    "couId": "US"
+  },
+  {
+    "citId": 1425,
+    "citName": "Pembroke Pines",
+    "couId": "US"
+  },
+  {
+    "citId": 1426,
+    "citName": "Peoria",
+    "couId": "US"
+  },
+  {
+    "citId": 1427,
+    "citName": "Peoria",
+    "couId": "US"
+  },
+  {
+    "citId": 1428,
+    "citName": "Phoenix",
+    "couId": "US"
+  },
+  {
+    "citId": 1429,
+    "citName": "Pittsburgh",
+    "couId": "US"
+  },
+  {
+    "citId": 1430,
+    "citName": "Plano",
+    "couId": "US"
+  },
+  {
+    "citId": 1431,
+    "citName": "Pomona",
+    "couId": "US"
+  },
+  {
+    "citId": 1432,
+    "citName": "Port St. Lucie",
+    "couId": "US"
+  },
+  {
+    "citId": 1433,
+    "citName": "Portland",
+    "couId": "US"
+  },
+  {
+    "citId": 1434,
+    "citName": "Providence",
+    "couId": "US"
+  },
+  {
+    "citId": 1435,
+    "citName": "Provo",
+    "couId": "US"
+  },
+  {
+    "citId": 1436,
+    "citName": "Pueblo",
+    "couId": "US"
+  },
+  {
+    "citId": 1437,
+    "citName": "Raleigh",
+    "couId": "US"
+  },
+  {
+    "citId": 1438,
+    "citName": "Rancho Cucamonga",
+    "couId": "US"
+  },
+  {
+    "citId": 1439,
+    "citName": "Reno",
+    "couId": "US"
+  },
+  {
+    "citId": 1440,
+    "citName": "Richmond",
+    "couId": "US"
+  },
+  {
+    "citId": 1441,
+    "citName": "Richmond",
+    "couId": "US"
+  },
+  {
+    "citId": 1442,
+    "citName": "Riverside",
+    "couId": "US"
+  },
+  {
+    "citId": 1443,
+    "citName": "Rochester",
+    "couId": "US"
+  },
+  {
+    "citId": 1444,
+    "citName": "Rochester",
+    "couId": "US"
+  },
+  {
+    "citId": 1445,
+    "citName": "Rockford",
+    "couId": "US"
+  },
+  {
+    "citId": 1446,
+    "citName": "Roseville",
+    "couId": "US"
+  },
+  {
+    "citId": 1447,
+    "citName": "Sacramento",
+    "couId": "US"
+  },
+  {
+    "citId": 1448,
+    "citName": "Salem",
+    "couId": "US"
+  },
+  {
+    "citId": 1449,
+    "citName": "Salinas",
+    "couId": "US"
+  },
+  {
+    "citId": 1450,
+    "citName": "Salt Lake City",
+    "couId": "US"
+  },
+  {
+    "citId": 1451,
+    "citName": "San Antonio",
+    "couId": "US"
+  },
+  {
+    "citId": 1452,
+    "citName": "San Bernardino",
+    "couId": "US"
+  },
+  {
+    "citId": 1453,
+    "citName": "San Diego",
+    "couId": "US"
+  },
+  {
+    "citId": 1454,
+    "citName": "San Francisco",
+    "couId": "US"
+  },
+  {
+    "citId": 1455,
+    "citName": "San José",
+    "couId": "US"
+  },
+  {
+    "citId": 1456,
+    "citName": "San Luis",
+    "couId": "US"
+  },
+  {
+    "citId": 1457,
+    "citName": "San Petersburgo",
+    "couId": "US"
+  },
+  {
+    "citId": 1458,
+    "citName": "Santa Ana",
+    "couId": "US"
+  },
+  {
+    "citId": 1459,
+    "citName": "Santa Clara",
+    "couId": "US"
+  },
+  {
+    "citId": 1460,
+    "citName": "Santa Clarita",
+    "couId": "US"
+  },
+  {
+    "citId": 1461,
+    "citName": "Santa Rosa",
+    "couId": "US"
+  },
+  {
+    "citId": 1462,
+    "citName": "Savannah",
+    "couId": "US"
+  },
+  {
+    "citId": 1463,
+    "citName": "Scottsdale",
+    "couId": "US"
+  },
+  {
+    "citId": 1464,
+    "citName": "Seattle",
+    "couId": "US"
+  },
+  {
+    "citId": 1465,
+    "citName": "Shreveport",
+    "couId": "US"
+  },
+  {
+    "citId": 1466,
+    "citName": "Simi Valley",
+    "couId": "US"
+  },
+  {
+    "citId": 1467,
+    "citName": "Sioux Falls",
+    "couId": "US"
+  },
+  {
+    "citId": 1468,
+    "citName": "Siracusa",
+    "couId": "US"
+  },
+  {
+    "citId": 1469,
+    "citName": "South Bend",
+    "couId": "US"
+  },
+  {
+    "citId": 1470,
+    "citName": "Spokane",
+    "couId": "US"
+  },
+  {
+    "citId": 1471,
+    "citName": "Springfield",
+    "couId": "US"
+  },
+  {
+    "citId": 1472,
+    "citName": "Springfield",
+    "couId": "US"
+  },
+  {
+    "citId": 1473,
+    "citName": "Springfield",
+    "couId": "US"
+  },
+  {
+    "citId": 1474,
+    "citName": "St Paul",
+    "couId": "US"
+  },
+  {
+    "citId": 1475,
+    "citName": "Stamford",
+    "couId": "US"
+  },
+  {
+    "citId": 1476,
+    "citName": "Sterling Heights",
+    "couId": "US"
+  },
+  {
+    "citId": 1477,
+    "citName": "Stockton",
+    "couId": "US"
+  },
+  {
+    "citId": 1478,
+    "citName": "Sunnyvale",
+    "couId": "US"
+  },
+  {
+    "citId": 1479,
+    "citName": "Surprise",
+    "couId": "US"
+  },
+  {
+    "citId": 1480,
+    "citName": "Tacoma",
+    "couId": "US"
+  },
+  {
+    "citId": 1481,
+    "citName": "Tallahassee",
+    "couId": "US"
+  },
+  {
+    "citId": 1482,
+    "citName": "Tampa",
+    "couId": "US"
+  },
+  {
+    "citId": 1483,
+    "citName": "Temecula",
+    "couId": "US"
+  },
+  {
+    "citId": 1484,
+    "citName": "Tempe",
+    "couId": "US"
+  },
+  {
+    "citId": 1485,
+    "citName": "Thornton",
+    "couId": "US"
+  },
+  {
+    "citId": 1486,
+    "citName": "Thousand Oaks",
+    "couId": "US"
+  },
+  {
+    "citId": 1487,
+    "citName": "Toledo",
+    "couId": "US"
+  },
+  {
+    "citId": 1488,
+    "citName": "Topeka",
+    "couId": "US"
+  },
+  {
+    "citId": 1489,
+    "citName": "Torrance",
+    "couId": "US"
+  },
+  {
+    "citId": 1490,
+    "citName": "Tucson",
+    "couId": "US"
+  },
+  {
+    "citId": 1491,
+    "citName": "Tulsa",
+    "couId": "US"
+  },
+  {
+    "citId": 1492,
+    "citName": "Vallejo",
+    "couId": "US"
+  },
+  {
+    "citId": 1493,
+    "citName": "Vancouver",
+    "couId": "US"
+  },
+  {
+    "citId": 1494,
+    "citName": "Ventura",
+    "couId": "US"
+  },
+  {
+    "citId": 1495,
+    "citName": "Victorville",
+    "couId": "US"
+  },
+  {
+    "citId": 1496,
+    "citName": "Virginia Beach",
+    "couId": "US"
+  },
+  {
+    "citId": 1497,
+    "citName": "Visalia",
+    "couId": "US"
+  },
+  {
+    "citId": 1498,
+    "citName": "Waco",
+    "couId": "US"
+  },
+  {
+    "citId": 1499,
+    "citName": "Warren",
+    "couId": "US"
+  },
+  {
+    "citId": 1500,
+    "citName": "Waterbury",
+    "couId": "US"
+  },
+  {
+    "citId": 1501,
+    "citName": "West Covina",
+    "couId": "US"
+  },
+  {
+    "citId": 1502,
+    "citName": "West Jordan",
+    "couId": "US"
+  },
+  {
+    "citId": 1503,
+    "citName": "West Valley City",
+    "couId": "US"
+  },
+  {
+    "citId": 1504,
+    "citName": "Westminster",
+    "couId": "US"
+  },
+  {
+    "citId": 1505,
+    "citName": "Wichita",
+    "couId": "US"
+  },
+  {
+    "citId": 1506,
+    "citName": "Wichita Falls",
+    "couId": "US"
+  },
+  {
+    "citId": 1507,
+    "citName": "Wilmington",
+    "couId": "US"
+  },
+  {
+    "citId": 1508,
+    "citName": "Winston-Salem",
+    "couId": "US"
+  },
+  {
+    "citId": 1509,
+    "citName": "Worcester",
+    "couId": "US"
+  },
+  {
+    "citId": 1510,
+    "citName": "Yonkers",
+    "couId": "US"
+  },
+  {
+    "citId": 1511,
+    "citName": "Kars",
+    "couId": null
+  },
+  {
+    "citId": 1512,
+    "citName": "Ferraz de Vasconcelos",
+    "couId": null
+  },
+  {
+    "citId": 1513,
+    "citName": "Accra",
+    "couId": null
+  },
+  {
+    "citId": 1514,
+    "citName": "Guía de Isora",
+    "couId": null
+  },
+  {
+    "citId": 1515,
+    "citName": "Godella",
+    "couId": null
+  },
+  {
+    "citId": 1516,
+    "citName": "Thanh Hóa",
+    "couId": null
+  },
+  {
+    "citId": 1517,
+    "citName": "Satriano",
+    "couId": null
+  },
+  {
+    "citId": 1518,
+    "citName": "Cruz",
+    "couId": null
+  },
+  {
+    "citId": 1519,
+    "citName": "Fontana Liri",
+    "couId": null
+  },
+  {
+    "citId": 1520,
+    "citName": "Luzzi",
+    "couId": null
+  },
+  {
+    "citId": 1521,
+    "citName": "Gerli",
+    "couId": null
+  },
+  {
+    "citId": 1522,
+    "citName": "La Pobla Llarga",
+    "couId": null
+  },
+  {
+    "citId": 1523,
+    "citName": "Algaida",
+    "couId": null
+  },
+  {
+    "citId": 1524,
+    "citName": "Puertollano",
+    "couId": null
+  },
+  {
+    "citId": 1525,
+    "citName": "Sandy Hook",
+    "couId": null
+  },
+  {
+    "citId": 1526,
+    "citName": "Buñol",
+    "couId": null
+  },
+  {
+    "citId": 1527,
+    "citName": "Cabra",
+    "couId": null
+  },
+  {
+    "citId": 1528,
+    "citName": "Salceda",
+    "couId": null
+  },
+  {
+    "citId": 1529,
+    "citName": "Torremolinos",
+    "couId": null
+  },
+  {
+    "citId": 1530,
+    "citName": "Brusciano",
+    "couId": null
+  },
+  {
+    "citId": 1531,
+    "citName": "Segrate",
+    "couId": null
+  },
+  {
+    "citId": 1532,
+    "citName": "Puente de Domingo Flórez",
+    "couId": null
+  },
+  {
+    "citId": 1533,
+    "citName": "Trondheim",
+    "couId": null
+  },
+  {
+    "citId": 1534,
+    "citName": "Pitalito",
+    "couId": null
+  },
+  {
+    "citId": 1535,
+    "citName": "São Caetano do Sul",
+    "couId": null
+  },
+  {
+    "citId": 1536,
+    "citName": "Goya",
+    "couId": null
+  },
+  {
+    "citId": 1537,
+    "citName": "Salitre",
+    "couId": null
+  },
+  {
+    "citId": 1538,
+    "citName": "Región de Bruselas-Capital",
+    "couId": null
+  },
+  {
+    "citId": 1539,
+    "citName": "El Torno",
+    "couId": null
+  },
+  {
+    "citId": 1540,
+    "citName": "Nova Iguaçu",
+    "couId": null
+  },
+  {
+    "citId": 1541,
+    "citName": "Calderón",
+    "couId": null
+  },
+  {
+    "citId": 1542,
+    "citName": "Puyo",
+    "couId": null
+  },
+  {
+    "citId": 1543,
+    "citName": "Bluffton",
+    "couId": null
+  },
+  {
+    "citId": 1544,
+    "citName": "Tel Aviv",
+    "couId": null
+  },
+  {
+    "citId": 1545,
+    "citName": "Cameron Park",
+    "couId": null
+  },
+  {
+    "citId": 1546,
+    "citName": "Río de Janeiro",
+    "couId": null
+  },
+  {
+    "citId": 1547,
+    "citName": "Cypress",
+    "couId": null
+  },
+  {
+    "citId": 1548,
+    "citName": "San Borja",
+    "couId": null
+  },
+  {
+    "citId": 1549,
+    "citName": "Humacao",
+    "couId": null
+  },
+  {
+    "citId": 1550,
+    "citName": "Barra do Piraí",
+    "couId": null
+  },
+  {
+    "citId": 1551,
+    "citName": "Puerto Varas",
+    "couId": null
+  },
+  {
+    "citId": 1552,
+    "citName": "San Miguel de Tucumán",
+    "couId": null
+  },
+  {
+    "citId": 1553,
+    "citName": "Cuiabá",
+    "couId": null
+  },
+  {
+    "citId": 1554,
+    "citName": "París",
+    "couId": null
+  },
+  {
+    "citId": 1555,
+    "citName": "Limerick",
+    "couId": null
+  },
+  {
+    "citId": 1556,
+    "citName": "Dublín",
+    "couId": null
+  },
+  {
+    "citId": 1557,
+    "citName": "Génova",
+    "couId": null
+  },
+  {
+    "citId": 1558,
+    "citName": "Tarrasa",
+    "couId": null
+  },
+  {
+    "citId": 1559,
+    "citName": "Santiago de Chile",
+    "couId": null
+  },
+  {
+    "citId": 1560,
+    "citName": "Quito",
+    "couId": null
+  },
+  {
+    "citId": 1561,
+    "citName": "Terrassa",
+    "couId": null
+  },
+  {
+    "citId": 1562,
+    "citName": "El Prat de Llobregat",
+    "couId": null
+  },
+  {
+    "citId": 1563,
+    "citName": "Zapopan",
+    "couId": null
+  },
+  {
+    "citId": 1564,
+    "citName": "Dublin",
+    "couId": null
+  },
+  {
+    "citId": 1565,
+    "citName": "Corumbá",
+    "couId": null
+  },
+  {
+    "citId": 1566,
+    "citName": "Cologne",
+    "couId": null
+  },
+  {
+    "citId": 1567,
+    "citName": "Doha",
+    "couId": null
+  },
+  {
+    "citId": 1568,
+    "citName": "Rada Tilly",
+    "couId": null
+  },
+  {
+    "citId": 1569,
+    "citName": "Santo Domingo de los Colorados",
+    "couId": null
+  },
+  {
+    "citId": 1570,
+    "citName": "Zürich",
+    "couId": null
+  },
+  {
+    "citId": 1571,
+    "citName": "Cape Town",
+    "couId": null
+  },
+  {
+    "citId": 1572,
+    "citName": "Stuttgart",
+    "couId": null
+  },
+  {
+    "citId": 1573,
+    "citName": "Burnsville",
+    "couId": null
+  },
+  {
+    "citId": 1574,
+    "citName": "Hamilton",
+    "couId": null
+  },
+  {
+    "citId": 1575,
+    "citName": "Santa Pola",
+    "couId": null
+  },
+  {
+    "citId": 1576,
+    "citName": "Sant Cugat del Vallès",
+    "couId": null
+  },
+  {
+    "citId": 1577,
+    "citName": "Marbella",
+    "couId": null
+  },
+  {
+    "citId": 1578,
+    "citName": "Umina Beach",
+    "couId": null
+  },
+  {
+    "citId": 1579,
+    "citName": "Country Walk",
+    "couId": null
+  },
+  {
+    "citId": 1580,
+    "citName": "Benalmádena",
+    "couId": null
+  },
+  {
+    "citId": 1581,
+    "citName": "Cadiz",
+    "couId": null
+  },
+  {
+    "citId": 1582,
+    "citName": "El Portal",
+    "couId": null
+  },
+  {
+    "citId": 1583,
+    "citName": "Four Corners",
+    "couId": null
+  },
+  {
+    "citId": 1584,
+    "citName": "Ribadavia",
+    "couId": null
+  },
+  {
+    "citId": 1585,
+    "citName": "Campo de Criptana",
+    "couId": null
+  },
+  {
+    "citId": 1586,
+    "citName": "Tres Cantos",
+    "couId": null
+  },
+  {
+    "citId": 1587,
+    "citName": "Genova",
+    "couId": null
+  },
+  {
+    "citId": 1588,
+    "citName": "General Pico",
+    "couId": null
+  },
+  {
+    "citId": 1589,
+    "citName": "Rosario",
+    "couId": null
+  },
+  {
+    "citId": 1590,
+    "citName": "Begur",
+    "couId": null
+  },
+  {
+    "citId": 1591,
+    "citName": "Trevélez",
+    "couId": null
+  },
+  {
+    "citId": 1592,
+    "citName": "Marsaskala",
+    "couId": null
+  },
+  {
+    "citId": 1593,
+    "citName": "Villa Montes",
+    "couId": null
+  },
+  {
+    "citId": 1594,
+    "citName": "Jávea",
+    "couId": null
+  },
+  {
+    "citId": 1595,
+    "citName": "Bérgamo",
+    "couId": null
+  },
+  {
+    "citId": 1596,
+    "citName": "Curitiba",
+    "couId": null
+  },
+  {
+    "citId": 1597,
+    "citName": "Río Branco",
+    "couId": null
+  },
+  {
+    "citId": 1598,
+    "citName": "Alcira",
+    "couId": null
+  },
+  {
+    "citId": 1599,
+    "citName": "Chico",
+    "couId": null
+  },
+  {
+    "citId": 1600,
+    "citName": "Mapiri",
+    "couId": null
+  },
+  {
+    "citId": 1601,
+    "citName": "Múnich",
+    "couId": null
+  },
+  {
+    "citId": 1602,
+    "citName": "Pinellas Park",
+    "couId": null
+  },
+  {
+    "citId": 1603,
+    "citName": "Villa Carlos Paz",
+    "couId": null
+  },
+  {
+    "citId": 1604,
+    "citName": "Colesville",
+    "couId": null
+  },
+  {
+    "citId": 1605,
+    "citName": "Chignahuapan",
+    "couId": null
+  },
+  {
+    "citId": 1606,
+    "citName": "Santa Ana de Yacuma",
+    "couId": null
+  },
+  {
+    "citId": 1607,
+    "citName": "San Juan del Río",
+    "couId": null
+  },
+  {
+    "citId": 1608,
+    "citName": "Huacho",
+    "couId": null
+  },
+  {
+    "citId": 1609,
+    "citName": "Jersey Village",
+    "couId": null
+  },
+  {
+    "citId": 1610,
+    "citName": "Melipilla",
+    "couId": null
+  },
+  {
+    "citId": 1611,
+    "citName": "Maipo",
+    "couId": null
+  },
+  {
+    "citId": 1612,
+    "citName": "Bergamo",
+    "couId": null
+  },
+  {
+    "citId": 1613,
+    "citName": "Ushuaia",
+    "couId": null
+  },
+  {
+    "citId": 1614,
+    "citName": "Santa María",
+    "couId": null
+  },
+  {
+    "citId": 1615,
+    "citName": "Glendora",
+    "couId": null
+  },
+  {
+    "citId": 1616,
+    "citName": "Callao",
+    "couId": null
+  },
+  {
+    "citId": 1617,
+    "citName": "Maturín",
+    "couId": null
+  },
+  {
+    "citId": 1618,
+    "citName": "Maracaibo",
+    "couId": null
+  },
+  {
+    "citId": 1619,
+    "citName": "Manassas",
+    "couId": null
+  },
+  {
+    "citId": 1620,
+    "citName": "Fortaleza",
+    "couId": null
+  },
+  {
+    "citId": 1621,
+    "citName": "Santos",
+    "couId": null
+  },
+  {
+    "citId": 1622,
+    "citName": "Edmonton",
+    "couId": null
+  },
+  {
+    "citId": 1623,
+    "citName": "Barrie",
+    "couId": null
+  },
+  {
+    "citId": 1624,
+    "citName": "Bonita Springs",
+    "couId": null
+  },
+  {
+    "citId": 1625,
+    "citName": "Courtice",
+    "couId": null
+  },
+  {
+    "citId": 1626,
+    "citName": "Worthington",
+    "couId": null
+  },
+  {
+    "citId": 1627,
+    "citName": "Muchamiel",
+    "couId": null
+  },
+  {
+    "citId": 1628,
+    "citName": "Mulhouse",
+    "couId": null
+  },
+  {
+    "citId": 1629,
+    "citName": "Kingston",
+    "couId": null
+  },
+  {
+    "citId": 1630,
+    "citName": "Haliburton",
+    "couId": null
+  },
+  {
+    "citId": 1631,
+    "citName": "Calgary",
+    "couId": null
+  },
+  {
+    "citId": 1632,
+    "citName": "Kuwait City",
+    "couId": null
+  },
+  {
+    "citId": 1633,
+    "citName": "Centerton",
+    "couId": null
+  },
+  {
+    "citId": 1634,
+    "citName": "Bilbao",
+    "couId": null
+  },
+  {
+    "citId": 1635,
+    "citName": "Orem",
+    "couId": null
+  },
+  {
+    "citId": 1636,
+    "citName": "Burlington",
+    "couId": null
+  },
+  {
+    "citId": 1637,
+    "citName": "Saint Petersburg",
+    "couId": null
+  },
+  {
+    "citId": 1638,
+    "citName": "Oakville",
+    "couId": null
+  },
+  {
+    "citId": 1639,
+    "citName": "Cobija",
+    "couId": null
+  },
+  {
+    "citId": 1640,
+    "citName": "Vaughan",
+    "couId": null
+  },
+  {
+    "citId": 1641,
+    "citName": "Mississauga",
+    "couId": null
+  },
+  {
+    "citId": 1642,
+    "citName": "Bullsbrook",
+    "couId": null
+  },
+  {
+    "citId": 1643,
+    "citName": "Bigastro",
+    "couId": null
+  },
+  {
+    "citId": 1644,
+    "citName": "Alboraya",
+    "couId": null
+  },
+  {
+    "citId": 1645,
+    "citName": "Vráble",
+    "couId": null
+  },
+  {
+    "citId": 1646,
+    "citName": "Charleroi",
+    "couId": null
+  },
+  {
+    "citId": 1647,
+    "citName": "Limpung",
+    "couId": null
+  },
+  {
+    "citId": 1648,
+    "citName": "Lugo",
+    "couId": null
+  },
+  {
+    "citId": 1649,
+    "citName": "Castalla",
+    "couId": null
+  },
+  {
+    "citId": 1650,
+    "citName": "Villahermosa",
+    "couId": null
+  },
+  {
+    "citId": 1651,
+    "citName": "Chennai",
+    "couId": null
+  },
+  {
+    "citId": 1652,
+    "citName": "Mashhad",
+    "couId": null
+  },
+  {
+    "citId": 1653,
+    "citName": "Carolina",
+    "couId": null
+  },
+  {
+    "citId": 1654,
+    "citName": "Cutler Bay",
+    "couId": null
+  },
+  {
+    "citId": 1655,
+    "citName": "Washington D. C.",
+    "couId": null
+  },
+  {
+    "citId": 1656,
+    "citName": "Riberalta",
+    "couId": null
+  },
+  {
+    "citId": 1657,
+    "citName": "Pisco",
+    "couId": null
+  },
+  {
+    "citId": 1658,
+    "citName": "Gijón",
+    "couId": null
+  },
+  {
+    "citId": 1659,
+    "citName": "Malvik",
+    "couId": null
+  },
+  {
+    "citId": 1660,
+    "citName": "Lehigh Acres",
+    "couId": null
+  },
+  {
+    "citId": 1661,
+    "citName": "Split",
+    "couId": null
+  },
+  {
+    "citId": 1662,
+    "citName": "Linares",
+    "couId": null
+  },
+  {
+    "citId": 1663,
+    "citName": "San Mateo",
+    "couId": null
+  },
+  {
+    "citId": 1664,
+    "citName": "Beccar",
+    "couId": null
+  },
+  {
+    "citId": 1665,
+    "citName": "Washington D.C.",
+    "couId": null
+  },
+  {
+    "citId": 1666,
+    "citName": "Camiri",
+    "couId": null
+  },
+  {
+    "citId": 1667,
+    "citName": "Cunit",
+    "couId": null
+  },
+  {
+    "citId": 1668,
+    "citName": "Villaluenga",
+    "couId": null
+  },
+  {
+    "citId": 1669,
+    "citName": "Porqueras",
+    "couId": null
+  },
+  {
+    "citId": 1670,
+    "citName": "Düsseldorf",
+    "couId": null
+  },
+  {
+    "citId": 1671,
+    "citName": "Manilva",
+    "couId": null
+  },
+  {
+    "citId": 1672,
+    "citName": "Brugge",
+    "couId": null
+  },
+  {
+    "citId": 1673,
+    "citName": "Puerto La Cruz",
+    "couId": null
+  },
+  {
+    "citId": 1674,
+    "citName": "Jamrud Fort",
+    "couId": null
+  },
+  {
+    "citId": 1675,
+    "citName": "Yacuiba",
+    "couId": null
+  },
+  {
+    "citId": 1676,
+    "citName": "Quime",
+    "couId": null
+  },
+  {
+    "citId": 1677,
+    "citName": "Sincelejo",
+    "couId": null
+  },
+  {
+    "citId": 1678,
+    "citName": "Inca",
+    "couId": null
+  },
+  {
+    "citId": 1679,
+    "citName": "Newington",
+    "couId": null
+  },
+  {
+    "citId": 1680,
+    "citName": "Anderlecht",
+    "couId": null
+  },
+  {
+    "citId": 1681,
+    "citName": "Minneapolis",
+    "couId": null
+  },
+  {
+    "citId": 1682,
+    "citName": "São José do Rio Prêto",
+    "couId": null
+  },
+  {
+    "citId": 1683,
+    "citName": "Hallandale Beach",
+    "couId": null
+  },
+  {
+    "citId": 1684,
+    "citName": "Oyarifa",
+    "couId": null
+  },
+  {
+    "citId": 1685,
+    "citName": "Palma de Mallorca",
+    "couId": null
+  },
+  {
+    "citId": 1686,
+    "citName": "Juncos",
+    "couId": null
+  },
+  {
+    "citId": 1687,
+    "citName": "Paterna",
+    "couId": null
+  },
+  {
+    "citId": 1688,
+    "citName": "Brisbane",
+    "couId": null
+  },
+  {
+    "citId": 1689,
+    "citName": "Virginia Gardens",
+    "couId": null
+  },
+  {
+    "citId": 1690,
+    "citName": "Port Jefferson Station",
+    "couId": null
+  },
+  {
+    "citId": 1691,
+    "citName": "Silla",
+    "couId": null
+  },
+  {
+    "citId": 1692,
+    "citName": "Paita",
+    "couId": null
+  },
+  {
+    "citId": 1693,
+    "citName": "Putaendo",
+    "couId": null
+  },
+  {
+    "citId": 1694,
+    "citName": "Ashburn",
+    "couId": null
+  },
+  {
+    "citId": 1695,
+    "citName": "Faisalabad",
+    "couId": null
+  },
+  {
+    "citId": 1696,
+    "citName": "Toyota",
+    "couId": null
+  },
+  {
+    "citId": 1697,
+    "citName": "La Toma",
+    "couId": null
+  },
+  {
+    "citId": 1698,
+    "citName": "San Juan Pueblo Nuevo",
+    "couId": null
+  },
+  {
+    "citId": 1699,
+    "citName": "Benetússer",
+    "couId": null
+  },
+  {
+    "citId": 1700,
+    "citName": "Jyväskylä",
+    "couId": null
+  },
+  {
+    "citId": 1701,
+    "citName": "Santa Eulalia del Río",
+    "couId": null
+  },
+  {
+    "citId": 1702,
+    "citName": "Marseille",
+    "couId": null
+  },
+  {
+    "citId": 1703,
+    "citName": "Wellington",
+    "couId": null
+  },
+  {
+    "citId": 1704,
+    "citName": "Surabaya",
+    "couId": null
+  },
+  {
+    "citId": 1705,
+    "citName": "São Luís",
+    "couId": null
+  },
+  {
+    "citId": 1706,
+    "citName": "Londres",
+    "couId": null
+  },
+  {
+    "citId": 1707,
+    "citName": "São Carlos",
+    "couId": null
+  },
+  {
+    "citId": 1708,
+    "citName": "Bryan",
+    "couId": null
+  },
+  {
+    "citId": 1709,
+    "citName": "North Lindenhurst",
+    "couId": null
+  },
+  {
+    "citId": 1710,
+    "citName": "Ponte Vedra Beach",
+    "couId": null
+  },
+  {
+    "citId": 1711,
+    "citName": "Bermuda Dunes",
+    "couId": null
+  },
+  {
+    "citId": 1712,
+    "citName": "Roma",
+    "couId": null
+  },
+  {
+    "citId": 1713,
+    "citName": "Playas del Rosario",
+    "couId": null
+  },
+  {
+    "citId": 1714,
+    "citName": "Pamplona",
+    "couId": null
+  },
+  {
+    "citId": 1715,
+    "citName": "Pau",
+    "couId": null
+  },
+  {
+    "citId": 1716,
+    "citName": "Lyndhurst",
+    "couId": null
+  },
+  {
+    "citId": 1717,
+    "citName": "Angus",
+    "couId": null
+  },
+  {
+    "citId": 1718,
+    "citName": "Graz",
+    "couId": null
+  },
+  {
+    "citId": 1719,
+    "citName": "Cotoca",
+    "couId": null
+  },
+  {
+    "citId": 1720,
+    "citName": "Mandalay",
+    "couId": null
+  },
+  {
+    "citId": 1721,
+    "citName": "Almoloya de Alquisiras",
+    "couId": null
+  },
+  {
+    "citId": 1722,
+    "citName": "Edmond",
+    "couId": null
+  },
+  {
+    "citId": 1723,
+    "citName": "Saskatoon",
+    "couId": null
+  },
+  {
+    "citId": 1724,
+    "citName": "Almazora",
+    "couId": null
+  },
+  {
+    "citId": 1725,
+    "citName": "Depok",
+    "couId": null
+  },
+  {
+    "citId": 1726,
+    "citName": "Paracas",
+    "couId": null
+  },
+  {
+    "citId": 1727,
+    "citName": "Ciudadela",
+    "couId": null
+  },
+  {
+    "citId": 1728,
+    "citName": "Parrish",
+    "couId": null
+  },
+  {
+    "citId": 1729,
+    "citName": "Almazul",
+    "couId": null
+  },
+  {
+    "citId": 1730,
+    "citName": "Kaduna",
+    "couId": null
+  },
+  {
+    "citId": 1731,
+    "citName": "Ciudad Trinidad",
+    "couId": null
+  },
+  {
+    "citId": 1732,
+    "citName": "Brunete",
+    "couId": null
+  },
+  {
+    "citId": 1733,
+    "citName": "Passo Fundo",
+    "couId": null
+  },
+  {
+    "citId": 1734,
+    "citName": "LLIRIA",
+    "couId": null
+  },
+  {
+    "citId": 1735,
+    "citName": "Caracollo",
+    "couId": null
+  },
+  {
+    "citId": 1736,
+    "citName": "Sunny Isles Beach",
+    "couId": null
+  },
+  {
+    "citId": 1737,
+    "citName": "Merlo",
+    "couId": null
+  },
+  {
+    "citId": 1738,
+    "citName": "Mexicali",
+    "couId": null
+  },
+  {
+    "citId": 1739,
+    "citName": "Ghent",
+    "couId": null
+  },
+  {
+    "citId": 1740,
+    "citName": "Minglanilla",
+    "couId": null
+  },
+  {
+    "citId": 1741,
+    "citName": "Coral Terrace",
+    "couId": null
+  },
+  {
+    "citId": 1742,
+    "citName": "Teulada",
+    "couId": null
+  },
+  {
+    "citId": 1743,
+    "citName": "Viña del Mar",
+    "couId": null
+  },
+  {
+    "citId": 1744,
+    "citName": "Sandy",
+    "couId": null
+  },
+  {
+    "citId": 1745,
+    "citName": "Milán",
+    "couId": null
+  },
+  {
+    "citId": 1746,
+    "citName": "Badalona",
+    "couId": null
+  },
+  {
+    "citId": 1747,
+    "citName": "Miami Springs",
+    "couId": null
+  },
+  {
+    "citId": 1748,
+    "citName": "Immokalee",
+    "couId": null
+  },
+  {
+    "citId": 1749,
+    "citName": "Crévin",
+    "couId": null
+  },
+  {
+    "citId": 1750,
+    "citName": "Cuernavaca",
+    "couId": null
+  },
+  {
+    "citId": 1751,
+    "citName": "South Brunswick Township",
+    "couId": null
+  },
+  {
+    "citId": 1752,
+    "citName": "Apiay",
+    "couId": null
+  },
+  {
+    "citId": 1753,
+    "citName": "L'Alfàs del Pi",
+    "couId": null
+  },
+  {
+    "citId": 1754,
+    "citName": "L'Eliana",
+    "couId": null
+  },
+  {
+    "citId": 1755,
+    "citName": "Bolton",
+    "couId": null
+  },
+  {
+    "citId": 1756,
+    "citName": "Aba",
+    "couId": null
+  },
+  {
+    "citId": 1757,
+    "citName": "Plantation",
+    "couId": null
+  },
+  {
+    "citId": 1758,
+    "citName": "Baracoa",
+    "couId": null
+  },
+  {
+    "citId": 1759,
+    "citName": "College Station",
+    "couId": null
+  },
+  {
+    "citId": 1760,
+    "citName": "Tuxtla Gutiérrez",
+    "couId": null
+  },
+  {
+    "citId": 1761,
+    "citName": "San Bartolomé",
+    "couId": null
+  },
+  {
+    "citId": 1762,
+    "citName": "RIBA-ROJA DE TURIA",
+    "couId": null
+  },
+  {
+    "citId": 1763,
+    "citName": "Burriana",
+    "couId": null
+  },
+  {
+    "citId": 1764,
+    "citName": "Bellinzago Novarese",
+    "couId": null
+  },
+  {
+    "citId": 1765,
+    "citName": "Ledesma",
+    "couId": null
+  },
+  {
+    "citId": 1766,
+    "citName": "Catania",
+    "couId": null
+  },
+  {
+    "citId": 1767,
+    "citName": "Castle Rock",
+    "couId": null
+  },
+  {
+    "citId": 1768,
+    "citName": "Frankfurt am Main",
+    "couId": null
+  },
+  {
+    "citId": 1769,
+    "citName": "Prague",
+    "couId": null
+  },
+  {
+    "citId": 1770,
+    "citName": "Mondragone",
+    "couId": null
+  },
+  {
+    "citId": 1771,
+    "citName": "El Yopal",
+    "couId": null
+  },
+  {
+    "citId": 1772,
+    "citName": "Newport Beach",
+    "couId": null
+  },
+  {
+    "citId": 1773,
+    "citName": "Metepec",
+    "couId": null
+  },
+  {
+    "citId": 1774,
+    "citName": "Castelló de la Ribera",
+    "couId": null
+  },
+  {
+    "citId": 1775,
+    "citName": "Weaver",
+    "couId": null
+  },
+  {
+    "citId": 1776,
+    "citName": "Arao-shi",
+    "couId": null
+  },
+  {
+    "citId": 1777,
+    "citName": "La Pobla de Vallbona",
+    "couId": null
+  },
+  {
+    "citId": 1778,
+    "citName": "Malvern",
+    "couId": null
+  },
+  {
+    "citId": 1779,
+    "citName": "Mataró",
+    "couId": null
+  },
+  {
+    "citId": 1780,
+    "citName": "Onteniente",
+    "couId": null
+  },
+  {
+    "citId": 1781,
+    "citName": "Rio Branco",
+    "couId": null
+  },
+  {
+    "citId": 1782,
+    "citName": "Aldine",
+    "couId": null
+  },
+  {
+    "citId": 1783,
+    "citName": "Hung Yen",
+    "couId": null
+  },
+  {
+    "citId": 1784,
+    "citName": "Albal",
+    "couId": null
+  },
+  {
+    "citId": 1785,
+    "citName": "Davoli",
+    "couId": null
+  },
+  {
+    "citId": 1786,
+    "citName": "Grotte",
+    "couId": null
+  },
+  {
+    "citId": 1787,
+    "citName": "Finestrat",
+    "couId": null
+  },
+  {
+    "citId": 1788,
+    "citName": "Ambérieu-en-Bugey",
+    "couId": null
+  },
+  {
+    "citId": 1789,
+    "citName": "Quevedo",
+    "couId": null
+  },
+  {
+    "citId": 1790,
+    "citName": "Diadema",
+    "couId": null
+  },
+  {
+    "citId": 1791,
+    "citName": "Rivas-Vaciamadrid",
+    "couId": null
+  },
+  {
+    "citId": 1792,
+    "citName": "Hunters Creek",
+    "couId": null
+  },
+  {
+    "citId": 1793,
+    "citName": "Matamoros",
+    "couId": null
+  },
+  {
+    "citId": 1794,
+    "citName": "Vlissingen",
+    "couId": null
+  },
+  {
+    "citId": 1795,
+    "citName": "Grand Junction",
+    "couId": null
+  },
+  {
+    "citId": 1796,
+    "citName": "Masalfasar",
+    "couId": null
+  },
+  {
+    "citId": 1797,
+    "citName": "Envigado",
+    "couId": null
+  },
+  {
+    "citId": 1798,
+    "citName": "Centellas",
+    "couId": null
+  },
+  {
+    "citId": 1799,
+    "citName": "Vergel",
+    "couId": null
+  },
+  {
+    "citId": 1800,
+    "citName": "Akwanga",
+    "couId": null
+  },
+  {
+    "citId": 1801,
+    "citName": "Karachi",
+    "couId": null
+  },
+  {
+    "citId": 1802,
+    "citName": "Cagliari",
+    "couId": null
+  },
+  {
+    "citId": 1803,
+    "citName": "Hardeeville",
+    "couId": null
+  },
+  {
+    "citId": 1804,
+    "citName": "Rennes",
+    "couId": null
+  },
+  {
+    "citId": 1805,
+    "citName": "Moncada",
+    "couId": null
+  },
+  {
+    "citId": 1806,
+    "citName": "Pollensa",
+    "couId": null
+  },
+  {
+    "citId": 1807,
+    "citName": "Punto Fijo",
+    "couId": null
+  },
+  {
+    "citId": 1808,
+    "citName": "Vila Franca de Xira",
+    "couId": null
+  },
+  {
+    "citId": 1809,
+    "citName": "Moss Bluff",
+    "couId": null
+  },
+  {
+    "citId": 1810,
+    "citName": "Guaynabo",
+    "couId": null
+  },
+  {
+    "citId": 1811,
+    "citName": "Clitheroe",
+    "couId": null
+  },
+  {
+    "citId": 1812,
+    "citName": "Naples Park",
+    "couId": null
+  },
+  {
+    "citId": 1813,
+    "citName": "Viladecáns",
+    "couId": null
+  },
+  {
+    "citId": 1814,
+    "citName": "Xalapa",
+    "couId": null
+  },
+  {
+    "citId": 1815,
+    "citName": "'s-Hertogenbosch",
+    "couId": null
+  },
+  {
+    "citId": 1816,
+    "citName": "Zempoala",
+    "couId": null
+  },
+  {
+    "citId": 1817,
+    "citName": "Rancagua",
+    "couId": null
+  },
+  {
+    "citId": 1818,
+    "citName": "Várzea Grande",
+    "couId": null
+  },
+  {
+    "citId": 1819,
+    "citName": "Cintra",
+    "couId": null
+  },
+  {
+    "citId": 1820,
+    "citName": "Játiva",
+    "couId": null
+  },
+  {
+    "citId": 1821,
+    "citName": "Taguig",
+    "couId": null
+  },
+  {
+    "citId": 1822,
+    "citName": "Villagarcía de Arosa",
+    "couId": null
+  },
+  {
+    "citId": 1823,
+    "citName": "Calceta",
+    "couId": null
+  },
+  {
+    "citId": 1824,
+    "citName": "Monserrat",
+    "couId": null
+  },
+  {
+    "citId": 1825,
+    "citName": "Udine",
+    "couId": null
+  },
+  {
+    "citId": 1826,
+    "citName": "Oakton",
+    "couId": null
+  },
+  {
+    "citId": 1827,
+    "citName": "Lambaré",
+    "couId": null
+  },
+  {
+    "citId": 1828,
+    "citName": "Gwalior",
+    "couId": null
+  },
+  {
+    "citId": 1829,
+    "citName": "Redmond",
+    "couId": null
+  },
+  {
+    "citId": 1830,
+    "citName": "Bucaramanga",
+    "couId": null
+  },
+  {
+    "citId": 1831,
+    "citName": "Alcalá de Henares",
+    "couId": null
+  },
+  {
+    "citId": 1832,
+    "citName": "Portachuelo",
+    "couId": null
+  },
+  {
+    "citId": 1833,
+    "citName": "Palmones",
+    "couId": null
+  },
+  {
+    "citId": 1834,
+    "citName": "Baracaldo",
+    "couId": null
+  },
+  {
+    "citId": 1835,
+    "citName": "L'Ametlla del Vallès",
+    "couId": null
+  },
+  {
+    "citId": 1836,
+    "citName": "Ibiza",
+    "couId": null
+  },
+  {
+    "citId": 1837,
+    "citName": "Vallegrande",
+    "couId": null
+  },
+  {
+    "citId": 1838,
+    "citName": "Acámbaro",
+    "couId": null
+  },
+  {
+    "citId": 1839,
+    "citName": "Forjães",
+    "couId": null
+  },
+  {
+    "citId": 1840,
+    "citName": "Amersfoort",
+    "couId": null
+  },
+  {
+    "citId": 1841,
+    "citName": "Bloomington",
+    "couId": null
+  },
+  {
+    "citId": 1842,
+    "citName": "Sarmiento",
+    "couId": null
+  },
+  {
+    "citId": 1843,
+    "citName": "Florence",
+    "couId": null
+  },
+  {
+    "citId": 1844,
+    "citName": "Villa Krause",
+    "couId": null
+  },
+  {
+    "citId": 1845,
+    "citName": "Greenacres",
+    "couId": null
+  },
+  {
+    "citId": 1846,
+    "citName": "Cerchiara di Calabria",
+    "couId": null
+  },
+  {
+    "citId": 1847,
+    "citName": "Xánthi",
+    "couId": null
+  },
+  {
+    "citId": 1848,
+    "citName": "Helsinki",
+    "couId": null
+  },
+  {
+    "citId": 1849,
+    "citName": "Edogawa-ku",
+    "couId": null
+  },
+  {
+    "citId": 1850,
+    "citName": "Otricoli",
+    "couId": null
+  },
+  {
+    "citId": 1851,
+    "citName": "Copenhagen",
+    "couId": null
+  },
+  {
+    "citId": 1852,
+    "citName": "Gandía",
+    "couId": null
+  },
+  {
+    "citId": 1853,
+    "citName": "Banska Stiavnica",
+    "couId": null
+  },
+  {
+    "citId": 1854,
+    "citName": "Merion Station",
+    "couId": null
+  },
+  {
+    "citId": 1855,
+    "citName": "Campello",
+    "couId": null
+  },
+  {
+    "citId": 1856,
+    "citName": "Ferndale",
+    "couId": null
+  },
+  {
+    "citId": 1857,
+    "citName": "Braunschweig",
+    "couId": null
+  },
+  {
+    "citId": 1858,
+    "citName": "Irún",
+    "couId": null
+  },
+  {
+    "citId": 1859,
+    "citName": "Ibaté",
+    "couId": null
+  },
+  {
+    "citId": 1860,
+    "citName": "Banjul",
+    "couId": null
+  },
+  {
+    "citId": 1861,
+    "citName": "Aberdeen",
+    "couId": null
+  },
+  {
+    "citId": 1862,
+    "citName": "Cherokee",
+    "couId": null
+  },
+  {
+    "citId": 1863,
+    "citName": "Sangolquí",
+    "couId": null
+  },
+  {
+    "citId": 1864,
+    "citName": "West Miami",
+    "couId": null
+  },
+  {
+    "citId": 1865,
+    "citName": "Navalvillar de Pela",
+    "couId": null
+  },
+  {
+    "citId": 1866,
+    "citName": "Abapó",
+    "couId": null
+  },
+  {
+    "citId": 1867,
+    "citName": "San Nicolás de los Garza",
+    "couId": null
+  },
+  {
+    "citId": 1868,
+    "citName": "Haarlem",
+    "couId": null
+  },
+  {
+    "citId": 1869,
+    "citName": "Nová Dedina",
+    "couId": null
+  },
+  {
+    "citId": 1870,
+    "citName": "Erandio",
+    "couId": null
+  },
+  {
+    "citId": 1871,
+    "citName": "Cabreúva",
+    "couId": null
+  },
+  {
+    "citId": 1872,
+    "citName": "Guarulhos",
+    "couId": null
+  },
+  {
+    "citId": 1873,
+    "citName": "Lake Forest",
+    "couId": null
+  },
+  {
+    "citId": 1874,
+    "citName": "Mazatlán",
+    "couId": null
+  },
+  {
+    "citId": 1875,
+    "citName": "Stow",
+    "couId": null
+  },
+  {
+    "citId": 1876,
+    "citName": "Becerril de la Sierra",
+    "couId": null
+  },
+  {
+    "citId": 1877,
+    "citName": "Pflugerville",
+    "couId": null
+  },
+  {
+    "citId": 1878,
+    "citName": "Guarenas",
+    "couId": null
+  },
+  {
+    "citId": 1879,
+    "citName": "Lübeck",
+    "couId": null
+  },
+  {
+    "citId": 1880,
+    "citName": "Lisbon",
+    "couId": null
+  },
+  {
+    "citId": 1881,
+    "citName": "ALDAIA",
+    "couId": null
+  },
+  {
+    "citId": 1882,
+    "citName": "Sherwood",
+    "couId": null
+  },
+  {
+    "citId": 1883,
+    "citName": "Paamul",
+    "couId": null
+  },
+  {
+    "citId": 1884,
+    "citName": "Xirivella",
+    "couId": null
+  },
+  {
+    "citId": 1885,
+    "citName": "Oleiros",
+    "couId": null
+  },
+  {
+    "citId": 1886,
+    "citName": "Maspalomas",
+    "couId": null
+  },
+  {
+    "citId": 1887,
+    "citName": "Tihuatlán",
+    "couId": null
+  },
+  {
+    "citId": 1888,
+    "citName": "Ottawa",
+    "couId": null
+  },
+  {
+    "citId": 1889,
+    "citName": "Naples Manor",
+    "couId": null
+  }
+]
