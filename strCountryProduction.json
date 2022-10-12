@@ -1,0 +1,1237 @@
+[
+  {
+    "couId": "AD",
+    "coutName": "Andorra",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "AE",
+    "coutName": "AE",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "AF",
+    "coutName": "Afghanistan",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "AG",
+    "coutName": "Antigua and Barbuda",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "AI",
+    "coutName": "Anguilla",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "AL",
+    "coutName": "Albania",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "AM",
+    "coutName": "Armenia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "AO",
+    "coutName": "Angola",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "AQ",
+    "coutName": "Antarctica",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "AR",
+    "coutName": "Argentina",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "AS",
+    "coutName": "American Samoa",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "AT",
+    "coutName": "Austria",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "AU",
+    "coutName": "Australia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "AW",
+    "coutName": "Aruba",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "AX",
+    "coutName": "AX",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "AZ",
+    "coutName": "Azerbaijan",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BA",
+    "coutName": "Bosnia and Herzegovina",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BB",
+    "coutName": "Barbados",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BD",
+    "coutName": "BD",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BE",
+    "coutName": "BE",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BF",
+    "coutName": "Burkina Faso",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BG",
+    "coutName": "BG",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BH",
+    "coutName": "Bahrain",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BI",
+    "coutName": "Burundi",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BJ",
+    "coutName": "Benin",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BL",
+    "coutName": "BL",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BM",
+    "coutName": "Bermuda",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BN",
+    "coutName": "Brunei Darussalam",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BO",
+    "coutName": "Bolivia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BQ",
+    "coutName": "BQ",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BR",
+    "coutName": "Brasil",
+    "conRequirePostalNumber": true
+  },
+  {
+    "couId": "BS",
+    "coutName": "Bahamas",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BT",
+    "coutName": "Bhutan",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BW",
+    "coutName": "Botswana",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BY",
+    "coutName": "Belarus",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "BZ",
+    "coutName": "Belize",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CA",
+    "coutName": "Canada",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CC",
+    "coutName": "CC",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CD",
+    "coutName": "Congo, Democratic Republic of the",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CF",
+    "coutName": "Central African Republic",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CG",
+    "coutName": "Congo",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CH",
+    "coutName": "CH",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CI",
+    "coutName": "Côte dIvoire",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CK",
+    "coutName": "Cook Islands",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CL",
+    "coutName": "Chile",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CM",
+    "coutName": "Cameroon",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CN",
+    "coutName": "China",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CO",
+    "coutName": "Colombia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CR",
+    "coutName": "Costa Rica",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CU",
+    "coutName": "Cuba",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CV",
+    "coutName": "Cape Verde",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CW",
+    "coutName": "CW",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CX",
+    "coutName": "CX",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CY",
+    "coutName": "Cyprus",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "CZ",
+    "coutName": "Czech Republic",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "DE",
+    "coutName": "Germany",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "DJ",
+    "coutName": "Djibouti",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "DK",
+    "coutName": "Denmark",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "DM",
+    "coutName": "Dominica",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "DO",
+    "coutName": "Dominican Republic",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "DZ",
+    "coutName": "Algeria",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "EC",
+    "coutName": "Ecuador",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "EE",
+    "coutName": "Estonia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "EG",
+    "coutName": "Egypt",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "EH",
+    "coutName": "Western Sahara",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "ER",
+    "coutName": "Eritrea",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "ES",
+    "coutName": "Spain",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "ET",
+    "coutName": "Ethiopia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "FI",
+    "coutName": "Finland",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "FJ",
+    "coutName": "Fiji",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "FK",
+    "coutName": "Falkland Islands (Malvinas)",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "FM",
+    "coutName": "FM",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "FO",
+    "coutName": "Faeroe Islands",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "FR",
+    "coutName": "France",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GA",
+    "coutName": "Gabon",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GB",
+    "coutName": "GB",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GD",
+    "coutName": "Grenada",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GE",
+    "coutName": "Georgia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GF",
+    "coutName": "French Guiana",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GG",
+    "coutName": "Guernsey",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GH",
+    "coutName": "Ghana",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GI",
+    "coutName": "Gibraltar",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GL",
+    "coutName": "Greenland",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GM",
+    "coutName": "Gambia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GN",
+    "coutName": "Guinea",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GP",
+    "coutName": "Guadeloupe",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GQ",
+    "coutName": "Equatorial Guinea",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GR",
+    "coutName": "GR",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GS",
+    "coutName": "GS",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GT",
+    "coutName": "Guatemala",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GU",
+    "coutName": "Guam",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GW",
+    "coutName": "Guinea-Bissau",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "GY",
+    "coutName": "Guyana",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "HK",
+    "coutName": "Hong Kong, China",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "HN",
+    "coutName": "Honduras",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "HR",
+    "coutName": "HR",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "HT",
+    "coutName": "Haiti",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "HU",
+    "coutName": "Hungary",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "ID",
+    "coutName": "Indonesia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "IE",
+    "coutName": "IE",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "IL",
+    "coutName": "Israel",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "IM",
+    "coutName": "Isle of Man",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "IN",
+    "coutName": "IN",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "IQ",
+    "coutName": "Iraq",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "IR",
+    "coutName": "IR",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "IS",
+    "coutName": "Iceland",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "IT",
+    "coutName": "IT",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "JE",
+    "coutName": "Jersey",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "JM",
+    "coutName": "Jamaica",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "JO",
+    "coutName": "Jordan",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "JP",
+    "coutName": "JP",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "KE",
+    "coutName": "Kenya",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "KG",
+    "coutName": "Kyrgyzstan",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "KH",
+    "coutName": "Cambodia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "KI",
+    "coutName": "Kiribati",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "KM",
+    "coutName": "Comoros",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "KN",
+    "coutName": "Saint Kitts and Nevis",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "KP",
+    "coutName": "Korea, Dem. Peoples Rep. of",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "KR",
+    "coutName": "Korea, Republic of",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "KW",
+    "coutName": "Kuwait",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "KY",
+    "coutName": "Cayman Islands",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "KZ",
+    "coutName": "Kazakhstan",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "LA",
+    "coutName": "Lao Peoples Dem. Rep.",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "LB",
+    "coutName": "Lebanon",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "LC",
+    "coutName": "Saint Lucia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "LI",
+    "coutName": "Liechtenstein",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "LK",
+    "coutName": "Sri Lanka",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "LR",
+    "coutName": "Liberia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "LS",
+    "coutName": "Lesotho",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "LT",
+    "coutName": "Lithuania",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "LU",
+    "coutName": "Luxembourg",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "LV",
+    "coutName": "Latvia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "LY",
+    "coutName": "Libyan Arab Jamahiriya",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MA",
+    "coutName": "MA",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MC",
+    "coutName": "Monaco",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MD",
+    "coutName": "Moldova, Republic of",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "ME",
+    "coutName": "Montenegro",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MF",
+    "coutName": "MF",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MG",
+    "coutName": "Madagascar",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MH",
+    "coutName": "Marshall Islands",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MK",
+    "coutName": "Macedonia, The former Yugoslav Rep. of",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "ML",
+    "coutName": "Mali",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MM",
+    "coutName": "Myanmar",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MN",
+    "coutName": "Mongolia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MO",
+    "coutName": "Macau, China",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MP",
+    "coutName": "Northern Mariana Islands",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MQ",
+    "coutName": "Martinique",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MR",
+    "coutName": "Mauritania",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MS",
+    "coutName": "Montserrat",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MT",
+    "coutName": "MT",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MU",
+    "coutName": "Mauritius",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MV",
+    "coutName": "Maldives",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MW",
+    "coutName": "Malawi",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MX",
+    "coutName": "Mexico",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MY",
+    "coutName": "MY",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "MZ",
+    "coutName": "Mozambique",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "NA",
+    "coutName": "Namibia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "NC",
+    "coutName": "New Caledonia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "NE",
+    "coutName": "Niger",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "NF",
+    "coutName": "Norfolk Island",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "NG",
+    "coutName": "Nigeria",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "NI",
+    "coutName": "Nicaragua",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "NL",
+    "coutName": "NL",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "NO",
+    "coutName": "NO",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "NP",
+    "coutName": "Nepal",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "NR",
+    "coutName": "Nauru",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "NU",
+    "coutName": "Niue",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "NZ",
+    "coutName": "NZ",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "OM",
+    "coutName": "Oman",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "PA",
+    "coutName": "Panama",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "PE",
+    "coutName": "Peru",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "PF",
+    "coutName": "French Polynesia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "PG",
+    "coutName": "Papua New Guinea",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "PH",
+    "coutName": "PH",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "PK",
+    "coutName": "PK",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "PL",
+    "coutName": "Poland",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "PM",
+    "coutName": "Saint Pierre and Miquelon",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "PN",
+    "coutName": "PN",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "PR",
+    "coutName": "Puerto Rico",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "PS",
+    "coutName": "West Bank and Gaza Strip",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "PT",
+    "coutName": "Portugal",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "PW",
+    "coutName": "Palau",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "PY",
+    "coutName": "Paraguay",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "QA",
+    "coutName": "Qatar",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "RE",
+    "coutName": "Réunion",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "RO",
+    "coutName": "Romania",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "RS",
+    "coutName": "Serbia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "RU",
+    "coutName": "Russian Federation",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "RW",
+    "coutName": "Rwanda",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SA",
+    "coutName": "Saudi Arabia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SB",
+    "coutName": "Solomon Islands",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SC",
+    "coutName": "Seychelles",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SD",
+    "coutName": "Sudan, The Republic of",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SE",
+    "coutName": "Sweden",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SG",
+    "coutName": "Singapore",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SH",
+    "coutName": "Saint Helena",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SI",
+    "coutName": "Slovenia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SJ",
+    "coutName": "SJ",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SK",
+    "coutName": "Slovakia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SL",
+    "coutName": "Sierra Leone",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SM",
+    "coutName": "San Marino",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SN",
+    "coutName": "Senegal",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SO",
+    "coutName": "Somalia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SR",
+    "coutName": "Suriname",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SS",
+    "coutName": "South Sudan, The Republic of",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "ST",
+    "coutName": "Sao Tome and Principe",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SV",
+    "coutName": "El Salvador",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SX",
+    "coutName": "SX",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SY",
+    "coutName": "Syrian Arab Republic",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "SZ",
+    "coutName": "Swaziland",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "TC",
+    "coutName": "Turks and Caicos Islands",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "TD",
+    "coutName": "Chad",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "TF",
+    "coutName": "TF",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "TG",
+    "coutName": "Togo",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "TH",
+    "coutName": "TH",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "TJ",
+    "coutName": "Tajikistan",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "TK",
+    "coutName": "Tokelau",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "TL",
+    "coutName": "Timor-Leste",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "TM",
+    "coutName": "Turkmenistan",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "TN",
+    "coutName": "Tunisia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "TO",
+    "coutName": "Tonga",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "TR",
+    "coutName": "Turkey",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "TT",
+    "coutName": "Trinidad and Tobago",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "TV",
+    "coutName": "Tuvalu",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "TW",
+    "coutName": "Taiwan, China",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "TZ",
+    "coutName": "Tanzania, United Republic of",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "UA",
+    "coutName": "UA",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "UG",
+    "coutName": "Uganda",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "US",
+    "coutName": "United States",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "UY",
+    "coutName": "Uruguay",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "UZ",
+    "coutName": "Uzbekistan",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "VA",
+    "coutName": "VA",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "VC",
+    "coutName": "Saint Vincent and the Grenadines",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "VE",
+    "coutName": "Venezuela",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "VG",
+    "coutName": "British Virgin Islands",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "VI",
+    "coutName": "Virgin Islands (US)",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "VN",
+    "coutName": "Viet Nam",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "VU",
+    "coutName": "Vanuatu",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "WD",
+    "coutName": "Worldwide",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "WF",
+    "coutName": "Wallis and Futuna Islands",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "WS",
+    "coutName": "Samoa",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "XK",
+    "coutName": "XK",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "YE",
+    "coutName": "Yemen",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "YT",
+    "coutName": "YT",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "ZA",
+    "coutName": "South Africa",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "ZM",
+    "coutName": "Zambia",
+    "conRequirePostalNumber": false
+  },
+  {
+    "couId": "ZW",
+    "coutName": "Zimbabwe",
+    "conRequirePostalNumber": false
+  }
+]

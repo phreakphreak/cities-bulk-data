@@ -1,0 +1,632 @@
+[
+  {
+    "citId": 1037,
+    "citName": "Puzol",
+    "couId": null
+  },
+  {
+    "citId": 1051,
+    "citName": "Muar",
+    "couId": null
+  },
+  {
+    "citId": 1052,
+    "citName": "Sylhet",
+    "couId": null
+  },
+  {
+    "citId": 1060,
+    "citName": "Lahore",
+    "couId": null
+  },
+  {
+    "citId": 1064,
+    "citName": "Pintag",
+    "couId": null
+  },
+  {
+    "citId": 1067,
+    "citName": "Donostia-San Sebastián",
+    "couId": null
+  },
+  {
+    "citId": 1071,
+    "citName": "Castellón de la Plana",
+    "couId": null
+  },
+  {
+    "citId": 1076,
+    "citName": "Hal Balzan",
+    "couId": null
+  },
+  {
+    "citId": 1078,
+    "citName": "Bang Bua Thong",
+    "couId": null
+  },
+  {
+    "citId": 1091,
+    "citName": "Chiang Mai",
+    "couId": null
+  },
+  {
+    "citId": 1092,
+    "citName": "Xicohténcatl",
+    "couId": null
+  },
+  {
+    "citId": 1093,
+    "citName": "Rayong",
+    "couId": null
+  },
+  {
+    "citId": 1096,
+    "citName": "Montreal",
+    "couId": null
+  },
+  {
+    "citId": 1097,
+    "citName": "Bangkok",
+    "couId": null
+  },
+  {
+    "citId": 1099,
+    "citName": "Urubo",
+    "couId": null
+  },
+  {
+    "citId": 1100,
+    "citName": "Antalya",
+    "couId": null
+  },
+  {
+    "citId": 1103,
+    "citName": "Tabernes de Valldigna",
+    "couId": null
+  },
+  {
+    "citId": 1104,
+    "citName": "Kuala Lumpur",
+    "couId": null
+  },
+  {
+    "citId": 1105,
+    "citName": "Changwat Samut Prakan",
+    "couId": null
+  },
+  {
+    "citId": 1107,
+    "citName": "Tubao",
+    "couId": null
+  },
+  {
+    "citId": 1109,
+    "citName": "Nakhon Ratchasima",
+    "couId": null
+  },
+  {
+    "citId": 1114,
+    "citName": "Pachuca",
+    "couId": null
+  },
+  {
+    "citId": 1115,
+    "citName": "Vitoria-Gasteiz",
+    "couId": null
+  },
+  {
+    "citId": 1116,
+    "citName": "Búzios",
+    "couId": null
+  },
+  {
+    "citId": 1123,
+    "citName": "West Kendall",
+    "couId": null
+  },
+  {
+    "citId": 1124,
+    "citName": "Puerto Pailas",
+    "couId": null
+  },
+  {
+    "citId": 1128,
+    "citName": "San Miguel Zinacantepec",
+    "couId": null
+  },
+  {
+    "citId": 1130,
+    "citName": "Ebina-shi",
+    "couId": null
+  },
+  {
+    "citId": 1148,
+    "citName": "Dhaka",
+    "couId": null
+  },
+  {
+    "citId": 1150,
+    "citName": "Singapore",
+    "couId": null
+  },
+  {
+    "citId": 1154,
+    "citName": "Fontana Liri",
+    "couId": null
+  },
+  {
+    "citId": 1157,
+    "citName": "Thanh Hóa",
+    "couId": null
+  },
+  {
+    "citId": 1158,
+    "citName": "Gerli",
+    "couId": null
+  },
+  {
+    "citId": 1162,
+    "citName": "Torrente",
+    "couId": null
+  },
+  {
+    "citId": 1164,
+    "citName": "Misurata",
+    "couId": null
+  },
+  {
+    "citId": 1165,
+    "citName": "Rafelbuñol",
+    "couId": null
+  },
+  {
+    "citId": 1173,
+    "citName": "Masamagrell",
+    "couId": null
+  },
+  {
+    "citId": 1180,
+    "citName": "Jakarta",
+    "couId": null
+  },
+  {
+    "citId": 1183,
+    "citName": "Istanbul",
+    "couId": null
+  },
+  {
+    "citId": 1187,
+    "citName": "Tehran",
+    "couId": null
+  },
+  {
+    "citId": 1192,
+    "citName": "RIBA-ROJA DE TURIA",
+    "couId": null
+  },
+  {
+    "citId": 1197,
+    "citName": "Saipina",
+    "couId": null
+  },
+  {
+    "citId": 1200,
+    "citName": "General Saavedra",
+    "couId": null
+  },
+  {
+    "citId": 1201,
+    "citName": "Ottignies-Louvain-la-Neuve",
+    "couId": null
+  },
+  {
+    "citId": 1204,
+    "citName": "Río de Janeiro",
+    "couId": null
+  },
+  {
+    "citId": 1206,
+    "citName": "Union Township",
+    "couId": null
+  },
+  {
+    "citId": 1207,
+    "citName": "Bérgamo",
+    "couId": null
+  },
+  {
+    "citId": 1209,
+    "citName": "Villa Montes",
+    "couId": null
+  },
+  {
+    "citId": 1212,
+    "citName": "Santiago de Chile",
+    "couId": null
+  },
+  {
+    "citId": 1214,
+    "citName": "Casablanca",
+    "couId": null
+  },
+  {
+    "citId": 1216,
+    "citName": "Khulna",
+    "couId": null
+  },
+  {
+    "citId": 1217,
+    "citName": "Forjães",
+    "couId": null
+  },
+  {
+    "citId": 1221,
+    "citName": "Santa Eulalia del Río",
+    "couId": null
+  },
+  {
+    "citId": 1223,
+    "citName": "Villagarcía de Arosa",
+    "couId": null
+  },
+  {
+    "citId": 1225,
+    "citName": "Irún",
+    "couId": null
+  },
+  {
+    "citId": 1227,
+    "citName": "Chennai",
+    "couId": null
+  },
+  {
+    "citId": 1229,
+    "citName": "Tihuatlán",
+    "couId": null
+  },
+  {
+    "citId": 1232,
+    "citName": "El Yopal",
+    "couId": null
+  },
+  {
+    "citId": 1234,
+    "citName": "Kars",
+    "couId": null
+  },
+  {
+    "citId": 1235,
+    "citName": "Naucalpan",
+    "couId": null
+  },
+  {
+    "citId": 1238,
+    "citName": "Mashhad",
+    "couId": null
+  },
+  {
+    "citId": 1515,
+    "citName": "South Brunswick Township",
+    "couId": null
+  },
+  {
+    "citId": 1525,
+    "citName": "San Ignacio de Moxo",
+    "couId": null
+  },
+  {
+    "citId": 1529,
+    "citName": "Accra",
+    "couId": null
+  },
+  {
+    "citId": 1530,
+    "citName": "Crévin",
+    "couId": null
+  },
+  {
+    "citId": 1532,
+    "citName": "Xalapa",
+    "couId": null
+  },
+  {
+    "citId": 1533,
+    "citName": "Torun",
+    "couId": null
+  },
+  {
+    "citId": 1534,
+    "citName": "Banjul",
+    "couId": null
+  },
+  {
+    "citId": 1538,
+    "citName": "Edogawa-ku",
+    "couId": null
+  },
+  {
+    "citId": 1546,
+    "citName": "Almazora",
+    "couId": null
+  },
+  {
+    "citId": 1548,
+    "citName": "Bullsbrook",
+    "couId": null
+  },
+  {
+    "citId": 1550,
+    "citName": "Jávea",
+    "couId": null
+  },
+  {
+    "citId": 1551,
+    "citName": "Fortim",
+    "couId": null
+  },
+  {
+    "citId": 1555,
+    "citName": "Játiva",
+    "couId": null
+  },
+  {
+    "citId": 1560,
+    "citName": "Alacuás",
+    "couId": null
+  },
+  {
+    "citId": 1565,
+    "citName": "Limpung",
+    "couId": null
+  },
+  {
+    "citId": 1576,
+    "citName": "Surabaya",
+    "couId": null
+  },
+  {
+    "citId": 1578,
+    "citName": "Mandalay",
+    "couId": null
+  },
+  {
+    "citId": 1580,
+    "citName": "Palma de Mallorca",
+    "couId": null
+  },
+  {
+    "citId": 1582,
+    "citName": "Depok",
+    "couId": null
+  },
+  {
+    "citId": 1586,
+    "citName": "Ghent",
+    "couId": null
+  },
+  {
+    "citId": 1590,
+    "citName": "Apiay",
+    "couId": null
+  },
+  {
+    "citId": 1596,
+    "citName": "Tuxtla Gutiérrez",
+    "couId": null
+  },
+  {
+    "citId": 1603,
+    "citName": "Castelló de la Ribera",
+    "couId": null
+  },
+  {
+    "citId": 1606,
+    "citName": "Arao-shi",
+    "couId": null
+  },
+  {
+    "citId": 1609,
+    "citName": "Hung Yen",
+    "couId": null
+  },
+  {
+    "citId": 1618,
+    "citName": "Karachi",
+    "couId": null
+  },
+  {
+    "citId": 1623,
+    "citName": "Akwanga",
+    "couId": null
+  },
+  {
+    "citId": 1625,
+    "citName": "Viladecáns",
+    "couId": null
+  },
+  {
+    "citId": 1628,
+    "citName": "Taguig",
+    "couId": null
+  },
+  {
+    "citId": 1632,
+    "citName": "Burjasot",
+    "couId": null
+  },
+  {
+    "citId": 1633,
+    "citName": "Vall de Uxó",
+    "couId": null
+  },
+  {
+    "citId": 1634,
+    "citName": "Assis Brasil",
+    "couId": null
+  },
+  {
+    "citId": 1635,
+    "citName": "Castellón de Rugat",
+    "couId": null
+  },
+  {
+    "citId": 1639,
+    "citName": "Alcácer",
+    "couId": null
+  },
+  {
+    "citId": 1642,
+    "citName": "Benaguacil",
+    "couId": null
+  },
+  {
+    "citId": 1646,
+    "citName": "Gandía",
+    "couId": null
+  },
+  {
+    "citId": 1650,
+    "citName": "Muro de Alcoy",
+    "couId": null
+  },
+  {
+    "citId": 1652,
+    "citName": "LLIRIA",
+    "couId": null
+  },
+  {
+    "citId": 1654,
+    "citName": "Puebla de Vallbona",
+    "couId": null
+  },
+  {
+    "citId": 1656,
+    "citName": "Almácera",
+    "couId": null
+  },
+  {
+    "citId": 1657,
+    "citName": "Cuart de Poblet",
+    "couId": null
+  },
+  {
+    "citId": 1661,
+    "citName": "Viella",
+    "couId": null
+  },
+  {
+    "citId": 1663,
+    "citName": "San Vicente del Raspeig",
+    "couId": null
+  },
+  {
+    "citId": 1670,
+    "citName": "Cotonou",
+    "couId": null
+  },
+  {
+    "citId": 1672,
+    "citName": "Izmir",
+    "couId": null
+  },
+  {
+    "citId": 1680,
+    "citName": "Vinaroz",
+    "couId": null
+  },
+  {
+    "citId": 1683,
+    "citName": "Alcazar de San Juan",
+    "couId": null
+  },
+  {
+    "citId": 1684,
+    "citName": "San Luis Potosí City",
+    "couId": null
+  },
+  {
+    "citId": 1686,
+    "citName": "Banska Stiavnica",
+    "couId": null
+  },
+  {
+    "citId": 1688,
+    "citName": "Abidjan",
+    "couId": null
+  },
+  {
+    "citId": 1689,
+    "citName": "Campello",
+    "couId": null
+  },
+  {
+    "citId": 1692,
+    "citName": "Golden Gates Estates",
+    "couId": null
+  },
+  {
+    "citId": 1704,
+    "citName": "Nová Dedina",
+    "couId": null
+  },
+  {
+    "citId": 1708,
+    "citName": "Picaña",
+    "couId": null
+  },
+  {
+    "citId": 1716,
+    "citName": "Camaceyes",
+    "couId": null
+  },
+  {
+    "citId": 1717,
+    "citName": "San Sebastian",
+    "couId": null
+  },
+  {
+    "citId": 1725,
+    "citName": "Oaxaca de Juárez",
+    "couId": null
+  },
+  {
+    "citId": 1727,
+    "citName": "Mayaguez",
+    "couId": null
+  },
+  {
+    "citId": 1735,
+    "citName": "El Marques",
+    "couId": null
+  },
+  {
+    "citId": 1736,
+    "citName": "Washington D.C.",
+    "couId": null
+  },
+  {
+    "citId": 1737,
+    "citName": "Frankfurt",
+    "couId": null
+  },
+  {
+    "citId": 1738,
+    "citName": "Plantaje",
+    "couId": null
+  },
+  {
+    "citId": 1740,
+    "citName": "Nuremberg",
+    "couId": null
+  },
+  {
+    "citId": 1743,
+    "citName": "Corregidora",
+    "couId": null
+  },
+  {
+    "citId": 1744,
+    "citName": "Bénin",
+    "couId": null
+  }
+]
